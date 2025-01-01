@@ -6163,3 +6163,89 @@ Content-Length: 249
 Content-Length: 105
 
 {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"553","jsonrpc":"2.0"}
+
+
+
+
+
+
+Started logging.
+
+>>>
+Content-Length: 3102
+
+{"jsonrpc":"2.0","id":"1","method":"initialize","params":{"processId":33772,"clientInfo":{"name":"vscode","version":"1.80.0"},"rootPath":"C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server3681391000\\build\\sketch","rootUri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3681391000/build/sketch","initializationOptions":{},"capabilities":{"workspace":{"applyEdit":true,"workspaceEdit":{"documentChanges":true,"resourceOperations":["create","rename","delete"],"failureHandling":"textOnlyTransactional"},"didChangeConfiguration":{"dynamicRegistration":true},"didChangeWatchedFiles":{"dynamicRegistration":true},"symbol":{"dynamicRegistration":true,"symbolKind":{"valueSet":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]}},"executeCommand":{"dynamicRegistration":true},"workspaceFolders":true,"configuration":true},"textDocument":{"synchronization":{"dynamicRegistration":true,"willSave":true,"willSaveWaitUntil":true,"didSave":true},"completion":{"dynamicRegistration":true,"completionItem":{"snippetSupport":true,"commitCharactersSupport":true,"documentationFormat":["markdown","plaintext"],"deprecatedSupport":true,"preselectSupport":true,"tagSupport":{"valueSet":[1]}},"completionItemKind":{"valueSet":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25]},"contextSupport":true},"hover":{"dynamicRegistration":true,"contentFormat":["markdown","plaintext"]},"signatureHelp":{"dynamicRegistration":true,"signatureInformation":{"documentationFormat":["markdown","plaintext"],"parameterInformation":{"labelOffsetSupport":true}},"contextSupport":true},"declaration":{"dynamicRegistration":true,"linkSupport":true},"definition":{"dynamicRegistration":true,"linkSupport":true},"typeDefinition":{"dynamicRegistration":true,"linkSupport":true},"implementation":{"dynamicRegistration":true,"linkSupport":true},"references":{"dynamicRegistration":true},"documentHighlight":{"dynamicRegistration":true},"documentSymbol":{"dynamicRegistration":true,"symbolKind":{"valueSet":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]},"hierarchicalDocumentSymbolSupport":true},"codeAction":{"dynamicRegistration":true,"codeActionLiteralSupport":{"codeActionKind":{"valueSet":["","quickfix","refactor","refactor.extract","refactor.inline","refactor.rewrite","source","source.organizeImports"]}},"isPreferredSupport":true},"codeLens":{"dynamicRegistration":true},"documentLink":{"dynamicRegistration":true,"tooltipSupport":true},"colorProvider":{"dynamicRegistration":true},"formatting":{"dynamicRegistration":true},"rangeFormatting":{"dynamicRegistration":true},"onTypeFormatting":{"dynamicRegistration":true},"rename":{"dynamicRegistration":true,"prepareSupport":true},"publishDiagnostics":{"relatedInformation":true,"tagSupport":{"valueSet":[1,2]}},"foldingRange":{"dynamicRegistration":true,"rangeLimit":5000,"lineFoldingOnly":true},"selectionRange":{"dynamicRegistration":true}},"window":{"workDoneProgress":true}},"trace":"off","workspaceFolders":[{"uri":"file:///d%3A/Arduino_GitHub/Termometer","name":"Termometer"}]}}
+<<<
+Content-Length: 1905
+
+{"id":"1","jsonrpc":"2.0","result":{"capabilities":{"astProvider":true,"callHierarchyProvider":true,"clangdInlayHintsProvider":true,"codeActionProvider":{"codeActionKinds":["quickfix","refactor","info"]},"compilationDatabase":{"automaticReload":true},"completionProvider":{"allCommitCharacters":[" ","\t","(",")","[","]","{","}","<",">",":",";",",","+","-","/","*","%","^","&","#","?",".","=","\"","'","|"],"resolveProvider":false,"triggerCharacters":[".","<",">",":","\"","/","*"]},"declarationProvider":true,"definitionProvider":true,"documentFormattingProvider":true,"documentHighlightProvider":true,"documentLinkProvider":{"resolveProvider":false},"documentOnTypeFormattingProvider":{"firstTriggerCharacter":"\n","moreTriggerCharacter":[]},"documentRangeFormattingProvider":true,"documentSymbolProvider":true,"executeCommandProvider":{"commands":["clangd.applyFix","clangd.applyTweak"]},"hoverProvider":true,"implementationProvider":true,"memoryUsageProvider":true,"referencesProvider":true,"renameProvider":{"prepareProvider":true},"selectionRangeProvider":true,"semanticTokensProvider":{"full":{"delta":true},"legend":{"tokenModifiers":["declaration","deprecated","deduced","readonly","static","abstract","virtual","dependentName","defaultLibrary","usedAsMutableReference","functionScope","classScope","fileScope","globalScope"],"tokenTypes":["variable","variable","parameter","function","method","function","property","variable","class","interface","enum","enumMember","type","type","unknown","namespace","typeParameter","concept","type","macro","comment"]},"range":false},"signatureHelpProvider":{"triggerCharacters":["(",")","{","}","<",">",","]},"textDocumentSync":{"change":2,"openClose":true,"save":true},"typeDefinitionProvider":true,"typeHierarchyProvider":true,"workspaceSymbolProvider":true},"serverInfo":{"name":"clangd","version":"clangd version 14.0.0 windows x86_64-pc-windows-msvc"}}}
+>>>
+Content-Length: 52
+
+{"jsonrpc":"2.0","method":"initialized","params":{}}Content-Length: 1594
+
+{"jsonrpc":"2.0","method":"textDocument/didOpen","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3681391000/build/sketch/Termometer.ino.cpp","languageId":"cpp","version":1,"text":"#include \u003cArduino.h\u003e\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n#include \u003cOneWire.h\u003e\n#include \u003cDallasTemperature.h\u003e\n\n//https://роботехника18.рф/%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be/\n//\n// Библиотека DallasTemperature может сделать это все за вас!\n// http://milesburton.com/Dallas_Temperature_Control_Library\n\nOneWire oneWire(10);  // порт подключения датчика\nDallasTemperature ds(\u0026oneWire);\n\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 22 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n  Serial.begin(9600);   // инициализация монитора порта\n  ds.begin();                 // инициализация датчика ds18b20\n}\n\nvoid loop() {\n  ds.requestTemperatures();                       // считываем температуру с датчика\n  \n  Serial.print(ds.getTempCByIndex(0));   // выводим температуру на монитор\n  Serial.println(\"C\");\n}\n"}}}Content-Length: 319
+
+{"jsonrpc":"2.0","id":"2","method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3681391000/build/sketch/Termometer.ino.cpp"},"range":{"start":{"line":33,"character":1},"end":{"line":33,"character":1}},"context":{"diagnostics":[]}}}
+<<<
+Content-Length: 193
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[],"uri":"file:///c:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3681391000/build/.clangd"}}Content-Length: 193
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[],"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3681391000/build/.clangd"}}Content-Length: 111
+
+{"id":0,"jsonrpc":"2.0","method":"window/workDoneProgress/create","params":{"token":"backgroundIndexProgress"}}
+>>>
+Content-Length: 38
+
+{"jsonrpc":"2.0","id":0,"result":null}
+<<<
+Content-Length: 143
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"begin","percentage":0,"title":"indexing"}}}Content-Length: 141
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"0/1","percentage":0}}}Content-Length: 141
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"0/2","percentage":0}}}Content-Length: 142
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"1/2","percentage":50}}}Content-Length: 142
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"1/2","percentage":50}}}Content-Length: 699
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[{"code":"pp_file_not_found","message":"In included file: 'stddef.h' file not found","range":{"end":{"character":10,"line":0},"start":{"character":9,"line":0}},"relatedInformation":[{"location":{"range":{"end":{"character":19,"line":47},"start":{"character":9,"line":47}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include/stdlib.h"},"message":"Error occurred here"}],"severity":1,"source":"clang"}],"uri":"file:///c:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3681391000/build/sketch/Termometer.ino.cpp","version":1}}Content-Length: 38
+
+{"id":"2","jsonrpc":"2.0","result":[]}
+>>>
+Content-Length: 218
+
+{"jsonrpc":"2.0","id":"3","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3681391000/build/sketch/Termometer.ino.cpp"}}}
+<<<
+Content-Length: 1295
+
+{"id":"3","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"oneWire","range":{"end":{"character":19,"line":15},"start":{"character":0,"line":15}},"selectionRange":{"end":{"character":15,"line":15},"start":{"character":8,"line":15}}},{"detail":"DallasTemperature","kind":13,"name":"ds","range":{"end":{"character":30,"line":16},"start":{"character":0,"line":16}},"selectionRange":{"end":{"character":20,"line":16},"start":{"character":18,"line":16}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":12,"line":19},"start":{"character":0,"line":19}},"selectionRange":{"end":{"character":10,"line":19},"start":{"character":5,"line":19}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":11,"line":21},"start":{"character":0,"line":21}},"selectionRange":{"end":{"character":9,"line":21},"start":{"character":5,"line":21}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":26},"start":{"character":0,"line":23}},"selectionRange":{"end":{"character":10,"line":23},"start":{"character":5,"line":23}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":33},"start":{"character":0,"line":28}},"selectionRange":{"end":{"character":9,"line":28},"start":{"character":5,"line":28}}}]}Content-Length: 107
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"end"}}}
+>>>
+Content-Length: 202
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3681391000/build/sketch/Termometer.ino.cpp"}}}Content-Length: 1598
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3681391000/build/sketch/Termometer.ino.cpp","version":2},"contentChanges":[{"text":"#include \u003cArduino.h\u003e\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n#include \u003cOneWire.h\u003e\n#include \u003cDallasTemperature.h\u003e\n\n//https://роботехника18.рф/%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be/\n//\n// Библиотека DallasTemperature может сделать это все за вас!\n// http://milesburton.com/Dallas_Temperature_Control_Library\n\nOneWire oneWire(10);  // порт подключения датчика\nDallasTemperature ds(\u0026oneWire);\n\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 22 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n  Serial.begin(9600);   // инициализация монитора порта\n  ds.begin();                 // инициализация датчика ds18b20\n}\n\nvoid loop() {\n  ds.requestTemperatures();                       // считываем температуру с датчика\n  \n  Serial.print(ds.getTempCByIndex(0));   // выводим температуру на монитор\n  Serial.println(\"C\");\n}\n"}]}}
+<<<
+Content-Length: 111
+
+{"id":1,"jsonrpc":"2.0","method":"window/workDoneProgress/create","params":{"token":"backgroundIndexProgress"}}
+>>>
+Content-Length: 38
+
+{"jsonrpc":"2.0","id":1,"result":null}
+<<<
+Content-Length: 143
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"begin","percentage":0,"title":"indexing"}}}Content-Length: 141
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"0/1","percentage":0}}}Content-Length: 141
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"0/1","percentage":0}}}Content-Length: 107
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"end"}}}
