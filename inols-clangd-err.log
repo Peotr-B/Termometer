@@ -6736,3 +6736,918 @@ V[20:07:16.676] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\
 I[20:07:16.677] --> reply:textDocument/hover("451") 1 ms
 V[20:07:16.677] >>> {"id":"451","jsonrpc":"2.0","result":null}
 
+V[20:09:46.809] <<< {"id":"452","jsonrpc":"2.0","method":"textDocument/documentHighlight","params":{"position":{"character":10,"line":5},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:09:46.809] <-- textDocument/documentHighlight("452")
+V[20:09:46.811] ASTWorker running Highlights on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:09:46.811] --> reply:textDocument/documentHighlight("452") 1 ms
+V[20:09:46.811] >>> {"id":"452","jsonrpc":"2.0","result":[]}
+
+V[20:09:47.048] <<< {"id":"453","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":10,"line":5},"start":{"character":10,"line":5}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:09:47.048] <-- textDocument/codeAction("453")
+V[20:09:47.048] ASTWorker running EnumerateTweaks on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:09:47.048] --> reply:textDocument/codeAction("453") 0 ms
+V[20:09:47.048] >>> {"id":"453","jsonrpc":"2.0","result":[]}
+
+V[20:09:49.037] <<< {"id":"454","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":30,"line":8},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:09:49.037] <-- textDocument/hover("454")
+V[20:09:49.037] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:09:49.039] --> reply:textDocument/hover("454") 1 ms
+V[20:09:49.039] >>> {"id":"454","jsonrpc":"2.0","result":{"contents":{"kind":"markdown","value":"### `DallasTemperature.h`  \n\n---\n```\nC:\\Users\\рс\\Documents\\Arduino\\libraries\\DallasTemperature\\DallasTemperature.h\n```"}}}
+
+V[20:11:11.435] <<< {"id":"455","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":20,"line":7},"start":{"character":20,"line":7}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:11:11.435] <-- textDocument/codeAction("455")
+V[20:11:11.438] ASTWorker running EnumerateTweaks on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:11:11.438] --> reply:textDocument/codeAction("455") 2 ms
+V[20:11:11.438] >>> {"id":"455","jsonrpc":"2.0","result":[]}
+
+V[20:11:13.198] <<< {"id":"456","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":55,"line":12},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:11:13.198] <-- textDocument/hover("456")
+V[20:11:13.198] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:11:13.200] --> reply:textDocument/hover("456") 1 ms
+V[20:11:13.200] >>> {"id":"456","jsonrpc":"2.0","result":null}
+
+V[20:12:09.325] <<< {"id":"457","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":29,"line":12},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:12:09.325] <-- textDocument/hover("457")
+V[20:12:09.327] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:12:09.329] --> reply:textDocument/hover("457") 3 ms
+V[20:12:09.329] >>> {"id":"457","jsonrpc":"2.0","result":null}
+
+V[20:12:32.806] <<< {"id":"458","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":16,"line":12},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:12:32.806] <-- textDocument/hover("458")
+V[20:12:32.808] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:12:32.809] --> reply:textDocument/hover("458") 3 ms
+V[20:12:32.809] >>> {"id":"458","jsonrpc":"2.0","result":null}
+
+V[20:12:32.964] <<< {"id":"459","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":17,"line":12},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:12:32.964] <-- textDocument/hover("459")
+V[20:12:32.964] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:12:32.965] --> reply:textDocument/hover("459") 1 ms
+V[20:12:32.966] >>> {"id":"459","jsonrpc":"2.0","result":null}
+
+V[20:12:36.032] <<< {"id":"460","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":21,"line":17},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:12:36.032] <-- textDocument/hover("460")
+V[20:12:36.032] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:12:36.034] --> reply:textDocument/hover("460") 2 ms
+V[20:12:36.034] >>> {"id":"460","jsonrpc":"2.0","result":null}
+
+V[20:12:39.432] <<< {"id":"461","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":26,"line":36},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:12:39.432] <-- textDocument/hover("461")
+V[20:12:39.434] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:12:39.436] --> reply:textDocument/hover("461") 3 ms
+V[20:12:39.436] >>> {"id":"461","jsonrpc":"2.0","result":{"contents":{"kind":"markdown","value":"### variable `fahrenheit`  \n\n---\nType: `float`  \n\n---\n```cpp\n// In loop\nfloat fahrenheit\n```"},"range":{"end":{"character":27,"line":36},"start":{"character":17,"line":36}}}}
+
+V[20:12:40.077] <<< {"id":"462","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":20,"line":49},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:12:40.077] <-- textDocument/hover("462")
+V[20:12:40.077] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:12:40.079] --> reply:textDocument/hover("462") 2 ms
+V[20:12:40.079] >>> {"id":"462","jsonrpc":"2.0","result":null}
+
+V[20:12:42.728] <<< {"id":"463","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":3,"line":50},"start":{"character":3,"line":50}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:12:42.728] <-- textDocument/codeAction("463")
+V[20:12:42.728] ASTWorker running EnumerateTweaks on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:12:42.728] --> reply:textDocument/codeAction("463") 0 ms
+V[20:12:42.728] >>> {"id":"463","jsonrpc":"2.0","result":[]}
+
+V[20:12:46.241] <<< {"id":"464","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":30,"line":65},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:12:46.241] <-- textDocument/hover("464")
+V[20:12:46.243] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:12:46.244] --> reply:textDocument/hover("464") 3 ms
+V[20:12:46.245] >>> {"id":"464","jsonrpc":"2.0","result":null}
+
+V[20:13:00.040] <<< {"id":"465","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":37,"line":109},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:00.040] <-- textDocument/hover("465")
+V[20:13:00.042] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:00.044] --> reply:textDocument/hover("465") 4 ms
+V[20:13:00.044] >>> {"id":"465","jsonrpc":"2.0","result":null}
+
+V[20:13:00.368] <<< {"id":"466","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":36,"line":114},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:00.368] <-- textDocument/hover("466")
+V[20:13:00.368] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:00.370] --> reply:textDocument/hover("466") 1 ms
+V[20:13:00.370] >>> {"id":"466","jsonrpc":"2.0","result":null}
+
+V[20:13:01.245] <<< {"id":"467","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":45,"line":114},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:01.245] <-- textDocument/hover("467")
+V[20:13:01.245] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:01.247] --> reply:textDocument/hover("467") 2 ms
+V[20:13:01.247] >>> {"id":"467","jsonrpc":"2.0","result":null}
+
+V[20:13:02.135] <<< {"id":"468","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":43,"line":116},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:02.135] <-- textDocument/hover("468")
+V[20:13:02.135] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:02.137] --> reply:textDocument/hover("468") 2 ms
+V[20:13:02.137] >>> {"id":"468","jsonrpc":"2.0","result":null}
+
+V[20:13:02.834] <<< {"id":"469","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":47,"line":116},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:02.834] <-- textDocument/hover("469")
+V[20:13:02.834] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:02.836] --> reply:textDocument/hover("469") 2 ms
+V[20:13:02.836] >>> {"id":"469","jsonrpc":"2.0","result":null}
+
+V[20:13:03.397] <<< {"id":"470","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":27,"line":109},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:03.397] <-- textDocument/hover("470")
+V[20:13:03.397] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:03.399] --> reply:textDocument/hover("470") 1 ms
+V[20:13:03.399] >>> {"id":"470","jsonrpc":"2.0","result":null}
+
+V[20:13:04.408] <<< {"id":"471","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":28,"line":109},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:04.408] <-- textDocument/hover("471")
+V[20:13:04.408] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:04.410] --> reply:textDocument/hover("471") 1 ms
+V[20:13:04.410] >>> {"id":"471","jsonrpc":"2.0","result":null}
+
+V[20:13:07.742] <<< {"id":"472","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":28,"line":109},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:07.742] <-- textDocument/hover("472")
+V[20:13:07.744] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:07.745] --> reply:textDocument/hover("472") 3 ms
+V[20:13:07.745] >>> {"id":"472","jsonrpc":"2.0","result":null}
+
+V[20:13:08.257] <<< {"id":"473","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":22,"line":113},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:08.257] <-- textDocument/hover("473")
+V[20:13:08.257] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:08.259] --> reply:textDocument/hover("473") 1 ms
+V[20:13:08.259] >>> {"id":"473","jsonrpc":"2.0","result":null}
+
+V[20:13:08.570] <<< {"id":"474","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":24,"line":113},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:08.570] <-- textDocument/hover("474")
+V[20:13:08.570] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:08.572] --> reply:textDocument/hover("474") 1 ms
+V[20:13:08.572] >>> {"id":"474","jsonrpc":"2.0","result":null}
+
+V[20:13:39.943] <<< {"id":"475","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":11,"line":43},"start":{"character":11,"line":43}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:39.943] <-- textDocument/codeAction("475")
+V[20:13:39.950] ASTWorker running EnumerateTweaks on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:39.950] --> reply:textDocument/codeAction("475") 6 ms
+V[20:13:39.950] >>> {"id":"475","jsonrpc":"2.0","result":[]}
+
+V[20:13:51.108] <<< {"id":"476","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":35,"line":73},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:51.108] <-- textDocument/hover("476")
+V[20:13:51.111] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:51.112] --> reply:textDocument/hover("476") 4 ms
+V[20:13:51.112] >>> {"id":"476","jsonrpc":"2.0","result":null}
+
+V[20:13:55.535] <<< {"id":"477","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":37,"line":115},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:13:55.535] <-- textDocument/hover("477")
+V[20:13:55.535] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:13:55.537] --> reply:textDocument/hover("477") 2 ms
+V[20:13:55.538] >>> {"id":"477","jsonrpc":"2.0","result":{"contents":{"kind":"markdown","value":"### variable `data`  \n\n---\nType: `byte[12]`  \n\n---\n```cpp\n// In loop\nbyte data[12]\n```"},"range":{"end":{"character":38,"line":115},"start":{"character":34,"line":115}}}}
+
+V[20:14:17.520] <<< {"id":"478","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":18,"line":107},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:14:17.520] <-- textDocument/hover("478")
+V[20:14:17.522] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:14:17.524] --> reply:textDocument/hover("478") 3 ms
+V[20:14:17.524] >>> {"id":"478","jsonrpc":"2.0","result":null}
+
+V[20:14:18.051] <<< {"id":"479","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":18,"line":107},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:14:18.052] <-- textDocument/hover("479")
+V[20:14:18.052] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:14:18.054] --> reply:textDocument/hover("479") 2 ms
+V[20:14:18.054] >>> {"id":"479","jsonrpc":"2.0","result":null}
+
+V[20:14:18.817] <<< {"id":"480","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":17,"line":107},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:14:18.817] <-- textDocument/hover("480")
+V[20:14:18.817] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:14:18.819] --> reply:textDocument/hover("480") 1 ms
+V[20:14:18.819] >>> {"id":"480","jsonrpc":"2.0","result":null}
+
+V[20:14:28.147] <<< {"id":"481","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":15,"line":27},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:14:28.147] <-- textDocument/hover("481")
+V[20:14:28.149] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:14:28.150] --> reply:textDocument/hover("481") 3 ms
+V[20:14:28.150] >>> {"id":"481","jsonrpc":"2.0","result":null}
+
+V[20:15:15.464] <<< {"id":"482","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":17,"line":30},"start":{"character":17,"line":30}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:15:15.464] <-- textDocument/codeAction("482")
+V[20:15:15.466] ASTWorker running EnumerateTweaks on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:15:15.466] --> reply:textDocument/codeAction("482") 2 ms
+V[20:15:15.466] >>> {"id":"482","jsonrpc":"2.0","result":[]}
+
+V[20:15:22.890] <<< {"id":"483","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":46,"line":89},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:15:22.890] <-- textDocument/hover("483")
+V[20:15:22.891] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:15:22.893] --> reply:textDocument/hover("483") 3 ms
+V[20:15:22.893] >>> {"id":"483","jsonrpc":"2.0","result":null}
+
+V[20:15:46.510] <<< {"id":"484","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":38,"line":110},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:15:46.510] <-- textDocument/hover("484")
+V[20:15:46.512] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:15:46.513] --> reply:textDocument/hover("484") 3 ms
+V[20:15:46.513] >>> {"id":"484","jsonrpc":"2.0","result":null}
+
+V[20:15:46.817] <<< {"id":"485","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":38,"line":109},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:15:46.817] <-- textDocument/hover("485")
+V[20:15:46.818] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:15:46.820] --> reply:textDocument/hover("485") 2 ms
+V[20:15:46.820] >>> {"id":"485","jsonrpc":"2.0","result":null}
+
+V[20:15:49.741] <<< {"id":"486","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":44,"line":104},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:15:49.741] <-- textDocument/hover("486")
+V[20:15:49.741] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:15:49.743] --> reply:textDocument/hover("486") 1 ms
+V[20:15:49.743] >>> {"id":"486","jsonrpc":"2.0","result":null}
+
+V[20:15:51.715] <<< {"id":"487","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":45,"line":101},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:15:51.715] <-- textDocument/hover("487")
+V[20:15:51.717] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:15:51.719] --> reply:textDocument/hover("487") 4 ms
+V[20:15:51.719] >>> {"id":"487","jsonrpc":"2.0","result":null}
+
+V[20:16:23.994] <<< {"id":"488","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":46,"line":81},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:16:23.994] <-- textDocument/hover("488")
+V[20:16:23.996] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:16:23.997] --> reply:textDocument/hover("488") 3 ms
+V[20:16:23.997] >>> {"id":"488","jsonrpc":"2.0","result":null}
+
+V[20:17:20.092] <<< {"id":"489","jsonrpc":"2.0","method":"textDocument/documentHighlight","params":{"position":{"character":16,"line":98},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:20.093] <-- textDocument/documentHighlight("489")
+V[20:17:20.096] ASTWorker running Highlights on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:20.096] --> reply:textDocument/documentHighlight("489") 3 ms
+V[20:17:20.096] >>> {"id":"489","jsonrpc":"2.0","result":[]}
+
+V[20:17:20.331] <<< {"id":"490","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":16,"line":98},"start":{"character":16,"line":98}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:20.331] <-- textDocument/codeAction("490")
+V[20:17:20.331] ASTWorker running EnumerateTweaks on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:20.331] --> reply:textDocument/codeAction("490") 0 ms
+V[20:17:20.331] >>> {"id":"490","jsonrpc":"2.0","result":[]}
+
+V[20:17:33.480] <<< {"id":"491","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":29,"line":14},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:33.480] <-- textDocument/hover("491")
+V[20:17:33.482] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:33.483] --> reply:textDocument/hover("491") 3 ms
+V[20:17:33.483] >>> {"id":"491","jsonrpc":"2.0","result":null}
+
+V[20:17:35.759] <<< {"id":"492","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":35,"line":17},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:35.759] <-- textDocument/hover("492")
+V[20:17:35.759] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:35.761] --> reply:textDocument/hover("492") 1 ms
+V[20:17:35.761] >>> {"id":"492","jsonrpc":"2.0","result":null}
+
+V[20:17:37.037] <<< {"id":"493","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":29,"line":19},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:37.037] <-- textDocument/hover("493")
+V[20:17:37.038] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:37.039] --> reply:textDocument/hover("493") 1 ms
+V[20:17:37.039] >>> {"id":"493","jsonrpc":"2.0","result":null}
+
+V[20:17:37.347] <<< {"id":"494","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":19,"line":19},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:37.347] <-- textDocument/hover("494")
+V[20:17:37.347] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:37.349] --> reply:textDocument/hover("494") 2 ms
+V[20:17:37.349] >>> {"id":"494","jsonrpc":"2.0","result":null}
+
+V[20:17:46.085] <<< {"id":"495","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":14,"line":14},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:46.085] <-- textDocument/hover("495")
+V[20:17:46.087] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:46.089] --> reply:textDocument/hover("495") 3 ms
+V[20:17:46.089] >>> {"id":"495","jsonrpc":"2.0","result":null}
+
+V[20:17:46.554] <<< {"id":"496","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":16,"line":12},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:46.554] <-- textDocument/hover("496")
+V[20:17:46.554] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:46.556] --> reply:textDocument/hover("496") 1 ms
+V[20:17:46.556] >>> {"id":"496","jsonrpc":"2.0","result":null}
+
+V[20:17:46.633] <<< {"id":"497","jsonrpc":"2.0","method":"textDocument/documentHighlight","params":{"position":{"character":17,"line":12},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:46.633] <-- textDocument/documentHighlight("497")
+V[20:17:46.633] ASTWorker running Highlights on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:46.633] --> reply:textDocument/documentHighlight("497") 0 ms
+V[20:17:46.633] >>> {"id":"497","jsonrpc":"2.0","result":[]}
+
+V[20:17:46.866] <<< {"id":"498","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":17,"line":12},"start":{"character":17,"line":12}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:46.866] <-- textDocument/codeAction("498")
+V[20:17:46.866] ASTWorker running EnumerateTweaks on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:46.867] --> reply:textDocument/codeAction("498") 0 ms
+V[20:17:46.867] >>> {"id":"498","jsonrpc":"2.0","result":[]}
+
+V[20:17:47.538] <<< {"id":"499","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":3,"line":10},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:47.539] <-- textDocument/hover("499")
+V[20:17:47.539] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:47.540] --> reply:textDocument/hover("499") 1 ms
+V[20:17:47.540] >>> {"id":"499","jsonrpc":"2.0","result":null}
+
+V[20:17:47.914] <<< {"id":"500","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":2,"line":10},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:47.914] <-- textDocument/hover("500")
+V[20:17:47.914] ASTWorker running Hover on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:47.918] --> reply:textDocument/hover("500") 4 ms
+V[20:17:47.919] >>> {"id":"500","jsonrpc":"2.0","result":null}
+
+V[20:17:48.456] <<< {"id":"501","jsonrpc":"2.0","method":"textDocument/documentHighlight","params":{"position":{"character":2,"line":10},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:48.456] <-- textDocument/documentHighlight("501")
+V[20:17:48.456] ASTWorker running Highlights on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:48.456] --> reply:textDocument/documentHighlight("501") 0 ms
+V[20:17:48.456] >>> {"id":"501","jsonrpc":"2.0","result":[]}
+
+V[20:17:49.187] <<< {"id":"502","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":2,"line":10},"start":{"character":30,"line":8}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:49.187] <-- textDocument/codeAction("502")
+V[20:17:49.187] ASTWorker running EnumerateTweaks on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:49.187] --> reply:textDocument/codeAction("502") 0 ms
+V[20:17:49.187] >>> {"id":"502","jsonrpc":"2.0","result":[]}
+
+V[20:17:49.768] <<< {"id":"503","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":0,"line":11},"start":{"character":2,"line":10}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:49.768] <-- textDocument/codeAction("503")
+V[20:17:49.768] ASTWorker running EnumerateTweaks on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:49.768] --> reply:textDocument/codeAction("503") 0 ms
+V[20:17:49.768] >>> {"id":"503","jsonrpc":"2.0","result":[]}
+
+V[20:17:52.068] <<< {"id":"504","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:52.068] <-- textDocument/documentSymbol("504")
+V[20:17:52.070] ASTWorker running DocumentSymbols on version 115 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:52.071] --> reply:textDocument/documentSymbol("504") 2 ms
+V[20:17:52.071] >>> {"id":"504","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"ds","range":{"end":{"character":15,"line":19},"start":{"character":0,"line":19}},"selectionRange":{"end":{"character":11,"line":19},"start":{"character":9,"line":19}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":16,"line":22},"start":{"character":0,"line":22}},"selectionRange":{"end":{"character":10,"line":22},"start":{"character":5,"line":22}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":15,"line":24},"start":{"character":0,"line":24}},"selectionRange":{"end":{"character":9,"line":24},"start":{"character":5,"line":24}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":28},"start":{"character":0,"line":26}},"selectionRange":{"end":{"character":10,"line":26},"start":{"character":5,"line":26}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":132},"start":{"character":0,"line":30}},"selectionRange":{"end":{"character":9,"line":30},"start":{"character":5,"line":30}}}]}
+
+V[20:17:52.082] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":0,"line":11},"start":{"character":2,"line":10}},"text":""}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":116}}}
+
+I[20:17:52.082] <-- textDocument/didChange
+V[20:17:52.083] <<< {"id":"505","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:52.083] <-- textDocument/documentSymbol("505")
+I[20:17:52.085] ASTWorker building file c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 116 with command 
+[D:\Arduino_GitHub\Termometer]
+"C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin\\avr-g++.exe" --target=avr --driver-mode=g++ -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR -DUSB_VID=0x2341 -DUSB_PID=0x8036 "-DUSB_MANUFACTURER=\"Unknown\"" "-DUSB_PRODUCT=\"Arduino Leonardo\"" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -o "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -ferror-limit=0 "-resource-dir=c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -- "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:17:52.098] Driver produced command: cc1 -cc1 -triple avr -fsyntax-only -flto=full -flto-unit -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name Termometer.ino.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -fno-use-init-array -fno-use-cxa-atexit -target-cpu atmega32u4 -mllvm -treat-scalable-fixed-error-as-warning -debug-info-kind=constructor -dwarf-version=5 -debugger-tuning=gdb -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=D:\\Arduino_GitHub\\Termometer" -resource-dir "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -dependency-file "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.d" -MT "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -D F_CPU=16000000L -D ARDUINO=10607 -D ARDUINO_AVR_LEONARDO -D ARDUINO_ARCH_AVR -D USB_VID=0x2341 -D USB_PID=0x8036 -D "USB_MANUFACTURER=\"Unknown\"" -D "USB_PRODUCT=\"Arduino Leonardo\"" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -internal-isystem "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin/../lib/gcc/avr/7.3.0/../../../../avr/include" -Os -Wno-error=narrowing -w -std=gnu++11 -fdeprecated-macro "-fdebug-compilation-dir=D:\\Arduino_GitHub\\Termometer" -ferror-limit 0 -fgnuc-version=4.2.1 -fno-threadsafe-statics -vectorize-loops -vectorize-slp -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -x c++ "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:17:52.102] Reusing preamble version 112 for version 116 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:17:52.112] ASTWorker rebuilding evicted AST to run DocumentSymbols: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 116
+V[20:17:52.147] ASTWorker running DocumentSymbols on version 116 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:52.148] --> reply:textDocument/documentSymbol("505") 64 ms
+V[20:17:52.148] >>> {"id":"505","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"ds","range":{"end":{"character":15,"line":18},"start":{"character":0,"line":18}},"selectionRange":{"end":{"character":11,"line":18},"start":{"character":9,"line":18}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":16,"line":21},"start":{"character":0,"line":21}},"selectionRange":{"end":{"character":10,"line":21},"start":{"character":5,"line":21}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":15,"line":23},"start":{"character":0,"line":23}},"selectionRange":{"end":{"character":9,"line":23},"start":{"character":5,"line":23}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":27},"start":{"character":0,"line":25}},"selectionRange":{"end":{"character":10,"line":25},"start":{"character":5,"line":25}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":131},"start":{"character":0,"line":29}},"selectionRange":{"end":{"character":9,"line":29},"start":{"character":5,"line":29}}}]}
+
+I[20:17:52.148] Skipping rebuild of the AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp, inputs are the same.
+V[20:17:52.151] indexed file AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 116:
+  symbol slab: 3 symbols, 4920 bytes
+  ref slab: 13 symbols, 38 refs, 4544 bytes
+  relations slab: 0 relations, 24 bytes
+V[20:17:52.151] Build dynamic index for main-file symbols with estimated memory usage of 13936 bytes
+I[20:17:52.151] --> textDocument/publishDiagnostics
+V[20:17:52.151] >>> {"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[{"code":"pp_file_not_found","message":"In included file: 'stddef.h' file not found","range":{"end":{"character":10,"line":0},"start":{"character":9,"line":0}},"relatedInformation":[{"location":{"range":{"end":{"character":19,"line":47},"start":{"character":9,"line":47}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include/stdlib.h"},"message":"Error occurred here"}],"severity":1,"source":"clang"}],"uri":"file:///c:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":116}}
+
+V[20:17:52.305] <<< {"id":"506","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":2,"line":10},"start":{"character":2,"line":10}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:52.305] <-- textDocument/codeAction("506")
+V[20:17:52.305] ASTWorker running EnumerateTweaks on version 116 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:52.305] --> reply:textDocument/codeAction("506") 0 ms
+V[20:17:52.305] >>> {"id":"506","jsonrpc":"2.0","result":[]}
+
+V[20:17:53.483] <<< {"id":"507","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:53.483] <-- textDocument/documentSymbol("507")
+V[20:17:53.484] ASTWorker running DocumentSymbols on version 116 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:53.484] --> reply:textDocument/documentSymbol("507") 0 ms
+V[20:17:53.484] >>> {"id":"507","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"ds","range":{"end":{"character":15,"line":18},"start":{"character":0,"line":18}},"selectionRange":{"end":{"character":11,"line":18},"start":{"character":9,"line":18}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":16,"line":21},"start":{"character":0,"line":21}},"selectionRange":{"end":{"character":10,"line":21},"start":{"character":5,"line":21}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":15,"line":23},"start":{"character":0,"line":23}},"selectionRange":{"end":{"character":9,"line":23},"start":{"character":5,"line":23}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":27},"start":{"character":0,"line":25}},"selectionRange":{"end":{"character":10,"line":25},"start":{"character":5,"line":25}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":131},"start":{"character":0,"line":29}},"selectionRange":{"end":{"character":9,"line":29},"start":{"character":5,"line":29}}}]}
+
+V[20:17:53.499] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":2,"line":10},"start":{"character":2,"line":10}},"text":"https://роботехника18.рф/%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be/"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":117}}}
+
+I[20:17:53.499] <-- textDocument/didChange
+V[20:17:53.500] <<< {"id":"508","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:53.500] <-- textDocument/documentSymbol("508")
+I[20:17:53.501] ASTWorker building file c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 117 with command 
+[D:\Arduino_GitHub\Termometer]
+"C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin\\avr-g++.exe" --target=avr --driver-mode=g++ -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR -DUSB_VID=0x2341 -DUSB_PID=0x8036 "-DUSB_MANUFACTURER=\"Unknown\"" "-DUSB_PRODUCT=\"Arduino Leonardo\"" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -o "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -ferror-limit=0 "-resource-dir=c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -- "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:17:53.517] Driver produced command: cc1 -cc1 -triple avr -fsyntax-only -flto=full -flto-unit -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name Termometer.ino.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -fno-use-init-array -fno-use-cxa-atexit -target-cpu atmega32u4 -mllvm -treat-scalable-fixed-error-as-warning -debug-info-kind=constructor -dwarf-version=5 -debugger-tuning=gdb -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=D:\\Arduino_GitHub\\Termometer" -resource-dir "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -dependency-file "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.d" -MT "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -D F_CPU=16000000L -D ARDUINO=10607 -D ARDUINO_AVR_LEONARDO -D ARDUINO_ARCH_AVR -D USB_VID=0x2341 -D USB_PID=0x8036 -D "USB_MANUFACTURER=\"Unknown\"" -D "USB_PRODUCT=\"Arduino Leonardo\"" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -internal-isystem "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin/../lib/gcc/avr/7.3.0/../../../../avr/include" -Os -Wno-error=narrowing -w -std=gnu++11 -fdeprecated-macro "-fdebug-compilation-dir=D:\\Arduino_GitHub\\Termometer" -ferror-limit 0 -fgnuc-version=4.2.1 -fno-threadsafe-statics -vectorize-loops -vectorize-slp -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -x c++ "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:17:53.522] Reusing preamble version 112 for version 117 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:17:53.533] ASTWorker rebuilding evicted AST to run DocumentSymbols: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 117
+V[20:17:53.571] ASTWorker running DocumentSymbols on version 117 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:53.571] --> reply:textDocument/documentSymbol("508") 70 ms
+V[20:17:53.571] >>> {"id":"508","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"ds","range":{"end":{"character":15,"line":18},"start":{"character":0,"line":18}},"selectionRange":{"end":{"character":11,"line":18},"start":{"character":9,"line":18}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":16,"line":21},"start":{"character":0,"line":21}},"selectionRange":{"end":{"character":10,"line":21},"start":{"character":5,"line":21}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":15,"line":23},"start":{"character":0,"line":23}},"selectionRange":{"end":{"character":9,"line":23},"start":{"character":5,"line":23}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":27},"start":{"character":0,"line":25}},"selectionRange":{"end":{"character":10,"line":25},"start":{"character":5,"line":25}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":131},"start":{"character":0,"line":29}},"selectionRange":{"end":{"character":9,"line":29},"start":{"character":5,"line":29}}}]}
+
+I[20:17:53.571] Skipping rebuild of the AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp, inputs are the same.
+V[20:17:53.574] indexed file AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 117:
+  symbol slab: 3 symbols, 4920 bytes
+  ref slab: 13 symbols, 38 refs, 4544 bytes
+  relations slab: 0 relations, 24 bytes
+V[20:17:53.574] Build dynamic index for main-file symbols with estimated memory usage of 13936 bytes
+I[20:17:53.574] --> textDocument/publishDiagnostics
+V[20:17:53.574] >>> {"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[{"code":"pp_file_not_found","message":"In included file: 'stddef.h' file not found","range":{"end":{"character":10,"line":0},"start":{"character":9,"line":0}},"relatedInformation":[{"location":{"range":{"end":{"character":19,"line":47},"start":{"character":9,"line":47}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include/stdlib.h"},"message":"Error occurred here"}],"severity":1,"source":"clang"}],"uri":"file:///c:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":117}}
+
+V[20:17:53.735] <<< {"id":"509","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":137,"line":10},"start":{"character":137,"line":10}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:53.735] <-- textDocument/codeAction("509")
+V[20:17:53.735] ASTWorker running EnumerateTweaks on version 117 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:53.736] --> reply:textDocument/codeAction("509") 0 ms
+V[20:17:53.736] >>> {"id":"509","jsonrpc":"2.0","result":[]}
+
+V[20:17:56.469] <<< {"id":"510","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":0,"line":10},"start":{"character":0,"line":10}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:56.469] <-- textDocument/codeAction("510")
+V[20:17:56.469] ASTWorker running EnumerateTweaks on version 117 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:56.469] --> reply:textDocument/codeAction("510") 0 ms
+V[20:17:56.469] >>> {"id":"510","jsonrpc":"2.0","result":[]}
+
+V[20:17:57.096] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:57.097] <-- textDocument/didSave
+I[20:17:57.097] File version went from 117 to 117
+V[20:17:57.097] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n#include <OneWire.h>\n#include <DallasTemperature.h>\n\n//https://роботехника18.рф/%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be/\n// Чтение данных с температурных датчиков типа 1-Wire: DS18S20, DS18B20, DS1822\n//\n// http://www.pjrc.com/teensy/td_libs_OneWire.html\n//\n// Библиотека DallasTemperature может сделать это все за вас!\n// http://milesburton.com/Dallas_Temperature_Control_Library\n\nOneWire  ds(10);  // on pin 10 (a 4.7K resistor is necessary)\n \n#line 19 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup(void);\n#line 23 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop(void);\n#line 19 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup(void) {\n  Serial.begin(9600);\n}\n \nvoid loop(void) {\n  byte i;\n  byte present = 0;\n  byte type_s;\n  byte data[12];\n  byte addr[8];\n  float celsius, fahrenheit;\n\n   /*\n  if ( !ds.search(addr)) {\n    Serial.println(\"No more addresses.\");\n    Serial.println();\n    ds.reset_search();\n    delay(250);\n    return;\n  }\n   */\n/*\n  Serial.print(\"ROM =\");\n  for( i = 0; i < 8; i++) {\n    Serial.write(' ');\n    Serial.print(addr[i], HEX);\n  }\n */\n/*\n  if (OneWire::crc8(addr, 7) != addr[7]) {\n      Serial.println(\"CRC is not valid!\");\n      return;\n  }\n  Serial.println();\n  */\n\n  // the first ROM byte indicates which chip\n  switch (addr[0]) {\n    case 0x10:\n      Serial.println(\"  Chip = DS18S20\");  // or old DS1820\n      type_s = 1;\n      break;\n    case 0x28:\n      Serial.println(\"  Chip = DS18B20\");\n      type_s = 0;\n      break;\n    case 0x22:\n      Serial.println(\"  Chip = DS1822\");\n      type_s = 0;\n      break;\n    default:\n      Serial.println(\"Device is not a DS18x20 family device.\");\n      return;\n  } \n \n  ds.reset();\n  ds.select(addr);\n  ds.write(0x44, 1);        // start conversion, with parasite power on at the end\n   \n  delay(1000);     // maybe 750ms is enough, maybe not\n  // we might do a ds.depower() here, but the reset will take care of it.\n   \n   \n  present = ds.reset();\n  ds.select(addr);    \n  ds.write(0xBE);         // Read Scratchpad\n /*\n  Serial.print(\"  Data = \");\n  Serial.print(present, HEX);\n  Serial.print(\" \");\n  for ( i = 0; i < 9; i++) {           // we need 9 bytes\n    data[i] = ds.read();\n    Serial.print(data[i], HEX);\n    Serial.print(\" \");\n  }\n  Serial.print(\" CRC=\");\n  Serial.print(OneWire::crc8(data, 8), HEX);\n  Serial.println();\n */\n\n  // Convert the data to actual temperature\n  // because the result is a 16 bit signed integer, it should\n  // be stored to an \"int16_t\" type, which is always 16 bits\n  // even when compiled on a 32 bit processor.\n  int16_t raw = (data[1] << 8) | data[0];\n  if (type_s) {\n    raw = raw << 3; // 9 bit resolution default\n    if (data[7] == 0x10) {\n      // \"count remain\" gives full 12 bit resolution\n      raw = (raw & 0xFFF0) + 12 - data[6];\n    }\n  } else {\n    byte cfg = (data[4] & 0x60);\n    // at lower res, the low bits are undefined, so let's zero them\n    if (cfg == 0x00) raw = raw & ~7;  // 9 bit resolution, 93.75 ms\n    else if (cfg == 0x20) raw = raw & ~3; // 10 bit res, 187.5 ms\n    else if (cfg == 0x40) raw = raw & ~1; // 11 bit res, 375 ms\n    //// default is 12 bit resolution, 750 ms conversion time\n  }\n  celsius = (float)raw / 16.0;\n  fahrenheit = celsius * 1.8 + 32.0;\n  Serial.print(\"  Temperature = \");\n  Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":118}}}
+
+I[20:17:57.097] <-- textDocument/didChange
+V[20:17:57.097] ASTWorker skipping Update (117) for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:57.153] Reloaded compilation database from c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\compile_commands.json
+V[20:17:57.153] Broadcasting compilation database from c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build
+I[20:17:57.154] ASTWorker building file c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 118 with command 
+[D:\Arduino_GitHub\Termometer]
+"C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin\\avr-g++.exe" --target=avr --driver-mode=g++ -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR -DUSB_VID=0x2341 -DUSB_PID=0x8036 "-DUSB_MANUFACTURER=\"Unknown\"" "-DUSB_PRODUCT=\"Arduino Leonardo\"" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -o "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -ferror-limit=0 "-resource-dir=c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -- "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+I[20:17:57.160] --> window/workDoneProgress/create(27)
+V[20:17:57.160] >>> {"id":27,"jsonrpc":"2.0","method":"window/workDoneProgress/create","params":{"token":"backgroundIndexProgress"}}
+
+I[20:17:57.160] Enqueueing 1 commands for indexing
+V[20:17:57.161] <<< {"id":27,"jsonrpc":"2.0","result":null}
+
+I[20:17:57.161] <-- reply(27)
+I[20:17:57.161] --> $/progress
+V[20:17:57.161] >>> {"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"begin","percentage":0,"title":"indexing"}}}
+
+I[20:17:57.161] --> $/progress
+V[20:17:57.161] >>> {"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"0/1","percentage":0}}}
+
+V[20:17:57.170] Driver produced command: cc1 -cc1 -triple avr -fsyntax-only -flto=full -flto-unit -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name Termometer.ino.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -fno-use-init-array -fno-use-cxa-atexit -target-cpu atmega32u4 -mllvm -treat-scalable-fixed-error-as-warning -debug-info-kind=constructor -dwarf-version=5 -debugger-tuning=gdb -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=D:\\Arduino_GitHub\\Termometer" -resource-dir "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -dependency-file "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.d" -MT "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -D F_CPU=16000000L -D ARDUINO=10607 -D ARDUINO_AVR_LEONARDO -D ARDUINO_ARCH_AVR -D USB_VID=0x2341 -D USB_PID=0x8036 -D "USB_MANUFACTURER=\"Unknown\"" -D "USB_PRODUCT=\"Arduino Leonardo\"" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -internal-isystem "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin/../lib/gcc/avr/7.3.0/../../../../avr/include" -Os -Wno-error=narrowing -w -std=gnu++11 -fdeprecated-macro "-fdebug-compilation-dir=D:\\Arduino_GitHub\\Termometer" -ferror-limit 0 -fgnuc-version=4.2.1 -fno-threadsafe-statics -vectorize-loops -vectorize-slp -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -x c++ "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:17:57.174] Reusing preamble version 112 for version 118 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:17:57.180] BackgroundIndex: building version 28 after loading index from disk
+V[20:17:57.199] BackgroundIndex: serving version 28 (1943130 bytes)
+I[20:17:57.209] --> $/progress
+V[20:17:57.209] >>> {"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"0/1","percentage":0}}}
+
+I[20:17:57.209] --> $/progress
+V[20:17:57.209] >>> {"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"end"}}}
+
+V[20:17:57.217] indexed file AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 118:
+  symbol slab: 3 symbols, 4920 bytes
+  ref slab: 13 symbols, 38 refs, 4544 bytes
+  relations slab: 0 relations, 24 bytes
+V[20:17:57.217] Build dynamic index for main-file symbols with estimated memory usage of 13936 bytes
+I[20:17:57.217] --> textDocument/publishDiagnostics
+V[20:17:57.218] >>> {"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[{"code":"pp_file_not_found","message":"In included file: 'stddef.h' file not found","range":{"end":{"character":10,"line":0},"start":{"character":9,"line":0}},"relatedInformation":[{"location":{"range":{"end":{"character":19,"line":47},"start":{"character":9,"line":47}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include/stdlib.h"},"message":"Error occurred here"}],"severity":1,"source":"clang"}],"uri":"file:///c:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":118}}
+
+V[20:17:59.043] <<< {"id":"511","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":39,"line":13},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:17:59.043] <-- textDocument/hover("511")
+V[20:17:59.043] ASTWorker running Hover on version 118 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:17:59.045] --> reply:textDocument/hover("511") 1 ms
+V[20:17:59.045] >>> {"id":"511","jsonrpc":"2.0","result":null}
+
+V[20:18:03.797] <<< {"id":"512","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":1,"line":11},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:03.797] <-- textDocument/hover("512")
+V[20:18:03.799] ASTWorker running Hover on version 118 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:03.801] --> reply:textDocument/hover("512") 3 ms
+V[20:18:03.801] >>> {"id":"512","jsonrpc":"2.0","result":null}
+
+V[20:18:03.954] <<< {"id":"513","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":0,"line":11},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:03.954] <-- textDocument/hover("513")
+V[20:18:03.954] ASTWorker running Hover on version 118 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:03.957] --> reply:textDocument/hover("513") 2 ms
+V[20:18:03.957] >>> {"id":"513","jsonrpc":"2.0","result":null}
+
+V[20:18:06.647] <<< {"id":"514","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":17,"line":13},"start":{"character":0,"line":11}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:06.647] <-- textDocument/codeAction("514")
+V[20:18:06.647] ASTWorker running EnumerateTweaks on version 118 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:06.647] --> reply:textDocument/codeAction("514") 0 ms
+V[20:18:06.647] >>> {"id":"514","jsonrpc":"2.0","result":[]}
+
+V[20:18:10.183] <<< {"id":"515","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":40,"line":13},"start":{"character":0,"line":11}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:10.184] <-- textDocument/codeAction("515")
+V[20:18:10.185] ASTWorker running EnumerateTweaks on version 118 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:10.186] --> reply:textDocument/codeAction("515") 2 ms
+V[20:18:10.186] >>> {"id":"515","jsonrpc":"2.0","result":[]}
+
+V[20:18:10.666] <<< {"id":"516","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":2,"line":14},"start":{"character":0,"line":11}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:10.666] <-- textDocument/codeAction("516")
+V[20:18:10.666] ASTWorker running EnumerateTweaks on version 118 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:10.666] --> reply:textDocument/codeAction("516") 0 ms
+V[20:18:10.666] >>> {"id":"516","jsonrpc":"2.0","result":[]}
+
+V[20:18:12.040] <<< {"id":"517","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":50,"line":13},"start":{"character":0,"line":11}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:12.040] <-- textDocument/codeAction("517")
+V[20:18:12.040] ASTWorker running EnumerateTweaks on version 118 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:12.040] --> reply:textDocument/codeAction("517") 0 ms
+V[20:18:12.040] >>> {"id":"517","jsonrpc":"2.0","result":[]}
+
+V[20:18:14.619] <<< {"id":"518","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:14.619] <-- textDocument/documentSymbol("518")
+V[20:18:14.619] ASTWorker running DocumentSymbols on version 118 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:14.620] --> reply:textDocument/documentSymbol("518") 0 ms
+V[20:18:14.620] >>> {"id":"518","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"ds","range":{"end":{"character":15,"line":18},"start":{"character":0,"line":18}},"selectionRange":{"end":{"character":11,"line":18},"start":{"character":9,"line":18}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":16,"line":21},"start":{"character":0,"line":21}},"selectionRange":{"end":{"character":10,"line":21},"start":{"character":5,"line":21}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":15,"line":23},"start":{"character":0,"line":23}},"selectionRange":{"end":{"character":9,"line":23},"start":{"character":5,"line":23}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":27},"start":{"character":0,"line":25}},"selectionRange":{"end":{"character":10,"line":25},"start":{"character":5,"line":25}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":131},"start":{"character":0,"line":29}},"selectionRange":{"end":{"character":9,"line":29},"start":{"character":5,"line":29}}}]}
+
+V[20:18:14.632] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":50,"line":13},"start":{"character":0,"line":11}},"text":""}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":119}}}
+
+I[20:18:14.632] <-- textDocument/didChange
+V[20:18:14.633] <<< {"id":"519","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:14.633] <-- textDocument/documentSymbol("519")
+I[20:18:14.634] ASTWorker building file c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 119 with command 
+[D:\Arduino_GitHub\Termometer]
+"C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin\\avr-g++.exe" --target=avr --driver-mode=g++ -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR -DUSB_VID=0x2341 -DUSB_PID=0x8036 "-DUSB_MANUFACTURER=\"Unknown\"" "-DUSB_PRODUCT=\"Arduino Leonardo\"" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -o "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -ferror-limit=0 "-resource-dir=c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -- "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:18:14.647] Driver produced command: cc1 -cc1 -triple avr -fsyntax-only -flto=full -flto-unit -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name Termometer.ino.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -fno-use-init-array -fno-use-cxa-atexit -target-cpu atmega32u4 -mllvm -treat-scalable-fixed-error-as-warning -debug-info-kind=constructor -dwarf-version=5 -debugger-tuning=gdb -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=D:\\Arduino_GitHub\\Termometer" -resource-dir "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -dependency-file "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.d" -MT "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -D F_CPU=16000000L -D ARDUINO=10607 -D ARDUINO_AVR_LEONARDO -D ARDUINO_ARCH_AVR -D USB_VID=0x2341 -D USB_PID=0x8036 -D "USB_MANUFACTURER=\"Unknown\"" -D "USB_PRODUCT=\"Arduino Leonardo\"" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -internal-isystem "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin/../lib/gcc/avr/7.3.0/../../../../avr/include" -Os -Wno-error=narrowing -w -std=gnu++11 -fdeprecated-macro "-fdebug-compilation-dir=D:\\Arduino_GitHub\\Termometer" -ferror-limit 0 -fgnuc-version=4.2.1 -fno-threadsafe-statics -vectorize-loops -vectorize-slp -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -x c++ "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:18:14.651] Reusing preamble version 112 for version 119 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:18:14.661] ASTWorker rebuilding evicted AST to run DocumentSymbols: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 119
+V[20:18:14.694] ASTWorker running DocumentSymbols on version 119 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:14.695] --> reply:textDocument/documentSymbol("519") 61 ms
+V[20:18:14.695] >>> {"id":"519","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"ds","range":{"end":{"character":15,"line":16},"start":{"character":0,"line":16}},"selectionRange":{"end":{"character":11,"line":16},"start":{"character":9,"line":16}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":16,"line":19},"start":{"character":0,"line":19}},"selectionRange":{"end":{"character":10,"line":19},"start":{"character":5,"line":19}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":15,"line":21},"start":{"character":0,"line":21}},"selectionRange":{"end":{"character":9,"line":21},"start":{"character":5,"line":21}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":25},"start":{"character":0,"line":23}},"selectionRange":{"end":{"character":10,"line":23},"start":{"character":5,"line":23}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":129},"start":{"character":0,"line":27}},"selectionRange":{"end":{"character":9,"line":27},"start":{"character":5,"line":27}}}]}
+
+I[20:18:14.695] Skipping rebuild of the AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp, inputs are the same.
+V[20:18:14.697] indexed file AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 119:
+  symbol slab: 3 symbols, 4920 bytes
+  ref slab: 13 symbols, 38 refs, 4544 bytes
+  relations slab: 0 relations, 24 bytes
+V[20:18:14.697] Build dynamic index for main-file symbols with estimated memory usage of 13936 bytes
+I[20:18:14.697] --> textDocument/publishDiagnostics
+V[20:18:14.697] >>> {"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[{"code":"pp_file_not_found","message":"In included file: 'stddef.h' file not found","range":{"end":{"character":10,"line":0},"start":{"character":9,"line":0}},"relatedInformation":[{"location":{"range":{"end":{"character":19,"line":47},"start":{"character":9,"line":47}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include/stdlib.h"},"message":"Error occurred here"}],"severity":1,"source":"clang"}],"uri":"file:///c:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":119}}
+
+V[20:18:14.885] <<< {"id":"520","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":60,"line":13},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:14.885] <-- textDocument/hover("520")
+V[20:18:14.885] ASTWorker running Hover on version 119 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:14.887] --> reply:textDocument/hover("520") 1 ms
+V[20:18:14.887] >>> {"id":"520","jsonrpc":"2.0","result":null}
+
+V[20:18:15.721] <<< {"id":"521","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:15.721] <-- textDocument/documentSymbol("521")
+V[20:18:15.725] ASTWorker running DocumentSymbols on version 119 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:15.726] --> reply:textDocument/documentSymbol("521") 4 ms
+V[20:18:15.726] >>> {"id":"521","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"ds","range":{"end":{"character":15,"line":16},"start":{"character":0,"line":16}},"selectionRange":{"end":{"character":11,"line":16},"start":{"character":9,"line":16}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":16,"line":19},"start":{"character":0,"line":19}},"selectionRange":{"end":{"character":10,"line":19},"start":{"character":5,"line":19}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":15,"line":21},"start":{"character":0,"line":21}},"selectionRange":{"end":{"character":9,"line":21},"start":{"character":5,"line":21}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":25},"start":{"character":0,"line":23}},"selectionRange":{"end":{"character":10,"line":23},"start":{"character":5,"line":23}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":129},"start":{"character":0,"line":27}},"selectionRange":{"end":{"character":9,"line":27},"start":{"character":5,"line":27}}}]}
+
+V[20:18:15.740] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":0,"line":12},"start":{"character":0,"line":11}},"text":""}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":120}}}
+
+I[20:18:15.740] <-- textDocument/didChange
+I[20:18:15.793] ASTWorker building file c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 120 with command 
+[D:\Arduino_GitHub\Termometer]
+"C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin\\avr-g++.exe" --target=avr --driver-mode=g++ -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR -DUSB_VID=0x2341 -DUSB_PID=0x8036 "-DUSB_MANUFACTURER=\"Unknown\"" "-DUSB_PRODUCT=\"Arduino Leonardo\"" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -o "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -ferror-limit=0 "-resource-dir=c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -- "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:18:15.808] Driver produced command: cc1 -cc1 -triple avr -fsyntax-only -flto=full -flto-unit -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name Termometer.ino.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -fno-use-init-array -fno-use-cxa-atexit -target-cpu atmega32u4 -mllvm -treat-scalable-fixed-error-as-warning -debug-info-kind=constructor -dwarf-version=5 -debugger-tuning=gdb -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=D:\\Arduino_GitHub\\Termometer" -resource-dir "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -dependency-file "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.d" -MT "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -D F_CPU=16000000L -D ARDUINO=10607 -D ARDUINO_AVR_LEONARDO -D ARDUINO_ARCH_AVR -D USB_VID=0x2341 -D USB_PID=0x8036 -D "USB_MANUFACTURER=\"Unknown\"" -D "USB_PRODUCT=\"Arduino Leonardo\"" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -internal-isystem "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin/../lib/gcc/avr/7.3.0/../../../../avr/include" -Os -Wno-error=narrowing -w -std=gnu++11 -fdeprecated-macro "-fdebug-compilation-dir=D:\\Arduino_GitHub\\Termometer" -ferror-limit 0 -fgnuc-version=4.2.1 -fno-threadsafe-statics -vectorize-loops -vectorize-slp -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -x c++ "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:18:15.813] Reusing preamble version 112 for version 120 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:18:15.850] indexed file AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 120:
+  symbol slab: 3 symbols, 4920 bytes
+  ref slab: 13 symbols, 38 refs, 4544 bytes
+  relations slab: 0 relations, 24 bytes
+V[20:18:15.851] Build dynamic index for main-file symbols with estimated memory usage of 13936 bytes
+I[20:18:15.851] --> textDocument/publishDiagnostics
+V[20:18:15.851] >>> {"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[{"code":"pp_file_not_found","message":"In included file: 'stddef.h' file not found","range":{"end":{"character":10,"line":0},"start":{"character":9,"line":0}},"relatedInformation":[{"location":{"range":{"end":{"character":19,"line":47},"start":{"character":9,"line":47}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include/stdlib.h"},"message":"Error occurred here"}],"severity":1,"source":"clang"}],"uri":"file:///c:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":120}}
+
+V[20:18:17.421] <<< {"id":"522","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":25,"line":15},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:17.421] <-- textDocument/hover("522")
+V[20:18:17.421] ASTWorker running Hover on version 120 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:17.423] --> reply:textDocument/hover("522") 1 ms
+V[20:18:17.423] >>> {"id":"522","jsonrpc":"2.0","result":null}
+
+V[20:18:19.630] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:19.630] <-- textDocument/didSave
+I[20:18:19.631] File version went from 120 to 120
+V[20:18:19.631] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n#include <OneWire.h>\n#include <DallasTemperature.h>\n\n//https://роботехника18.рф/%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be/\n//\n// Библиотека DallasTemperature может сделать это все за вас!\n// http://milesburton.com/Dallas_Temperature_Control_Library\n\nOneWire  ds(10);  // on pin 10 (a 4.7K resistor is necessary)\n \n#line 16 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup(void);\n#line 20 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop(void);\n#line 16 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup(void) {\n  Serial.begin(9600);\n}\n \nvoid loop(void) {\n  byte i;\n  byte present = 0;\n  byte type_s;\n  byte data[12];\n  byte addr[8];\n  float celsius, fahrenheit;\n\n   /*\n  if ( !ds.search(addr)) {\n    Serial.println(\"No more addresses.\");\n    Serial.println();\n    ds.reset_search();\n    delay(250);\n    return;\n  }\n   */\n/*\n  Serial.print(\"ROM =\");\n  for( i = 0; i < 8; i++) {\n    Serial.write(' ');\n    Serial.print(addr[i], HEX);\n  }\n */\n/*\n  if (OneWire::crc8(addr, 7) != addr[7]) {\n      Serial.println(\"CRC is not valid!\");\n      return;\n  }\n  Serial.println();\n  */\n\n  // the first ROM byte indicates which chip\n  switch (addr[0]) {\n    case 0x10:\n      Serial.println(\"  Chip = DS18S20\");  // or old DS1820\n      type_s = 1;\n      break;\n    case 0x28:\n      Serial.println(\"  Chip = DS18B20\");\n      type_s = 0;\n      break;\n    case 0x22:\n      Serial.println(\"  Chip = DS1822\");\n      type_s = 0;\n      break;\n    default:\n      Serial.println(\"Device is not a DS18x20 family device.\");\n      return;\n  } \n \n  ds.reset();\n  ds.select(addr);\n  ds.write(0x44, 1);        // start conversion, with parasite power on at the end\n   \n  delay(1000);     // maybe 750ms is enough, maybe not\n  // we might do a ds.depower() here, but the reset will take care of it.\n   \n   \n  present = ds.reset();\n  ds.select(addr);    \n  ds.write(0xBE);         // Read Scratchpad\n /*\n  Serial.print(\"  Data = \");\n  Serial.print(present, HEX);\n  Serial.print(\" \");\n  for ( i = 0; i < 9; i++) {           // we need 9 bytes\n    data[i] = ds.read();\n    Serial.print(data[i], HEX);\n    Serial.print(\" \");\n  }\n  Serial.print(\" CRC=\");\n  Serial.print(OneWire::crc8(data, 8), HEX);\n  Serial.println();\n */\n\n  // Convert the data to actual temperature\n  // because the result is a 16 bit signed integer, it should\n  // be stored to an \"int16_t\" type, which is always 16 bits\n  // even when compiled on a 32 bit processor.\n  int16_t raw = (data[1] << 8) | data[0];\n  if (type_s) {\n    raw = raw << 3; // 9 bit resolution default\n    if (data[7] == 0x10) {\n      // \"count remain\" gives full 12 bit resolution\n      raw = (raw & 0xFFF0) + 12 - data[6];\n    }\n  } else {\n    byte cfg = (data[4] & 0x60);\n    // at lower res, the low bits are undefined, so let's zero them\n    if (cfg == 0x00) raw = raw & ~7;  // 9 bit resolution, 93.75 ms\n    else if (cfg == 0x20) raw = raw & ~3; // 10 bit res, 187.5 ms\n    else if (cfg == 0x40) raw = raw & ~1; // 11 bit res, 375 ms\n    //// default is 12 bit resolution, 750 ms conversion time\n  }\n  celsius = (float)raw / 16.0;\n  fahrenheit = celsius * 1.8 + 32.0;\n  Serial.print(\"  Temperature = \");\n  Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":121}}}
+
+I[20:18:19.631] <-- textDocument/didChange
+V[20:18:19.631] ASTWorker skipping Update (120) for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:18:19.670] <<< {"id":"523","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":16,"line":15},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:19.670] <-- textDocument/hover("523")
+I[20:18:19.672] Reloaded compilation database from c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\compile_commands.json
+V[20:18:19.672] Broadcasting compilation database from c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build
+I[20:18:19.672] ASTWorker building file c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 121 with command 
+[D:\Arduino_GitHub\Termometer]
+"C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin\\avr-g++.exe" --target=avr --driver-mode=g++ -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR -DUSB_VID=0x2341 -DUSB_PID=0x8036 "-DUSB_MANUFACTURER=\"Unknown\"" "-DUSB_PRODUCT=\"Arduino Leonardo\"" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -o "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -ferror-limit=0 "-resource-dir=c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -- "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+I[20:18:19.680] --> window/workDoneProgress/create(28)
+V[20:18:19.680] >>> {"id":28,"jsonrpc":"2.0","method":"window/workDoneProgress/create","params":{"token":"backgroundIndexProgress"}}
+
+I[20:18:19.680] Enqueueing 1 commands for indexing
+V[20:18:19.680] <<< {"id":28,"jsonrpc":"2.0","result":null}
+
+I[20:18:19.680] <-- reply(28)
+I[20:18:19.680] --> $/progress
+V[20:18:19.680] >>> {"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"begin","percentage":0,"title":"indexing"}}}
+
+I[20:18:19.680] --> $/progress
+V[20:18:19.680] >>> {"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"0/1","percentage":0}}}
+
+V[20:18:19.689] Driver produced command: cc1 -cc1 -triple avr -fsyntax-only -flto=full -flto-unit -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name Termometer.ino.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -fno-use-init-array -fno-use-cxa-atexit -target-cpu atmega32u4 -mllvm -treat-scalable-fixed-error-as-warning -debug-info-kind=constructor -dwarf-version=5 -debugger-tuning=gdb -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=D:\\Arduino_GitHub\\Termometer" -resource-dir "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -dependency-file "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.d" -MT "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -D F_CPU=16000000L -D ARDUINO=10607 -D ARDUINO_AVR_LEONARDO -D ARDUINO_ARCH_AVR -D USB_VID=0x2341 -D USB_PID=0x8036 -D "USB_MANUFACTURER=\"Unknown\"" -D "USB_PRODUCT=\"Arduino Leonardo\"" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -internal-isystem "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin/../lib/gcc/avr/7.3.0/../../../../avr/include" -Os -Wno-error=narrowing -w -std=gnu++11 -fdeprecated-macro "-fdebug-compilation-dir=D:\\Arduino_GitHub\\Termometer" -ferror-limit 0 -fgnuc-version=4.2.1 -fno-threadsafe-statics -vectorize-loops -vectorize-slp -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -x c++ "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:18:19.694] Reusing preamble version 112 for version 121 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:18:19.699] BackgroundIndex: building version 29 after loading index from disk
+V[20:18:19.704] ASTWorker rebuilding evicted AST to run Hover: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 121
+V[20:18:19.715] BackgroundIndex: serving version 29 (1943130 bytes)
+I[20:18:19.723] --> $/progress
+V[20:18:19.724] >>> {"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"report","message":"0/1","percentage":0}}}
+
+I[20:18:19.724] --> $/progress
+V[20:18:19.724] >>> {"jsonrpc":"2.0","method":"$/progress","params":{"token":"backgroundIndexProgress","value":{"kind":"end"}}}
+
+V[20:18:19.740] ASTWorker running Hover on version 121 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:19.742] --> reply:textDocument/hover("523") 71 ms
+V[20:18:19.742] >>> {"id":"523","jsonrpc":"2.0","result":null}
+
+I[20:18:19.742] Skipping rebuild of the AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp, inputs are the same.
+V[20:18:19.743] indexed file AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 121:
+  symbol slab: 3 symbols, 4920 bytes
+  ref slab: 13 symbols, 38 refs, 4544 bytes
+  relations slab: 0 relations, 24 bytes
+V[20:18:19.743] Build dynamic index for main-file symbols with estimated memory usage of 13936 bytes
+I[20:18:19.743] --> textDocument/publishDiagnostics
+V[20:18:19.743] >>> {"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[{"code":"pp_file_not_found","message":"In included file: 'stddef.h' file not found","range":{"end":{"character":10,"line":0},"start":{"character":9,"line":0}},"relatedInformation":[{"location":{"range":{"end":{"character":19,"line":47},"start":{"character":9,"line":47}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include/stdlib.h"},"message":"Error occurred here"}],"severity":1,"source":"clang"}],"uri":"file:///c:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":121}}
+
+V[20:18:29.143] <<< {"id":"524","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":1,"line":24},"start":{"character":1,"line":24}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:29.143] <-- textDocument/codeAction("524")
+V[20:18:29.145] ASTWorker running EnumerateTweaks on version 121 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:29.146] --> reply:textDocument/codeAction("524") 2 ms
+V[20:18:29.146] >>> {"id":"524","jsonrpc":"2.0","result":[]}
+
+V[20:18:29.836] <<< {"id":"525","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":0,"line":15},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:29.836] <-- textDocument/hover("525")
+V[20:18:29.836] ASTWorker running Hover on version 121 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:29.838] --> reply:textDocument/hover("525") 2 ms
+V[20:18:29.839] >>> {"id":"525","jsonrpc":"2.0","result":{"contents":{"kind":"markdown","value":"### class `OneWire`  \n\n---\n```cpp\nclass OneWire {}\n```"},"range":{"end":{"character":7,"line":15},"start":{"character":0,"line":15}}}}
+
+V[20:18:30.175] <<< {"id":"526","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":0,"line":15},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:30.176] <-- textDocument/hover("526")
+V[20:18:30.176] ASTWorker running Hover on version 121 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:30.178] --> reply:textDocument/hover("526") 2 ms
+V[20:18:30.178] >>> {"id":"526","jsonrpc":"2.0","result":{"contents":{"kind":"markdown","value":"### class `OneWire`  \n\n---\n```cpp\nclass OneWire {}\n```"},"range":{"end":{"character":7,"line":15},"start":{"character":0,"line":15}}}}
+
+V[20:18:32.432] <<< {"id":"527","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":0,"line":15},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:32.433] <-- textDocument/hover("527")
+V[20:18:32.433] ASTWorker running Hover on version 121 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:32.435] --> reply:textDocument/hover("527") 2 ms
+V[20:18:32.435] >>> {"id":"527","jsonrpc":"2.0","result":{"contents":{"kind":"markdown","value":"### class `OneWire`  \n\n---\n```cpp\nclass OneWire {}\n```"},"range":{"end":{"character":7,"line":15},"start":{"character":0,"line":15}}}}
+
+V[20:18:32.650] <<< {"id":"528","jsonrpc":"2.0","method":"textDocument/documentHighlight","params":{"position":{"character":0,"line":15},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:32.650] <-- textDocument/documentHighlight("528")
+V[20:18:32.650] ASTWorker running Highlights on version 121 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:32.650] --> reply:textDocument/documentHighlight("528") 0 ms
+V[20:18:32.650] >>> {"id":"528","jsonrpc":"2.0","result":[{"kind":1,"range":{"end":{"character":7,"line":15},"start":{"character":0,"line":15}}}]}
+
+V[20:18:33.915] <<< {"id":"529","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":1,"line":124},"start":{"character":0,"line":15}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:33.915] <-- textDocument/codeAction("529")
+V[20:18:33.915] ASTWorker running EnumerateTweaks on version 121 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:33.915] --> reply:textDocument/codeAction("529") 0 ms
+V[20:18:33.915] >>> {"id":"529","jsonrpc":"2.0","result":[]}
+
+V[20:18:35.535] <<< {"id":"530","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:35.535] <-- textDocument/documentSymbol("530")
+V[20:18:35.538] ASTWorker running DocumentSymbols on version 121 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:35.538] --> reply:textDocument/documentSymbol("530") 3 ms
+V[20:18:35.538] >>> {"id":"530","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"ds","range":{"end":{"character":15,"line":15},"start":{"character":0,"line":15}},"selectionRange":{"end":{"character":11,"line":15},"start":{"character":9,"line":15}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":16,"line":18},"start":{"character":0,"line":18}},"selectionRange":{"end":{"character":10,"line":18},"start":{"character":5,"line":18}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":15,"line":20},"start":{"character":0,"line":20}},"selectionRange":{"end":{"character":9,"line":20},"start":{"character":5,"line":20}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":24},"start":{"character":0,"line":22}},"selectionRange":{"end":{"character":10,"line":22},"start":{"character":5,"line":22}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":128},"start":{"character":0,"line":26}},"selectionRange":{"end":{"character":9,"line":26},"start":{"character":5,"line":26}}}]}
+
+V[20:18:35.549] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":1,"line":124},"start":{"character":0,"line":15}},"text":"OneWire oneWire(2);  // порт подключения датчика\r\nDallasTemperature ds(&oneWire);\r\n\r\nvoid setup() {\r\n  Serial.begin(9600);   // инициализация монитора порта\r\n  ds.begin();                 // инициализация датчика ds18b20\r\n}\r\n\r\nvoid loop() {\r\n  ds.requestTemperatures();                       // считываем температуру с датчика\r\n  \r\n  Serial.print(ds.getTempCByIndex(0));   // выводим температуру на монитор\r\n  Serial.println(\"C\");\r\n}"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":122}}}
+
+I[20:18:35.549] <-- textDocument/didChange
+V[20:18:35.550] <<< {"id":"531","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:35.550] <-- textDocument/documentSymbol("531")
+I[20:18:35.551] ASTWorker building file c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 122 with command 
+[D:\Arduino_GitHub\Termometer]
+"C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin\\avr-g++.exe" --target=avr --driver-mode=g++ -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR -DUSB_VID=0x2341 -DUSB_PID=0x8036 "-DUSB_MANUFACTURER=\"Unknown\"" "-DUSB_PRODUCT=\"Arduino Leonardo\"" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" "-IC:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" "-Ic:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -o "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -ferror-limit=0 "-resource-dir=c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -- "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:18:35.566] Driver produced command: cc1 -cc1 -triple avr -fsyntax-only -flto=full -flto-unit -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name Termometer.ino.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -fno-use-init-array -fno-use-cxa-atexit -target-cpu atmega32u4 -mllvm -treat-scalable-fixed-error-as-warning -debug-info-kind=constructor -dwarf-version=5 -debugger-tuning=gdb -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=D:\\Arduino_GitHub\\Termometer" -resource-dir "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\lib\\clang\\14.0.0" -dependency-file "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.d" -MT "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp.o" -D F_CPU=16000000L -D ARDUINO=10607 -D ARDUINO_AVR_LEONARDO -D ARDUINO_ARCH_AVR -D USB_VID=0x2341 -D USB_PID=0x8036 -D "USB_MANUFACTURER=\"Unknown\"" -D "USB_PRODUCT=\"Arduino Leonardo\"" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino" -I "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\OneWire" -I "c:\\Users\\\xD1\x80\xD1\x81\\Documents\\Arduino\\libraries\\DallasTemperature" -internal-isystem "C:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin/../lib/gcc/avr/7.3.0/../../../../avr/include" -Os -Wno-error=narrowing -w -std=gnu++11 -fdeprecated-macro "-fdebug-compilation-dir=D:\\Arduino_GitHub\\Termometer" -ferror-limit 0 -fgnuc-version=4.2.1 -fno-threadsafe-statics -vectorize-loops -vectorize-slp -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -x c++ "c:\\Users\\\xD1\x80\xD1\x81\\AppData\\Local\\Temp\\arduino-language-server2510331829\\build\\sketch\\Termometer.ino.cpp"
+V[20:18:35.571] Reusing preamble version 112 for version 122 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:18:35.584] ASTWorker rebuilding evicted AST to run DocumentSymbols: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 122
+V[20:18:35.620] Trying to fix unresolved name "Serial" in scopes: []
+V[20:18:35.620] Dex query tree: (LIMIT 10000 (& T=eri T=ria T=ial T=ser S= ?=Restricted For Code Completion))
+V[20:18:35.620] Dex query tree: (LIMIT 10000 (& T=eri T=ria T=ser T=ial S= ?=Restricted For Code Completion))
+V[20:18:35.622] Trying to fix unresolved name "Serial" in scopes: []
+V[20:18:35.623] Trying to fix unresolved name "Serial" in scopes: []
+V[20:18:35.623] Trying to fix unresolved name "Serial" in scopes: []
+V[20:18:35.624] ASTWorker running DocumentSymbols on version 122 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:35.624] --> reply:textDocument/documentSymbol("531") 74 ms
+V[20:18:35.624] >>> {"id":"531","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"oneWire","range":{"end":{"character":18,"line":15},"start":{"character":0,"line":15}},"selectionRange":{"end":{"character":15,"line":15},"start":{"character":8,"line":15}}},{"detail":"DallasTemperature","kind":13,"name":"ds","range":{"end":{"character":30,"line":16},"start":{"character":0,"line":16}},"selectionRange":{"end":{"character":20,"line":16},"start":{"character":18,"line":16}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":21},"start":{"character":0,"line":18}},"selectionRange":{"end":{"character":10,"line":18},"start":{"character":5,"line":18}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":28},"start":{"character":0,"line":23}},"selectionRange":{"end":{"character":9,"line":23},"start":{"character":5,"line":23}}}]}
+
+I[20:18:35.624] Skipping rebuild of the AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp, inputs are the same.
+V[20:18:35.625] indexed file AST for c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp version 122:
+  symbol slab: 4 symbols, 5152 bytes
+  ref slab: 13 symbols, 19 refs, 4544 bytes
+  relations slab: 0 relations, 24 bytes
+V[20:18:35.625] Build dynamic index for main-file symbols with estimated memory usage of 13792 bytes
+I[20:18:35.626] --> textDocument/publishDiagnostics
+V[20:18:35.626] >>> {"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"diagnostics":[{"code":"pp_file_not_found","message":"In included file: 'stddef.h' file not found","range":{"end":{"character":10,"line":0},"start":{"character":9,"line":0}},"relatedInformation":[{"location":{"range":{"end":{"character":19,"line":47},"start":{"character":9,"line":47}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include/stdlib.h"},"message":"Error occurred here"}],"severity":1,"source":"clang"},{"code":"unknown_typename_suggest","message":"Unknown type name 'Serial'; did you mean 'Serial_'? (fixes available)","range":{"end":{"character":8,"line":28},"start":{"character":2,"line":28}},"relatedInformation":[{"location":{"range":{"end":{"character":13,"line":89},"start":{"character":6,"line":89}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/USBAPI.h"},"message":"'Serial_' declared here"}],"severity":1,"source":"clang"},{"code":"invalid_operator_on_type","message":"Cannot use dot operator on a type","range":{"end":{"character":9,"line":28},"start":{"character":8,"line":28}},"relatedInformation":[],"severity":1,"source":"clang"},{"code":"unknown_typename_suggest","message":"Unknown type name 'Serial'; did you mean 'Serial_'? (fixes available)","range":{"end":{"character":8,"line":29},"start":{"character":2,"line":29}},"relatedInformation":[{"location":{"range":{"end":{"character":13,"line":89},"start":{"character":6,"line":89}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/USBAPI.h"},"message":"'Serial_' declared here"}],"severity":1,"source":"clang"},{"code":"invalid_operator_on_type","message":"Cannot use dot operator on a type","range":{"end":{"character":9,"line":29},"start":{"character":8,"line":29}},"relatedInformation":[],"severity":1,"source":"clang"},{"code":"unknown_typename_suggest","message":"Unknown type name 'Serial'; did you mean 'Serial_'? (fixes available)","range":{"end":{"character":8,"line":30},"start":{"character":2,"line":30}},"relatedInformation":[{"location":{"range":{"end":{"character":13,"line":89},"start":{"character":6,"line":89}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/USBAPI.h"},"message":"'Serial_' declared here"}],"severity":1,"source":"clang"},{"code":"invalid_operator_on_type","message":"Cannot use dot operator on a type","range":{"end":{"character":9,"line":30},"start":{"character":8,"line":30}},"relatedInformation":[],"severity":1,"source":"clang"},{"code":"unknown_typename_suggest","message":"Unknown type name 'Serial'; did you mean 'Serial_'? (fixes available)","range":{"end":{"character":8,"line":31},"start":{"character":2,"line":31}},"relatedInformation":[{"location":{"range":{"end":{"character":13,"line":89},"start":{"character":6,"line":89}},"uri":"file:///C:/Users/%D1%80%D1%81/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/USBAPI.h"},"message":"'Serial_' declared here"}],"severity":1,"source":"clang"},{"code":"invalid_operator_on_type","message":"Cannot use dot operator on a type","range":{"end":{"character":9,"line":31},"start":{"character":8,"line":31}},"relatedInformation":[],"severity":1,"source":"clang"},{"code":"extraneous_closing_brace","message":"Extraneous closing brace ('}')","range":{"end":{"character":1,"line":32},"start":{"character":0,"line":32}},"relatedInformation":[],"severity":1,"source":"clang"}],"uri":"file:///c:/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":122}}
+
+V[20:18:35.767] <<< {"id":"532","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":1,"line":32},"start":{"character":1,"line":32}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:35.767] <-- textDocument/codeAction("532")
+V[20:18:35.767] ASTWorker running EnumerateTweaks on version 122 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:35.767] --> reply:textDocument/codeAction("532") 0 ms
+V[20:18:35.767] >>> {"id":"532","jsonrpc":"2.0","result":[]}
+
+V[20:18:36.493] <<< {"id":"533","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":16,"line":17},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:36.493] <-- textDocument/hover("533")
+V[20:18:36.493] ASTWorker running Hover on version 122 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:36.495] --> reply:textDocument/hover("533") 1 ms
+V[20:18:36.495] >>> {"id":"533","jsonrpc":"2.0","result":null}
+
+V[20:18:36.643] <<< {"id":"534","jsonrpc":"2.0","method":"textDocument/documentHighlight","params":{"position":{"character":16,"line":17},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:36.643] <-- textDocument/documentHighlight("534")
+V[20:18:36.643] ASTWorker running Highlights on version 122 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:36.643] --> reply:textDocument/documentHighlight("534") 0 ms
+V[20:18:36.643] >>> {"id":"534","jsonrpc":"2.0","result":[]}
+
+V[20:18:36.894] <<< {"id":"535","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":16,"line":17},"start":{"character":16,"line":17}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:36.894] <-- textDocument/codeAction("535")
+V[20:18:36.894] ASTWorker running EnumerateTweaks on version 122 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:36.894] --> reply:textDocument/codeAction("535") 0 ms
+V[20:18:36.894] >>> {"id":"535","jsonrpc":"2.0","result":[]}
+
+V[20:18:37.132] <<< {"id":"536","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":17,"line":20},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:37.132] <-- textDocument/hover("536")
+V[20:18:37.133] ASTWorker running Hover on version 122 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:37.135] --> reply:textDocument/hover("536") 2 ms
+V[20:18:37.135] >>> {"id":"536","jsonrpc":"2.0","result":null}
+
+V[20:18:38.025] <<< {"id":"537","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:38.025] <-- textDocument/documentSymbol("537")
+V[20:18:38.025] ASTWorker running DocumentSymbols on version 122 of c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+I[20:18:38.026] --> reply:textDocument/documentSymbol("537") 0 ms
+V[20:18:38.026] >>> {"id":"537","jsonrpc":"2.0","result":[{"detail":"OneWire","kind":13,"name":"oneWire","range":{"end":{"character":18,"line":15},"start":{"character":0,"line":15}},"selectionRange":{"end":{"character":15,"line":15},"start":{"character":8,"line":15}}},{"detail":"DallasTemperature","kind":13,"name":"ds","range":{"end":{"character":30,"line":16},"start":{"character":0,"line":16}},"selectionRange":{"end":{"character":20,"line":16},"start":{"character":18,"line":16}}},{"detail":"void ()","kind":12,"name":"setup","range":{"end":{"character":1,"line":21},"start":{"character":0,"line":18}},"selectionRange":{"end":{"character":10,"line":18},"start":{"character":5,"line":18}}},{"detail":"void ()","kind":12,"name":"loop","range":{"end":{"character":1,"line":28},"start":{"character":0,"line":23}},"selectionRange":{"end":{"character":9,"line":23},"start":{"character":5,"line":23}}}]}
+
+V[20:18:38.037] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":17,"line":17},"start":{"character":16,"line":17}},"text":""}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":123}}}
+
+I[20:18:38.037] <-- textDocument/didChange
+E[20:18:38.037] Failed to update c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp: utf-16 offset 16 is invalid for line 17
+V[20:18:38.475] <<< {"id":"538","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:38.475] <-- textDocument/documentSymbol("538")
+I[20:18:38.475] --> reply:textDocument/documentSymbol("538") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:18:38.476] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"538","jsonrpc":"2.0"}
+
+V[20:18:38.478] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":16,"line":17},"start":{"character":16,"line":17}},"text":"1"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":124}}}
+
+I[20:18:38.478] <-- textDocument/didChange
+I[20:18:38.478] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:18:38.478] <<< {"id":"539","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:38.478] <-- textDocument/documentSymbol("539")
+I[20:18:38.478] --> reply:textDocument/documentSymbol("539") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:18:38.479] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"539","jsonrpc":"2.0"}
+
+V[20:18:38.628] <<< {"id":"540","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:38.628] <-- textDocument/documentSymbol("540")
+I[20:18:38.628] --> reply:textDocument/documentSymbol("540") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:18:38.628] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"540","jsonrpc":"2.0"}
+
+V[20:18:38.633] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":17,"line":17},"start":{"character":17,"line":17}},"text":"0"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":125}}}
+
+I[20:18:38.633] <-- textDocument/didChange
+I[20:18:38.633] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:18:38.633] <<< {"id":"541","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:38.633] <-- textDocument/documentSymbol("541")
+I[20:18:38.633] --> reply:textDocument/documentSymbol("541") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:18:38.633] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"541","jsonrpc":"2.0"}
+
+V[20:18:38.890] <<< {"id":"542","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":18,"line":17},"start":{"character":18,"line":17}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:38.890] <-- textDocument/codeAction("542")
+I[20:18:38.890] --> reply:textDocument/codeAction("542") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:18:38.890] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"542","jsonrpc":"2.0"}
+
+V[20:18:39.162] <<< {"id":"543","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":25,"line":23},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:39.162] <-- textDocument/hover("543")
+I[20:18:39.162] --> reply:textDocument/hover("543") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:18:39.162] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"543","jsonrpc":"2.0"}
+
+V[20:18:39.705] <<< {"id":"544","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":26,"line":23},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:39.705] <-- textDocument/hover("544")
+I[20:18:39.705] --> reply:textDocument/hover("544") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:18:39.705] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"544","jsonrpc":"2.0"}
+
+V[20:18:43.381] <<< {"id":"545","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:43.382] <-- textDocument/documentSymbol("545")
+I[20:18:43.382] --> reply:textDocument/documentSymbol("545") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:18:43.382] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"545","jsonrpc":"2.0"}
+
+V[20:18:43.606] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:43.606] <-- textDocument/didSave
+V[20:18:43.606] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n#include <OneWire.h>\n#include <DallasTemperature.h>\n\n//https://роботехника18.рф/%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be/\n//\n// Библиотека DallasTemperature может сделать это все за вас!\n// http://milesburton.com/Dallas_Temperature_Control_Library\n\nOneWire oneWire(10);  // порт подключения датчика\nDallasTemperature ds(&oneWire);\n\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 22 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n  Serial.begin(9600);   // инициализация монитора порта\n  ds.begin();                 // инициализация датчика ds18b20\n}\n\nvoid loop() {\n  ds.requestTemperatures();                       // считываем температуру с датчика\n  \n  Serial.print(ds.getTempCByIndex(0));   // выводим температуру на монитор\n  Serial.println(\"C\");\n} Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":126}}}
+
+I[20:18:43.606] <-- textDocument/didChange
+I[20:18:43.607] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:18:43.616] <<< {"id":"546","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":14,"line":23},"start":{"character":14,"line":23}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:43.616] <-- textDocument/codeAction("546")
+I[20:18:43.616] --> reply:textDocument/codeAction("546") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:18:43.616] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"546","jsonrpc":"2.0"}
+
+V[20:18:52.776] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:18:52.776] <-- textDocument/didSave
+V[20:18:52.776] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n#include <OneWire.h>\n#include <DallasTemperature.h>\n\n//https://роботехника18.рф/%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be/\n//\n// Библиотека DallasTemperature может сделать это все за вас!\n// http://milesburton.com/Dallas_Temperature_Control_Library\n\nOneWire oneWire(10);  // порт подключения датчика\nDallasTemperature ds(&oneWire);\n\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 22 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n  Serial.begin(9600);   // инициализация монитора порта\n  ds.begin();                 // инициализация датчика ds18b20\n}\n\nvoid loop() {\n  ds.requestTemperatures();                       // считываем температуру с датчика\n  \n  Serial.print(ds.getTempCByIndex(0));   // выводим температуру на монитор\n  Serial.println(\"C\");\n} Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":127}}}
+
+I[20:18:52.776] <-- textDocument/didChange
+I[20:18:52.776] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:19:03.605] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:19:03.605] <-- textDocument/didSave
+V[20:19:03.606] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n#include <OneWire.h>\n#include <DallasTemperature.h>\n\n//https://роботехника18.рф/%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be/\n//\n// Библиотека DallasTemperature может сделать это все за вас!\n// http://milesburton.com/Dallas_Temperature_Control_Library\n\nOneWire oneWire(10);  // порт подключения датчика\nDallasTemperature ds(&oneWire);\n\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 22 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 17 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n  Serial.begin(9600);   // инициализация монитора порта\n  ds.begin();                 // инициализация датчика ds18b20\n}\n\nvoid loop() {\n  ds.requestTemperatures();                       // считываем температуру с датчика\n  \n  Serial.print(ds.getTempCByIndex(0));   // выводим температуру на монитор\n  Serial.println(\"C\");\n} Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":128}}}
+
+I[20:19:03.606] <-- textDocument/didChange
+I[20:19:03.606] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:19:08.876] <<< {"id":"547","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":36,"line":12},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:19:08.876] <-- textDocument/hover("547")
+I[20:19:08.876] --> reply:textDocument/hover("547") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:19:08.876] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"547","jsonrpc":"2.0"}
+
+V[20:19:09.835] <<< {"id":"548","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":29,"line":12},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:19:09.835] <-- textDocument/hover("548")
+I[20:19:09.835] --> reply:textDocument/hover("548") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:19:09.835] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"548","jsonrpc":"2.0"}
+
+V[20:20:00.913] <<< {"id":"549","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":55,"line":31},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:20:00.913] <-- textDocument/hover("549")
+I[20:20:00.913] --> reply:textDocument/hover("549") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:20:00.913] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"549","jsonrpc":"2.0"}
+
+V[20:23:33.640] <<< {"id":"550","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:23:33.640] <-- textDocument/documentSymbol("550")
+I[20:23:33.640] --> reply:textDocument/documentSymbol("550") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:23:33.640] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"550","jsonrpc":"2.0"}
+
+V[20:23:33.896] <<< {"id":"551","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":1,"line":33},"start":{"character":1,"line":33}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:23:33.896] <-- textDocument/codeAction("551")
+I[20:23:33.896] --> reply:textDocument/codeAction("551") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:23:33.896] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"551","jsonrpc":"2.0"}
+
+V[20:23:45.540] <<< {"id":"552","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":57,"line":13},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:23:45.540] <-- textDocument/hover("552")
+I[20:23:45.540] --> reply:textDocument/hover("552") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:23:45.540] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"552","jsonrpc":"2.0"}
+
+V[20:23:48.486] <<< {"id":"553","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":56,"line":10},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:23:48.486] <-- textDocument/hover("553")
+I[20:23:48.486] --> reply:textDocument/hover("553") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:23:48.486] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"553","jsonrpc":"2.0"}
+
