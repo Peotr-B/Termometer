@@ -6391,3 +6391,945 @@ Content-Length: 183
 Content-Length: 124
 
 {"jsonrpc":"2.0","id":556,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":557,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":24,"character":42}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":557,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":558,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":22,"character":41}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":558,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 195
+
+{"jsonrpc":"2.0","id":559,"method":"textDocument/documentHighlight","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":6,"character":13}}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":560,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":559,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":560,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 256
+
+{"jsonrpc":"2.0","id":561,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":6,"character":13},"end":{"line":6,"character":13}},"context":{"diagnostics":[]}}}Content-Length: 183
+
+{"jsonrpc":"2.0","id":562,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":6,"character":17}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":561,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":562,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 183
+
+{"jsonrpc":"2.0","id":563,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":8,"character":22}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":563,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 183
+
+{"jsonrpc":"2.0","id":564,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":8,"character":19}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":564,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":565,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":10,"character":23}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":565,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":566,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":566,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 254
+
+{"jsonrpc":"2.0","id":567,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":9,"character":2},"end":{"line":9,"character":2}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":567,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 182
+
+{"jsonrpc":"2.0","id":568,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":5,"character":3}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":568,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 182
+
+{"jsonrpc":"2.0","id":569,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":5,"character":0}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":569,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 182
+
+{"jsonrpc":"2.0","id":570,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":5,"character":0}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":570,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":571,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":571,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 254
+
+{"jsonrpc":"2.0","id":572,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":5,"character":0},"end":{"line":5,"character":0}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":572,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":573,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":573,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":574,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":574,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":575,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":575,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":576,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":576,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":577,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":577,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":578,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":578,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":579,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":579,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":580,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":580,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":581,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":581,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":582,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":582,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":583,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":583,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":584,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":584,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":585,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":585,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 254
+
+{"jsonrpc":"2.0","id":586,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":5,"character":0},"end":{"line":9,"character":2}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":586,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":587,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":588,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":587,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":588,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":587}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":589,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":589,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":590,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":590,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":591,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":591,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":592,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":592,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":593,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":593,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":594,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":594,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":595,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":595,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":596,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":596,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":597,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":597,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":598,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":598,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":599,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":599,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":600,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":600,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":601,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":601,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":602,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":602,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":603,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":603,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":604,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":604,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":605,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":605,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":606,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":606,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":607,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":607,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":608,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":608,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":609,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":609,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 255
+
+{"jsonrpc":"2.0","id":610,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":5,"character":0},"end":{"line":26,"character":1}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":610,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":611,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 1875
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":97},"contentChanges":[{"range":{"start":{"line":5,"character":0},"end":{"line":26,"character":1}},"rangeLength":760,"text":"#include <OneWire.h>\r\n\r\nOneWire ds(2);\r\n\r\nvoid setup() {\r\n    Serial.begin(9600);\r\n}\r\n\r\nvoid loop() {\r\n    byte i;\r\n    byte data[12];\r\n    byte addr[8];\r\n    float celsius;\r\n \r\n    // поиск адреса датчика\r\n    if ( !ds.search(addr)) {\r\n        ds.reset_search();\r\n        delay(250);\r\n        return;\r\n    }\r\n \r\n    ds.reset();\r\n    ds.select(addr);\r\n    ds.write(0x44, 1); // команда на измерение температуры\r\n\r\n    delay(1000);\r\n\r\n    ds.reset();\r\n    ds.select(addr); \r\n    ds.write(0xBE); // команда на начало чтения измеренной температуры\r\n\r\n    // считываем показания температуры из внутренней памяти датчика\r\n    for ( i = 0; i < 9; i++) {\r\n        data[i] = ds.read();\r\n    }\r\n\r\n    int16_t raw = (data[1] << 8) | data[0];\r\n    // датчик может быть настроен на разную точность, выясняем её \r\n    byte cfg = (data[4] & 0x60);\r\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\r\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\r\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\r\n\r\n    // преобразование показаний датчика в градусы Цельсия \r\n    celsius = (float)raw / 16.0;\r\n    Serial.print(\"t=\");\r\n    Serial.println(celsius);\r\n}"}]}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":612,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":611}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":611,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":612,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 256
+
+{"jsonrpc":"2.0","id":613,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":52,"character":1},"end":{"line":52,"character":1}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 214
+
+{"jsonrpc":"2.0","id":613,"result":null,"error":{"code":-32603,"message":"invalid range file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino:52:1-52:1: could not be mapped to Arduino-preprocessed sketck.ino.cpp"}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":614,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":46,"character":49}}}
+>>>
+Content-Length: 216
+
+{"jsonrpc":"2.0","id":614,"result":null,"error":{"code":-32603,"message":"invalid range file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino:46:49-46:49: could not be mapped to Arduino-preprocessed sketck.ino.cpp"}}
+<<<
+Content-Length: 1834
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":97},"text":"/*1янв25\r\nТермометр\r\nПроект 9\r\nScriptor42\r\n*/\r\n#include <OneWire.h>\r\n\r\nOneWire ds(2);\r\n\r\nvoid setup() {\r\n    Serial.begin(9600);\r\n}\r\n\r\nvoid loop() {\r\n    byte i;\r\n    byte data[12];\r\n    byte addr[8];\r\n    float celsius;\r\n \r\n    // поиск адреса датчика\r\n    if ( !ds.search(addr)) {\r\n        ds.reset_search();\r\n        delay(250);\r\n        return;\r\n    }\r\n \r\n    ds.reset();\r\n    ds.select(addr);\r\n    ds.write(0x44, 1); // команда на измерение температуры\r\n\r\n    delay(1000);\r\n\r\n    ds.reset();\r\n    ds.select(addr); \r\n    ds.write(0xBE); // команда на начало чтения измеренной температуры\r\n\r\n    // считываем показания температуры из внутренней памяти датчика\r\n    for ( i = 0; i < 9; i++) {\r\n        data[i] = ds.read();\r\n    }\r\n\r\n    int16_t raw = (data[1] << 8) | data[0];\r\n    // датчик может быть настроен на разную точность, выясняем её \r\n    byte cfg = (data[4] & 0x60);\r\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\r\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\r\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\r\n\r\n    // преобразование показаний датчика в градусы Цельсия \r\n    celsius = (float)raw / 16.0;\r\n    Serial.print(\"t=\");\r\n    Serial.println(celsius);\r\n}"}}
+>>>
+Content-Length: 119
+
+{"jsonrpc":"2.0","id":"88","method":"window/workDoneProgress/create","params":{"token":"arduinoLanguageServerRebuild"}}
+<<<
+Content-Length: 41
+
+{"jsonrpc":"2.0","id":"88","result":null}
+>>>
+Content-Length: 140
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"begin","title":"Building sketch"}}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":615,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":10,"character":13}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":615,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 183
+
+{"jsonrpc":"2.0","id":616,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":7,"character":11}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":616,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 195
+
+{"jsonrpc":"2.0","id":617,"method":"textDocument/documentHighlight","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":7,"character":12}}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":618,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":617,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":618,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 256
+
+{"jsonrpc":"2.0","id":619,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":7,"character":12},"end":{"line":7,"character":12}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":619,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 129
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"end","message":"done"}}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":620,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 277
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":98},"contentChanges":[{"range":{"start":{"line":7,"character":11},"end":{"line":7,"character":12}},"rangeLength":1,"text":""}]}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":621,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":620,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":621,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":620}}Content-Length: 256
+
+{"jsonrpc":"2.0","id":622,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":7,"character":11},"end":{"line":7,"character":11}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":622,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":623,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 278
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":99},"contentChanges":[{"range":{"start":{"line":7,"character":11},"end":{"line":7,"character":11}},"rangeLength":0,"text":"1"}]}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":624,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":623,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":624,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":623}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":625,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 279
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":100},"contentChanges":[{"range":{"start":{"line":7,"character":12},"end":{"line":7,"character":12}},"rangeLength":0,"text":"0"}]}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":626,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":625,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":626,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":625}}Content-Length: 256
+
+{"jsonrpc":"2.0","id":627,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":7,"character":13},"end":{"line":7,"character":13}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":627,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 119
+
+{"jsonrpc":"2.0","id":"89","method":"window/workDoneProgress/create","params":{"token":"arduinoLanguageServerRebuild"}}
+<<<
+Content-Length: 41
+
+{"jsonrpc":"2.0","id":"89","result":null}
+>>>
+Content-Length: 140
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"begin","title":"Building sketch"}}}
+<<<
+Content-Length: 1836
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":100},"text":"/*1янв25\r\nТермометр\r\nПроект 9\r\nScriptor42\r\n*/\r\n#include <OneWire.h>\r\n\r\nOneWire ds(10);\r\n\r\nvoid setup() {\r\n    Serial.begin(9600);\r\n}\r\n\r\nvoid loop() {\r\n    byte i;\r\n    byte data[12];\r\n    byte addr[8];\r\n    float celsius;\r\n \r\n    // поиск адреса датчика\r\n    if ( !ds.search(addr)) {\r\n        ds.reset_search();\r\n        delay(250);\r\n        return;\r\n    }\r\n \r\n    ds.reset();\r\n    ds.select(addr);\r\n    ds.write(0x44, 1); // команда на измерение температуры\r\n\r\n    delay(1000);\r\n\r\n    ds.reset();\r\n    ds.select(addr); \r\n    ds.write(0xBE); // команда на начало чтения измеренной температуры\r\n\r\n    // считываем показания температуры из внутренней памяти датчика\r\n    for ( i = 0; i < 9; i++) {\r\n        data[i] = ds.read();\r\n    }\r\n\r\n    int16_t raw = (data[1] << 8) | data[0];\r\n    // датчик может быть настроен на разную точность, выясняем её \r\n    byte cfg = (data[4] & 0x60);\r\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\r\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\r\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\r\n\r\n    // преобразование показаний датчика в градусы Цельсия \r\n    celsius = (float)raw / 16.0;\r\n    Serial.print(\"t=\");\r\n    Serial.println(celsius);\r\n}"}}
+>>>
+Content-Length: 129
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"end","message":"done"}}}Content-Length: 119
+
+{"jsonrpc":"2.0","id":"90","method":"window/workDoneProgress/create","params":{"token":"arduinoLanguageServerRebuild"}}
+<<<
+Content-Length: 41
+
+{"jsonrpc":"2.0","id":"90","result":null}
+>>>
+Content-Length: 140
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"begin","title":"Building sketch"}}}Content-Length: 129
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"end","message":"done"}}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":628,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":628,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 256
+
+{"jsonrpc":"2.0","id":629,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":7,"character":15},"end":{"line":7,"character":15}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":629,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":630,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":630,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 254
+
+{"jsonrpc":"2.0","id":631,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":4,"character":2},"end":{"line":4,"character":2}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":631,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":632,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 280
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":101},"contentChanges":[{"range":{"start":{"line":4,"character":2},"end":{"line":4,"character":2}},"rangeLength":0,"text":"\r\n"}]}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":633,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":632}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":632,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":633,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 183
+
+{"jsonrpc":"2.0","id":634,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":6,"character":15}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":634,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 183
+
+{"jsonrpc":"2.0","id":635,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":6,"character":15}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":635,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 119
+
+{"jsonrpc":"2.0","id":"91","method":"window/workDoneProgress/create","params":{"token":"arduinoLanguageServerRebuild"}}
+<<<
+Content-Length: 41
+
+{"jsonrpc":"2.0","id":"91","result":null}
+>>>
+Content-Length: 140
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"begin","title":"Building sketch"}}}
+<<<
+Content-Length: 1840
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":101},"text":"/*1янв25\r\nТермометр\r\nПроект 9\r\nScriptor42\r\n*/\r\n\r\n#include <OneWire.h>\r\n\r\nOneWire ds(10);\r\n\r\nvoid setup() {\r\n    Serial.begin(9600);\r\n}\r\n\r\nvoid loop() {\r\n    byte i;\r\n    byte data[12];\r\n    byte addr[8];\r\n    float celsius;\r\n \r\n    // поиск адреса датчика\r\n    if ( !ds.search(addr)) {\r\n        ds.reset_search();\r\n        delay(250);\r\n        return;\r\n    }\r\n \r\n    ds.reset();\r\n    ds.select(addr);\r\n    ds.write(0x44, 1); // команда на измерение температуры\r\n\r\n    delay(1000);\r\n\r\n    ds.reset();\r\n    ds.select(addr); \r\n    ds.write(0xBE); // команда на начало чтения измеренной температуры\r\n\r\n    // считываем показания температуры из внутренней памяти датчика\r\n    for ( i = 0; i < 9; i++) {\r\n        data[i] = ds.read();\r\n    }\r\n\r\n    int16_t raw = (data[1] << 8) | data[0];\r\n    // датчик может быть настроен на разную точность, выясняем её \r\n    byte cfg = (data[4] & 0x60);\r\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\r\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\r\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\r\n\r\n    // преобразование показаний датчика в градусы Цельсия \r\n    celsius = (float)raw / 16.0;\r\n    Serial.print(\"t=\");\r\n    Serial.println(celsius);\r\n}"}}
+>>>
+Content-Length: 129
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"end","message":"done"}}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":636,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 277
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":102},"contentChanges":[{"range":{"start":{"line":5,"character":0},"end":{"line":5,"character":0}},"rangeLength":0,"text":"/"}]}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":637,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 238
+
+{"jsonrpc":"2.0","id":638,"method":"textDocument/completion","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":5,"character":1},"context":{"triggerKind":2,"triggerCharacter":"/"}}}Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":636}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":636,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":637,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 129
+
+{"jsonrpc":"2.0","id":638,"result":null,"error":{"code":-32603,"message":"-32602 trying to get preamble for non-added document"}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":639,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 277
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":103},"contentChanges":[{"range":{"start":{"line":5,"character":1},"end":{"line":5,"character":1}},"rangeLength":0,"text":"/"}]}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":640,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 238
+
+{"jsonrpc":"2.0","id":641,"method":"textDocument/completion","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":5,"character":2},"context":{"triggerKind":2,"triggerCharacter":"/"}}}Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":639}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":639,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":640,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 129
+
+{"jsonrpc":"2.0","id":641,"result":null,"error":{"code":-32603,"message":"-32602 trying to get preamble for non-added document"}}
+<<<
+Content-Length: 254
+
+{"jsonrpc":"2.0","id":642,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":5,"character":2},"end":{"line":5,"character":2}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":642,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 119
+
+{"jsonrpc":"2.0","id":"92","method":"window/workDoneProgress/create","params":{"token":"arduinoLanguageServerRebuild"}}
+<<<
+Content-Length: 41
+
+{"jsonrpc":"2.0","id":"92","result":null}
+>>>
+Content-Length: 140
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"begin","title":"Building sketch"}}}
+<<<
+Content-Length: 1842
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":103},"text":"/*1янв25\r\nТермометр\r\nПроект 9\r\nScriptor42\r\n*/\r\n//\r\n#include <OneWire.h>\r\n\r\nOneWire ds(10);\r\n\r\nvoid setup() {\r\n    Serial.begin(9600);\r\n}\r\n\r\nvoid loop() {\r\n    byte i;\r\n    byte data[12];\r\n    byte addr[8];\r\n    float celsius;\r\n \r\n    // поиск адреса датчика\r\n    if ( !ds.search(addr)) {\r\n        ds.reset_search();\r\n        delay(250);\r\n        return;\r\n    }\r\n \r\n    ds.reset();\r\n    ds.select(addr);\r\n    ds.write(0x44, 1); // команда на измерение температуры\r\n\r\n    delay(1000);\r\n\r\n    ds.reset();\r\n    ds.select(addr); \r\n    ds.write(0xBE); // команда на начало чтения измеренной температуры\r\n\r\n    // считываем показания температуры из внутренней памяти датчика\r\n    for ( i = 0; i < 9; i++) {\r\n        data[i] = ds.read();\r\n    }\r\n\r\n    int16_t raw = (data[1] << 8) | data[0];\r\n    // датчик может быть настроен на разную точность, выясняем её \r\n    byte cfg = (data[4] & 0x60);\r\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\r\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\r\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\r\n\r\n    // преобразование показаний датчика в градусы Цельсия \r\n    celsius = (float)raw / 16.0;\r\n    Serial.print(\"t=\");\r\n    Serial.println(celsius);\r\n}"}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":643,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 328
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":104},"contentChanges":[{"range":{"start":{"line":5,"character":2},"end":{"line":5,"character":2}},"rangeLength":0,"text":"https://robotclass.ru/tutorials/arduino-ds18b20-roc/"}]}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":644,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":643,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":644,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":643}}Content-Length: 256
+
+{"jsonrpc":"2.0","id":645,"method":"textDocument/codeAction","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"range":{"start":{"line":5,"character":54},"end":{"line":5,"character":54}},"context":{"diagnostics":[]}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":645,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 1894
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":104},"text":"/*1янв25\r\nТермометр\r\nПроект 9\r\nScriptor42\r\n*/\r\n//https://robotclass.ru/tutorials/arduino-ds18b20-roc/\r\n#include <OneWire.h>\r\n\r\nOneWire ds(10);\r\n\r\nvoid setup() {\r\n    Serial.begin(9600);\r\n}\r\n\r\nvoid loop() {\r\n    byte i;\r\n    byte data[12];\r\n    byte addr[8];\r\n    float celsius;\r\n \r\n    // поиск адреса датчика\r\n    if ( !ds.search(addr)) {\r\n        ds.reset_search();\r\n        delay(250);\r\n        return;\r\n    }\r\n \r\n    ds.reset();\r\n    ds.select(addr);\r\n    ds.write(0x44, 1); // команда на измерение температуры\r\n\r\n    delay(1000);\r\n\r\n    ds.reset();\r\n    ds.select(addr); \r\n    ds.write(0xBE); // команда на начало чтения измеренной температуры\r\n\r\n    // считываем показания температуры из внутренней памяти датчика\r\n    for ( i = 0; i < 9; i++) {\r\n        data[i] = ds.read();\r\n    }\r\n\r\n    int16_t raw = (data[1] << 8) | data[0];\r\n    // датчик может быть настроен на разную точность, выясняем её \r\n    byte cfg = (data[4] & 0x60);\r\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\r\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\r\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\r\n\r\n    // преобразование показаний датчика в градусы Цельсия \r\n    celsius = (float)raw / 16.0;\r\n    Serial.print(\"t=\");\r\n    Serial.println(celsius);\r\n}"}}
+>>>
+Content-Length: 129
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"end","message":"done"}}}
+<<<
+Content-Length: 155
+
+{"jsonrpc":"2.0","id":646,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}Content-Length: 282
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":105},"contentChanges":[{"range":{"start":{"line":5,"character":54},"end":{"line":5,"character":54}},"rangeLength":0,"text":"\r\n"}]}}Content-Length: 155
+
+{"jsonrpc":"2.0","id":647,"method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":646,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}Content-Length: 124
+
+{"jsonrpc":"2.0","id":647,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 64
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":646}}
+>>>
+Content-Length: 119
+
+{"jsonrpc":"2.0","id":"93","method":"window/workDoneProgress/create","params":{"token":"arduinoLanguageServerRebuild"}}
+<<<
+Content-Length: 41
+
+{"jsonrpc":"2.0","id":"93","result":null}
+>>>
+Content-Length: 140
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"begin","title":"Building sketch"}}}
+<<<
+Content-Length: 1898
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino","version":105},"text":"/*1янв25\r\nТермометр\r\nПроект 9\r\nScriptor42\r\n*/\r\n//https://robotclass.ru/tutorials/arduino-ds18b20-roc/\r\n\r\n#include <OneWire.h>\r\n\r\nOneWire ds(10);\r\n\r\nvoid setup() {\r\n    Serial.begin(9600);\r\n}\r\n\r\nvoid loop() {\r\n    byte i;\r\n    byte data[12];\r\n    byte addr[8];\r\n    float celsius;\r\n \r\n    // поиск адреса датчика\r\n    if ( !ds.search(addr)) {\r\n        ds.reset_search();\r\n        delay(250);\r\n        return;\r\n    }\r\n \r\n    ds.reset();\r\n    ds.select(addr);\r\n    ds.write(0x44, 1); // команда на измерение температуры\r\n\r\n    delay(1000);\r\n\r\n    ds.reset();\r\n    ds.select(addr); \r\n    ds.write(0xBE); // команда на начало чтения измеренной температуры\r\n\r\n    // считываем показания температуры из внутренней памяти датчика\r\n    for ( i = 0; i < 9; i++) {\r\n        data[i] = ds.read();\r\n    }\r\n\r\n    int16_t raw = (data[1] << 8) | data[0];\r\n    // датчик может быть настроен на разную точность, выясняем её \r\n    byte cfg = (data[4] & 0x60);\r\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\r\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\r\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\r\n\r\n    // преобразование показаний датчика в градусы Цельсия \r\n    celsius = (float)raw / 16.0;\r\n    Serial.print(\"t=\");\r\n    Serial.println(celsius);\r\n}"}}
+>>>
+Content-Length: 129
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"end","message":"done"}}}Content-Length: 119
+
+{"jsonrpc":"2.0","id":"94","method":"window/workDoneProgress/create","params":{"token":"arduinoLanguageServerRebuild"}}
+<<<
+Content-Length: 41
+
+{"jsonrpc":"2.0","id":"94","result":null}
+>>>
+Content-Length: 140
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"begin","title":"Building sketch"}}}Content-Length: 129
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"end","message":"done"}}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":648,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":38,"character":20}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":648,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 21608
+
+{"jsonrpc":"2.0","method":"ino/didCompleteBuild","params":{"buildPath":"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8","buildOutputUri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/arduino/sketches/D3D3BD4A9EF75B21D6254DA8EDFB7FF8","executableSectionsSize":[{"name":"text","size":6224,"maxSize":28672},{"name":"data","size":181,"maxSize":2560}],"usedLibraries":[{"name":"OneWire","author":"Jim Studt, Tom Pollard, Robin James, Glenn Trewitt, Jason Dangel, Guillermo Lovato, Paul Stoffregen, Scott Roberts, Bertrik Sikken, Mark Tillotson, Ken Butcher, Roger Clark, Love Nystrom","maintainer":"Paul Stoffregen","sentence":"Access 1-wire temperature sensors, memory and other chips.","paragraph":"","website":"http://www.pjrc.com/teensy/td_libs_OneWire.html","category":"Communication","installDir":"C:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire","sourceDir":"c:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire","utilityDir":"","containerPlatform":"","dotALinkage":false,"precompiled":false,"ldFlags":"","isLegacy":false,"version":"2.3.8","license":"Unspecified","location":1,"layout":0,"inDevelopment":false,"architectures":["*"],"types":[],"examples":["C:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire\\examples\\DS18x20_Temperature","C:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire\\examples\\DS2408_Switch","C:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire\\examples\\DS250x_PROM"],"providesIncludes":["OneWire.h"],"properties":{},"compatibleWith":{}}],"buildPlatform":{"id":"arduino:avr","version":"1.8.6","installDir":"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6","packageUrl":""},"buildProperties":["_id=leonardo","archive_file_path=C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/{archive_file}","bootloader.extended_fuses=0xcb","bootloader.file=caterina/Caterina-Leonardo.hex","bootloader.high_fuses=0xd8","bootloader.lock_bits=0x2F","bootloader.low_fuses=0xff","bootloader.tool=avrdude","bootloader.tool.default=avrdude","bootloader.unlock_bits=0x3F","build.arch=AVR","build.board=AVR_LEONARDO","build.board.platform.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6","build.core=arduino","build.core.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino","build.core.platform.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6","build.extra_flags=-DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"'","build.f_cpu=16000000L","build.fqbn=arduino:avr:leonardo","build.library_discovery_phase=0","build.mcu=atmega32u4","build.path=C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8","build.pid=0x8036","build.project_name=Termometer.ino","build.source.path=D:\\Arduino_GitHub\\Termometer","build.system.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\system","build.usb_flags=-DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"'","build.usb_manufacturer=\"Unknown\"","build.usb_product=\"Arduino Leonardo\"","build.variant=leonardo","build.variant.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo","build.vid=0x2341","compiler.S.extra_flags=","compiler.S.flags=-c -g -x assembler-with-cpp -flto -MMD","compiler.ar.cmd=avr-gcc-ar","compiler.ar.extra_flags=","compiler.ar.flags=rcs","compiler.c.cmd=avr-gcc","compiler.c.elf.cmd=avr-gcc","compiler.c.elf.extra_flags=","compiler.c.elf.flags=-w -Os -g -flto -fuse-linker-plugin -Wl,--gc-sections","compiler.c.extra_flags=","compiler.c.flags=-c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -flto -fno-fat-lto-objects","compiler.cpp.cmd=avr-g++","compiler.cpp.extra_flags=","compiler.cpp.flags=-c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto","compiler.elf2hex.cmd=avr-objcopy","compiler.elf2hex.extra_flags=","compiler.elf2hex.flags=-O ihex -R .eeprom","compiler.ldflags=","compiler.libraries.ldflags=","compiler.objcopy.cmd=avr-objcopy","compiler.objcopy.eep.extra_flags=","compiler.objcopy.eep.flags=-O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0","compiler.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/","compiler.size.cmd=avr-size","compiler.warning_flags=-w","compiler.warning_flags.all=-Wall -Wextra","compiler.warning_flags.default=","compiler.warning_flags.more=-Wall","compiler.warning_flags.none=-w","extra.time.dst=0","extra.time.local=1735764070","extra.time.utc=1735753270","extra.time.zone=10800","ide_version=10607","name=Arduino Leonardo","pid.0=0x0036","pid.1=0x8036","pid.2=0x0036","pid.3=0x8036","pluggable_discovery.required.0=builtin:serial-discovery","pluggable_discovery.required.1=builtin:mdns-discovery","pluggable_monitor.required.serial=builtin:serial-monitor","preproc.includes.flags=-w -x c++ -M -MG -MP","preproc.macros.flags=-w -x c++ -E -CC","recipe.S.o.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc\" -c -g -x assembler-with-cpp -flto -MMD -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\" -o \"{object_file}\"","recipe.ar.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc-ar\" rcs  \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/{archive_file}\" \"{object_file}\"","recipe.c.combine.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc\" -w -Os -g -flto -fuse-linker-plugin -Wl,--gc-sections -mmcu=atmega32u4   -o \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.elf\" {object_files}  \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/{archive_file}\" \"-LC:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8\" -lm","recipe.c.o.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc\" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -flto -fno-fat-lto-objects -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\" -o \"{object_file}\"","recipe.cpp.o.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++\" -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\" -o \"{object_file}\"","recipe.objcopy.eep.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-objcopy\" -O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0  \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.elf\" \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.eep\"","recipe.objcopy.hex.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-objcopy\" -O ihex -R .eeprom  \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.elf\" \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex\"","recipe.output.save_file=Termometer.ino.leonardo.hex","recipe.output.tmp_file=Termometer.ino.hex","recipe.preproc.includes=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++\" -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -w -x c++ -M -MG -MP -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\"","recipe.preproc.macros=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++\" -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -w -x c++ -E -CC -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\" -o \"{preprocessed_file_path}\"","recipe.size.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-size\" -A \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.elf\"","recipe.size.regex=^(?:\\.text|\\.data|\\.bootloader)\\s+([0-9]+).*","recipe.size.regex.data=^(?:\\.data|\\.bss|\\.noinit)\\s+([0-9]+).*","recipe.size.regex.eeprom=^(?:\\.eeprom)\\s+([0-9]+).*","runtime.hardware.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr","runtime.ide.path=C:\\Users\\рс\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\resources","runtime.ide.version=10607","runtime.os=windows","runtime.platform.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6","runtime.tools.arduinoOTA-1.3.0.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0","runtime.tools.arduinoOTA.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0","runtime.tools.arm-none-eabi-gcc-4.8.3-2014q1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1","runtime.tools.arm-none-eabi-gcc.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1","runtime.tools.avr-gcc-7.3.0-atmel3.6.1-arduino5.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino5","runtime.tools.avr-gcc-7.3.0-atmel3.6.1-arduino7.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7","runtime.tools.avr-gcc.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7","runtime.tools.avrdude-6.3.0-arduino17.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17","runtime.tools.avrdude.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17","runtime.tools.bossac-1.6.1-arduino.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\bossac\\1.6.1-arduino","runtime.tools.bossac.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\bossac\\1.6.1-arduino","runtime.tools.ctags-5.8-arduino11.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\ctags\\5.8-arduino11","runtime.tools.ctags.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\ctags\\5.8-arduino11","runtime.tools.dfu-discovery-0.1.2.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\dfu-discovery\\0.1.2","runtime.tools.dfu-discovery.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\dfu-discovery\\0.1.2","runtime.tools.linux-dfu-util.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\dfu-util","runtime.tools.linux-hid_flash.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\hid_flash","runtime.tools.linux-src.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\src","runtime.tools.linux-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\stlink","runtime.tools.linux-stm32flash.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\stm32flash","runtime.tools.linux.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\stm32flash","runtime.tools.linux64-dfu-util.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\dfu-util","runtime.tools.linux64-src.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\src","runtime.tools.linux64-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\stlink","runtime.tools.linux64-stm32flash.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\stm32flash","runtime.tools.linux64.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\stm32flash","runtime.tools.macosx-dfu-util.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\dfu-util","runtime.tools.macosx-src.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\src","runtime.tools.macosx-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\stlink","runtime.tools.macosx-stm32flash.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\stm32flash","runtime.tools.macosx.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\stm32flash","runtime.tools.mdns-discovery-1.0.5.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\mdns-discovery\\1.0.5","runtime.tools.mdns-discovery-1.0.9.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\mdns-discovery\\1.0.9","runtime.tools.mdns-discovery.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\mdns-discovery\\1.0.9","runtime.tools.mklittlefs-3.1.0-gcc10.3-e5f9fec.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mklittlefs\\3.1.0-gcc10.3-e5f9fec","runtime.tools.mklittlefs.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mklittlefs\\3.1.0-gcc10.3-e5f9fec","runtime.tools.mkspiffs-3.1.0-gcc10.3-e5f9fec.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\3.1.0-gcc10.3-e5f9fec","runtime.tools.mkspiffs.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\3.1.0-gcc10.3-e5f9fec","runtime.tools.python3-3.7.2-post1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python3\\3.7.2-post1","runtime.tools.python3.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python3\\3.7.2-post1","runtime.tools.serial-discovery-1.2.1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-discovery\\1.2.1","runtime.tools.serial-discovery-1.3.2.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-discovery\\1.3.2","runtime.tools.serial-discovery-1.4.1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-discovery\\1.4.1","runtime.tools.serial-discovery.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-discovery\\1.4.1","runtime.tools.serial-monitor-0.14.1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-monitor\\0.14.1","runtime.tools.serial-monitor-0.9.1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-monitor\\0.9.1","runtime.tools.serial-monitor.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-monitor\\0.14.1","runtime.tools.stm32tools-2021.5.31.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\stm32duino\\tools\\stm32tools\\2021.5.31","runtime.tools.stm32tools.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\stm32duino\\tools\\stm32tools\\2021.5.31","runtime.tools.win-dfu-util-0.9-win64.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\dfu-util-0.9-win64","runtime.tools.win-lib.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\lib","runtime.tools.win-src.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\src","runtime.tools.win-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\stlink","runtime.tools.win-texane-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\texane-stlink","runtime.tools.win.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\texane-stlink","runtime.tools.xtensa-lx106-elf-gcc-3.1.0-gcc10.3-e5f9fec.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\3.1.0-gcc10.3-e5f9fec","runtime.tools.xtensa-lx106-elf-gcc.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\3.1.0-gcc10.3-e5f9fec","sketch_path=D:\\Arduino_GitHub\\Termometer","software=ARDUINO","tools.arduino_ota.cmd=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0/bin/arduinoOTA","tools.arduino_ota.upload.pattern=\"{cmd}\" -address {upload.port.address} -port {upload.port.properties.port} -sketch \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex\" -upload {upload.port.properties.endpoint_upload} -sync {upload.port.properties.endpoint_sync} -reset {upload.port.properties.endpoint_reset} -sync_exp {upload.port.properties.sync_return}","tools.avrdude.bootloader.params.quiet=-q -q","tools.avrdude.bootloader.params.verbose=-v","tools.avrdude.bootloader.pattern=\"{cmd.path}\" \"-C{config.path}\" {bootloader.verbose} -patmega32u4 -c{protocol} {program.extra_params} \"-Uflash:w:C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6/bootloaders/caterina/Caterina-Leonardo.hex:i\" -Ulock:w:0x2F:m","tools.avrdude.cmd.path={path}/bin/avrdude","tools.avrdude.config.path={path}/etc/avrdude.conf","tools.avrdude.erase.params.quiet=-q -q","tools.avrdude.erase.params.verbose=-v","tools.avrdude.erase.pattern=\"{cmd.path}\" \"-C{config.path}\" {erase.verbose} -patmega32u4 -c{protocol} {program.extra_params} -e -Ulock:w:0x3F:m -Uefuse:w:0xcb:m -Uhfuse:w:0xd8:m -Ulfuse:w:0xff:m","tools.avrdude.network_cmd=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0/bin/arduinoOTA","tools.avrdude.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17","tools.avrdude.program.params.noverify=-V","tools.avrdude.program.params.quiet=-q -q","tools.avrdude.program.params.verbose=-v","tools.avrdude.program.pattern=\"{cmd.path}\" \"-C{config.path}\" {program.verbose} {program.verify} -patmega32u4 -c{protocol} {program.extra_params} \"-Uflash:w:C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex:i\"","tools.avrdude.program.verify=","tools.avrdude.upload.network_pattern=\"{network_cmd}\" -address {serial.port} -port {upload.network.port} -sketch \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex\" -upload {upload.network.endpoint_upload} -sync {upload.network.endpoint_sync} -reset {upload.network.endpoint_reset} -sync_exp {upload.network.sync_return}","tools.avrdude.upload.params.noverify=-V","tools.avrdude.upload.params.quiet=-q -q","tools.avrdude.upload.params.verbose=-v","tools.avrdude.upload.pattern=\"{cmd.path}\" \"-C{config.path}\" {upload.verbose} {upload.verify} -patmega32u4 -cavr109 \"-P{serial.port}\" -b57600 -D \"-Uflash:w:C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex:i\"","tools.avrdude.upload.verify=","tools.avrdude_remote.upload.pattern=/usr/bin/run-avrdude /tmp/sketch.hex {upload.verbose} -patmega32u4","upload.disable_flushing=true","upload.maximum_data_size=2560","upload.maximum_size=28672","upload.protocol=avr109","upload.speed=57600","upload.tool=avrdude","upload.tool.default=avrdude","upload.tool.network=arduino_ota","upload.use_1200bps_touch=true","upload.wait_for_upload_port=true","upload_port.0.pid=0x0036","upload_port.0.vid=0x2341","upload_port.1.pid=0x8036","upload_port.1.vid=0x2341","upload_port.2.pid=0x0036","upload_port.2.vid=0x2A03","upload_port.3.pid=0x8036","upload_port.3.vid=0x2A03","upload_port.4.board=leonardo","version=1.8.6","vid.0=0x2341","vid.1=0x2341","vid.2=0x2A03","vid.3=0x2A03"]}}
+>>>
+Content-Length: 119
+
+{"jsonrpc":"2.0","id":"95","method":"window/workDoneProgress/create","params":{"token":"arduinoLanguageServerRebuild"}}
+<<<
+Content-Length: 41
+
+{"jsonrpc":"2.0","id":"95","result":null}
+>>>
+Content-Length: 140
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"begin","title":"Building sketch"}}}Content-Length: 129
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"end","message":"done"}}}
+<<<
+Content-Length: 183
+
+{"jsonrpc":"2.0","id":649,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":7,"character":16}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":649,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 21608
+
+{"jsonrpc":"2.0","method":"ino/didCompleteBuild","params":{"buildPath":"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8","buildOutputUri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/arduino/sketches/D3D3BD4A9EF75B21D6254DA8EDFB7FF8","executableSectionsSize":[{"name":"text","size":6224,"maxSize":28672},{"name":"data","size":181,"maxSize":2560}],"usedLibraries":[{"name":"OneWire","author":"Jim Studt, Tom Pollard, Robin James, Glenn Trewitt, Jason Dangel, Guillermo Lovato, Paul Stoffregen, Scott Roberts, Bertrik Sikken, Mark Tillotson, Ken Butcher, Roger Clark, Love Nystrom","maintainer":"Paul Stoffregen","sentence":"Access 1-wire temperature sensors, memory and other chips.","paragraph":"","website":"http://www.pjrc.com/teensy/td_libs_OneWire.html","category":"Communication","installDir":"C:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire","sourceDir":"c:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire","utilityDir":"","containerPlatform":"","dotALinkage":false,"precompiled":false,"ldFlags":"","isLegacy":false,"version":"2.3.8","license":"Unspecified","location":1,"layout":0,"inDevelopment":false,"architectures":["*"],"types":[],"examples":["C:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire\\examples\\DS18x20_Temperature","C:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire\\examples\\DS2408_Switch","C:\\Users\\рс\\Documents\\Arduino\\libraries\\OneWire\\examples\\DS250x_PROM"],"providesIncludes":["OneWire.h"],"properties":{},"compatibleWith":{}}],"buildPlatform":{"id":"arduino:avr","version":"1.8.6","installDir":"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6","packageUrl":""},"buildProperties":["_id=leonardo","archive_file_path=C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/{archive_file}","bootloader.extended_fuses=0xcb","bootloader.file=caterina/Caterina-Leonardo.hex","bootloader.high_fuses=0xd8","bootloader.lock_bits=0x2F","bootloader.low_fuses=0xff","bootloader.tool=avrdude","bootloader.tool.default=avrdude","bootloader.unlock_bits=0x3F","build.arch=AVR","build.board=AVR_LEONARDO","build.board.platform.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6","build.core=arduino","build.core.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino","build.core.platform.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6","build.extra_flags=-DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"'","build.f_cpu=16000000L","build.fqbn=arduino:avr:leonardo","build.library_discovery_phase=0","build.mcu=atmega32u4","build.path=C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8","build.pid=0x8036","build.project_name=Termometer.ino","build.source.path=D:\\Arduino_GitHub\\Termometer","build.system.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\system","build.usb_flags=-DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"'","build.usb_manufacturer=\"Unknown\"","build.usb_product=\"Arduino Leonardo\"","build.variant=leonardo","build.variant.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\leonardo","build.vid=0x2341","compiler.S.extra_flags=","compiler.S.flags=-c -g -x assembler-with-cpp -flto -MMD","compiler.ar.cmd=avr-gcc-ar","compiler.ar.extra_flags=","compiler.ar.flags=rcs","compiler.c.cmd=avr-gcc","compiler.c.elf.cmd=avr-gcc","compiler.c.elf.extra_flags=","compiler.c.elf.flags=-w -Os -g -flto -fuse-linker-plugin -Wl,--gc-sections","compiler.c.extra_flags=","compiler.c.flags=-c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -flto -fno-fat-lto-objects","compiler.cpp.cmd=avr-g++","compiler.cpp.extra_flags=","compiler.cpp.flags=-c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto","compiler.elf2hex.cmd=avr-objcopy","compiler.elf2hex.extra_flags=","compiler.elf2hex.flags=-O ihex -R .eeprom","compiler.ldflags=","compiler.libraries.ldflags=","compiler.objcopy.cmd=avr-objcopy","compiler.objcopy.eep.extra_flags=","compiler.objcopy.eep.flags=-O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0","compiler.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/","compiler.size.cmd=avr-size","compiler.warning_flags=-w","compiler.warning_flags.all=-Wall -Wextra","compiler.warning_flags.default=","compiler.warning_flags.more=-Wall","compiler.warning_flags.none=-w","extra.time.dst=0","extra.time.local=1735764097","extra.time.utc=1735753297","extra.time.zone=10800","ide_version=10607","name=Arduino Leonardo","pid.0=0x0036","pid.1=0x8036","pid.2=0x0036","pid.3=0x8036","pluggable_discovery.required.0=builtin:serial-discovery","pluggable_discovery.required.1=builtin:mdns-discovery","pluggable_monitor.required.serial=builtin:serial-monitor","preproc.includes.flags=-w -x c++ -M -MG -MP","preproc.macros.flags=-w -x c++ -E -CC","recipe.S.o.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc\" -c -g -x assembler-with-cpp -flto -MMD -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\" -o \"{object_file}\"","recipe.ar.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc-ar\" rcs  \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/{archive_file}\" \"{object_file}\"","recipe.c.combine.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc\" -w -Os -g -flto -fuse-linker-plugin -Wl,--gc-sections -mmcu=atmega32u4   -o \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.elf\" {object_files}  \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/{archive_file}\" \"-LC:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8\" -lm","recipe.c.o.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc\" -c -g -Os -w -std=gnu11 -ffunction-sections -fdata-sections -MMD -flto -fno-fat-lto-objects -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\" -o \"{object_file}\"","recipe.cpp.o.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++\" -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\" -o \"{object_file}\"","recipe.objcopy.eep.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-objcopy\" -O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0  \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.elf\" \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.eep\"","recipe.objcopy.hex.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-objcopy\" -O ihex -R .eeprom  \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.elf\" \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex\"","recipe.output.save_file=Termometer.ino.leonardo.hex","recipe.output.tmp_file=Termometer.ino.hex","recipe.preproc.includes=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++\" -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -w -x c++ -M -MG -MP -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\"","recipe.preproc.macros=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++\" -c -g -Os -w -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -Wno-error=narrowing -MMD -flto -w -x c++ -E -CC -mmcu=atmega32u4 -DF_CPU=16000000L -DARDUINO=10607 -DARDUINO_AVR_LEONARDO -DARDUINO_ARCH_AVR  -DUSB_VID=0x2341 -DUSB_PID=0x8036 '-DUSB_MANUFACTURER=\"Unknown\"' '-DUSB_PRODUCT=\"Arduino Leonardo\"' {includes} \"{source_file}\" -o \"{preprocessed_file_path}\"","recipe.size.pattern=\"C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-size\" -A \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.elf\"","recipe.size.regex=^(?:\\.text|\\.data|\\.bootloader)\\s+([0-9]+).*","recipe.size.regex.data=^(?:\\.data|\\.bss|\\.noinit)\\s+([0-9]+).*","recipe.size.regex.eeprom=^(?:\\.eeprom)\\s+([0-9]+).*","runtime.hardware.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr","runtime.ide.path=C:\\Users\\рс\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\resources","runtime.ide.version=10607","runtime.os=windows","runtime.platform.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6","runtime.tools.arduinoOTA-1.3.0.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0","runtime.tools.arduinoOTA.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0","runtime.tools.arm-none-eabi-gcc-4.8.3-2014q1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1","runtime.tools.arm-none-eabi-gcc.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1","runtime.tools.avr-gcc-7.3.0-atmel3.6.1-arduino5.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino5","runtime.tools.avr-gcc-7.3.0-atmel3.6.1-arduino7.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7","runtime.tools.avr-gcc.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7","runtime.tools.avrdude-6.3.0-arduino17.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17","runtime.tools.avrdude.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17","runtime.tools.bossac-1.6.1-arduino.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\bossac\\1.6.1-arduino","runtime.tools.bossac.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\bossac\\1.6.1-arduino","runtime.tools.ctags-5.8-arduino11.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\ctags\\5.8-arduino11","runtime.tools.ctags.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\ctags\\5.8-arduino11","runtime.tools.dfu-discovery-0.1.2.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\dfu-discovery\\0.1.2","runtime.tools.dfu-discovery.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\dfu-discovery\\0.1.2","runtime.tools.linux-dfu-util.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\dfu-util","runtime.tools.linux-hid_flash.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\hid_flash","runtime.tools.linux-src.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\src","runtime.tools.linux-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\stlink","runtime.tools.linux-stm32flash.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\stm32flash","runtime.tools.linux.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux\\stm32flash","runtime.tools.linux64-dfu-util.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\dfu-util","runtime.tools.linux64-src.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\src","runtime.tools.linux64-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\stlink","runtime.tools.linux64-stm32flash.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\stm32flash","runtime.tools.linux64.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\linux64\\stm32flash","runtime.tools.macosx-dfu-util.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\dfu-util","runtime.tools.macosx-src.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\src","runtime.tools.macosx-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\stlink","runtime.tools.macosx-stm32flash.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\stm32flash","runtime.tools.macosx.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\macosx\\stm32flash","runtime.tools.mdns-discovery-1.0.5.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\mdns-discovery\\1.0.5","runtime.tools.mdns-discovery-1.0.9.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\mdns-discovery\\1.0.9","runtime.tools.mdns-discovery.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\mdns-discovery\\1.0.9","runtime.tools.mklittlefs-3.1.0-gcc10.3-e5f9fec.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mklittlefs\\3.1.0-gcc10.3-e5f9fec","runtime.tools.mklittlefs.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mklittlefs\\3.1.0-gcc10.3-e5f9fec","runtime.tools.mkspiffs-3.1.0-gcc10.3-e5f9fec.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\3.1.0-gcc10.3-e5f9fec","runtime.tools.mkspiffs.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\3.1.0-gcc10.3-e5f9fec","runtime.tools.python3-3.7.2-post1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python3\\3.7.2-post1","runtime.tools.python3.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python3\\3.7.2-post1","runtime.tools.serial-discovery-1.2.1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-discovery\\1.2.1","runtime.tools.serial-discovery-1.3.2.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-discovery\\1.3.2","runtime.tools.serial-discovery-1.4.1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-discovery\\1.4.1","runtime.tools.serial-discovery.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-discovery\\1.4.1","runtime.tools.serial-monitor-0.14.1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-monitor\\0.14.1","runtime.tools.serial-monitor-0.9.1.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-monitor\\0.9.1","runtime.tools.serial-monitor.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\builtin\\tools\\serial-monitor\\0.14.1","runtime.tools.stm32tools-2021.5.31.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\stm32duino\\tools\\stm32tools\\2021.5.31","runtime.tools.stm32tools.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\stm32duino\\tools\\stm32tools\\2021.5.31","runtime.tools.win-dfu-util-0.9-win64.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\dfu-util-0.9-win64","runtime.tools.win-lib.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\lib","runtime.tools.win-src.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\src","runtime.tools.win-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\stlink","runtime.tools.win-texane-stlink.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\texane-stlink","runtime.tools.win.path=C:\\Users\\рс\\Documents\\Arduino\\hardware\\Arduino_STM32-master\\tools\\win\\texane-stlink","runtime.tools.xtensa-lx106-elf-gcc-3.1.0-gcc10.3-e5f9fec.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\3.1.0-gcc10.3-e5f9fec","runtime.tools.xtensa-lx106-elf-gcc.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\3.1.0-gcc10.3-e5f9fec","sketch_path=D:\\Arduino_GitHub\\Termometer","software=ARDUINO","tools.arduino_ota.cmd=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0/bin/arduinoOTA","tools.arduino_ota.upload.pattern=\"{cmd}\" -address {upload.port.address} -port {upload.port.properties.port} -sketch \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex\" -upload {upload.port.properties.endpoint_upload} -sync {upload.port.properties.endpoint_sync} -reset {upload.port.properties.endpoint_reset} -sync_exp {upload.port.properties.sync_return}","tools.avrdude.bootloader.params.quiet=-q -q","tools.avrdude.bootloader.params.verbose=-v","tools.avrdude.bootloader.pattern=\"{cmd.path}\" \"-C{config.path}\" {bootloader.verbose} -patmega32u4 -c{protocol} {program.extra_params} \"-Uflash:w:C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6/bootloaders/caterina/Caterina-Leonardo.hex:i\" -Ulock:w:0x2F:m","tools.avrdude.cmd.path={path}/bin/avrdude","tools.avrdude.config.path={path}/etc/avrdude.conf","tools.avrdude.erase.params.quiet=-q -q","tools.avrdude.erase.params.verbose=-v","tools.avrdude.erase.pattern=\"{cmd.path}\" \"-C{config.path}\" {erase.verbose} -patmega32u4 -c{protocol} {program.extra_params} -e -Ulock:w:0x3F:m -Uefuse:w:0xcb:m -Uhfuse:w:0xd8:m -Ulfuse:w:0xff:m","tools.avrdude.network_cmd=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0/bin/arduinoOTA","tools.avrdude.path=C:\\Users\\рс\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17","tools.avrdude.program.params.noverify=-V","tools.avrdude.program.params.quiet=-q -q","tools.avrdude.program.params.verbose=-v","tools.avrdude.program.pattern=\"{cmd.path}\" \"-C{config.path}\" {program.verbose} {program.verify} -patmega32u4 -c{protocol} {program.extra_params} \"-Uflash:w:C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex:i\"","tools.avrdude.program.verify=","tools.avrdude.upload.network_pattern=\"{network_cmd}\" -address {serial.port} -port {upload.network.port} -sketch \"C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex\" -upload {upload.network.endpoint_upload} -sync {upload.network.endpoint_sync} -reset {upload.network.endpoint_reset} -sync_exp {upload.network.sync_return}","tools.avrdude.upload.params.noverify=-V","tools.avrdude.upload.params.quiet=-q -q","tools.avrdude.upload.params.verbose=-v","tools.avrdude.upload.pattern=\"{cmd.path}\" \"-C{config.path}\" {upload.verbose} {upload.verify} -patmega32u4 -cavr109 \"-P{serial.port}\" -b57600 -D \"-Uflash:w:C:\\Users\\рс\\AppData\\Local\\arduino\\sketches\\D3D3BD4A9EF75B21D6254DA8EDFB7FF8/Termometer.ino.hex:i\"","tools.avrdude.upload.verify=","tools.avrdude_remote.upload.pattern=/usr/bin/run-avrdude /tmp/sketch.hex {upload.verbose} -patmega32u4","upload.disable_flushing=true","upload.maximum_data_size=2560","upload.maximum_size=28672","upload.protocol=avr109","upload.speed=57600","upload.tool=avrdude","upload.tool.default=avrdude","upload.tool.network=arduino_ota","upload.use_1200bps_touch=true","upload.wait_for_upload_port=true","upload_port.0.pid=0x0036","upload_port.0.vid=0x2341","upload_port.1.pid=0x8036","upload_port.1.vid=0x2341","upload_port.2.pid=0x0036","upload_port.2.vid=0x2A03","upload_port.3.pid=0x8036","upload_port.3.vid=0x2A03","upload_port.4.board=leonardo","version=1.8.6","vid.0=0x2341","vid.1=0x2341","vid.2=0x2A03","vid.3=0x2A03"]}}
+>>>
+Content-Length: 119
+
+{"jsonrpc":"2.0","id":"96","method":"window/workDoneProgress/create","params":{"token":"arduinoLanguageServerRebuild"}}
+<<<
+Content-Length: 41
+
+{"jsonrpc":"2.0","id":"96","result":null}
+>>>
+Content-Length: 140
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"begin","title":"Building sketch"}}}Content-Length: 129
+
+{"jsonrpc":"2.0","method":"$/progress","params":{"token":"arduinoLanguageServerRebuild","value":{"kind":"end","message":"done"}}}
+<<<
+Content-Length: 183
+
+{"jsonrpc":"2.0","id":650,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":5,"character":17}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":650,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 183
+
+{"jsonrpc":"2.0","id":651,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":5,"character":20}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":651,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 183
+
+{"jsonrpc":"2.0","id":652,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":5,"character":21}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":652,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":653,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":24,"character":14}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":653,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":654,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":44,"character":54}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":654,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":655,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":50,"character":54}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":655,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":656,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":47,"character":55}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":656,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}
+<<<
+Content-Length: 184
+
+{"jsonrpc":"2.0","id":657,"method":"textDocument/hover","params":{"textDocument":{"uri":"file:///d%3A/Arduino_GitHub/Termometer/Termometer.ino"},"position":{"line":46,"character":56}}}
+>>>
+Content-Length: 124
+
+{"jsonrpc":"2.0","id":657,"result":null,"error":{"code":-32603,"message":"-32602 trying to get AST for non-added document"}}

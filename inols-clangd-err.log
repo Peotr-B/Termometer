@@ -7651,3 +7651,668 @@ I[20:23:48.486] <-- textDocument/hover("553")
 I[20:23:48.486] --> reply:textDocument/hover("553") 0 ms, error: -32602: trying to get AST for non-added document
 V[20:23:48.486] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"553","jsonrpc":"2.0"}
 
+V[20:32:43.245] <<< {"id":"554","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":42,"line":31},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:32:43.245] <-- textDocument/hover("554")
+I[20:32:43.245] --> reply:textDocument/hover("554") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:32:43.245] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"554","jsonrpc":"2.0"}
+
+V[20:32:55.762] <<< {"id":"555","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":41,"line":29},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:32:55.762] <-- textDocument/hover("555")
+I[20:32:55.762] --> reply:textDocument/hover("555") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:32:55.762] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"555","jsonrpc":"2.0"}
+
+V[20:40:22.441] <<< {"id":"556","jsonrpc":"2.0","method":"textDocument/documentHighlight","params":{"position":{"character":13,"line":8},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:22.441] <-- textDocument/documentHighlight("556")
+I[20:40:22.441] --> reply:textDocument/documentHighlight("556") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:22.441] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"556","jsonrpc":"2.0"}
+
+V[20:40:22.442] <<< {"id":"557","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:22.442] <-- textDocument/documentSymbol("557")
+I[20:40:22.442] --> reply:textDocument/documentSymbol("557") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:22.442] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"557","jsonrpc":"2.0"}
+
+V[20:40:22.673] <<< {"id":"558","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":13,"line":8},"start":{"character":13,"line":8}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:22.673] <-- textDocument/codeAction("558")
+I[20:40:22.673] --> reply:textDocument/codeAction("558") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:22.673] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"558","jsonrpc":"2.0"}
+
+V[20:40:22.675] <<< {"id":"559","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":17,"line":8},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:22.675] <-- textDocument/hover("559")
+I[20:40:22.675] --> reply:textDocument/hover("559") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:22.675] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"559","jsonrpc":"2.0"}
+
+V[20:40:23.675] <<< {"id":"560","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":22,"line":10},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:23.675] <-- textDocument/hover("560")
+I[20:40:23.675] --> reply:textDocument/hover("560") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:23.675] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"560","jsonrpc":"2.0"}
+
+V[20:40:24.061] <<< {"id":"561","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":19,"line":10},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:24.061] <-- textDocument/hover("561")
+I[20:40:24.061] --> reply:textDocument/hover("561") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:24.061] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"561","jsonrpc":"2.0"}
+
+V[20:40:25.722] <<< {"id":"562","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":23,"line":12},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:25.722] <-- textDocument/hover("562")
+I[20:40:25.722] --> reply:textDocument/hover("562") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:25.722] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"562","jsonrpc":"2.0"}
+
+V[20:40:28.297] <<< {"id":"563","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:28.297] <-- textDocument/documentSymbol("563")
+I[20:40:28.297] --> reply:textDocument/documentSymbol("563") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:28.297] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"563","jsonrpc":"2.0"}
+
+V[20:40:28.538] <<< {"id":"564","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":2,"line":11},"start":{"character":2,"line":11}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:28.538] <-- textDocument/codeAction("564")
+I[20:40:28.538] --> reply:textDocument/codeAction("564") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:28.538] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"564","jsonrpc":"2.0"}
+
+V[20:40:29.013] <<< {"id":"565","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":3,"line":7},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:29.013] <-- textDocument/hover("565")
+I[20:40:29.013] --> reply:textDocument/hover("565") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:29.013] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"565","jsonrpc":"2.0"}
+
+V[20:40:29.528] <<< {"id":"566","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":0,"line":7},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:29.528] <-- textDocument/hover("566")
+I[20:40:29.528] --> reply:textDocument/hover("566") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:29.528] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"566","jsonrpc":"2.0"}
+
+V[20:40:30.341] <<< {"id":"567","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":0,"line":7},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:30.341] <-- textDocument/hover("567")
+I[20:40:30.341] --> reply:textDocument/hover("567") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:30.341] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"567","jsonrpc":"2.0"}
+
+V[20:40:30.672] <<< {"id":"568","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:30.672] <-- textDocument/documentSymbol("568")
+I[20:40:30.672] --> reply:textDocument/documentSymbol("568") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:30.672] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"568","jsonrpc":"2.0"}
+
+V[20:40:30.918] <<< {"id":"569","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":0,"line":7},"start":{"character":0,"line":7}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:30.918] <-- textDocument/codeAction("569")
+I[20:40:30.918] --> reply:textDocument/codeAction("569") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:30.918] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"569","jsonrpc":"2.0"}
+
+V[20:40:30.957] <<< {"id":"570","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:30.957] <-- textDocument/documentSymbol("570")
+I[20:40:30.957] --> reply:textDocument/documentSymbol("570") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:30.957] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"570","jsonrpc":"2.0"}
+
+V[20:40:30.972] <<< {"id":"571","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:30.972] <-- textDocument/documentSymbol("571")
+I[20:40:30.972] --> reply:textDocument/documentSymbol("571") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:30.972] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"571","jsonrpc":"2.0"}
+
+V[20:40:30.991] <<< {"id":"572","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:30.991] <-- textDocument/documentSymbol("572")
+I[20:40:30.991] --> reply:textDocument/documentSymbol("572") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:30.991] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"572","jsonrpc":"2.0"}
+
+V[20:40:31.003] <<< {"id":"573","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.003] <-- textDocument/documentSymbol("573")
+I[20:40:31.003] --> reply:textDocument/documentSymbol("573") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.003] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"573","jsonrpc":"2.0"}
+
+V[20:40:31.023] <<< {"id":"574","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.023] <-- textDocument/documentSymbol("574")
+I[20:40:31.023] --> reply:textDocument/documentSymbol("574") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.023] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"574","jsonrpc":"2.0"}
+
+V[20:40:31.041] <<< {"id":"575","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.041] <-- textDocument/documentSymbol("575")
+I[20:40:31.041] --> reply:textDocument/documentSymbol("575") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.041] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"575","jsonrpc":"2.0"}
+
+V[20:40:31.108] <<< {"id":"576","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.108] <-- textDocument/documentSymbol("576")
+I[20:40:31.108] --> reply:textDocument/documentSymbol("576") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.108] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"576","jsonrpc":"2.0"}
+
+V[20:40:31.140] <<< {"id":"577","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.140] <-- textDocument/documentSymbol("577")
+I[20:40:31.140] --> reply:textDocument/documentSymbol("577") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.140] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"577","jsonrpc":"2.0"}
+
+V[20:40:31.157] <<< {"id":"578","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.158] <-- textDocument/documentSymbol("578")
+I[20:40:31.158] --> reply:textDocument/documentSymbol("578") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.158] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"578","jsonrpc":"2.0"}
+
+V[20:40:31.174] <<< {"id":"579","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.174] <-- textDocument/documentSymbol("579")
+I[20:40:31.174] --> reply:textDocument/documentSymbol("579") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.174] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"579","jsonrpc":"2.0"}
+
+V[20:40:31.189] <<< {"id":"580","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.189] <-- textDocument/documentSymbol("580")
+I[20:40:31.189] --> reply:textDocument/documentSymbol("580") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.189] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"580","jsonrpc":"2.0"}
+
+V[20:40:31.206] <<< {"id":"581","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.206] <-- textDocument/documentSymbol("581")
+I[20:40:31.206] --> reply:textDocument/documentSymbol("581") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.206] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"581","jsonrpc":"2.0"}
+
+V[20:40:31.236] <<< {"id":"582","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.236] <-- textDocument/documentSymbol("582")
+I[20:40:31.236] --> reply:textDocument/documentSymbol("582") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.236] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"582","jsonrpc":"2.0"}
+
+V[20:40:31.469] <<< {"id":"583","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":2,"line":11},"start":{"character":0,"line":7}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:31.470] <-- textDocument/codeAction("583")
+I[20:40:31.470] --> reply:textDocument/codeAction("583") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:31.470] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"583","jsonrpc":"2.0"}
+
+V[20:40:32.026] <<< {"id":"584","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.026] <-- textDocument/documentSymbol("584")
+I[20:40:32.026] --> reply:textDocument/documentSymbol("584") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.026] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"584","jsonrpc":"2.0"}
+
+V[20:40:32.027] <<< {"id":"585","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.027] <-- textDocument/documentSymbol("585")
+I[20:40:32.027] --> reply:textDocument/documentSymbol("585") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.027] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"585","jsonrpc":"2.0"}
+
+V[20:40:32.044] <<< {"id":"586","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.044] <-- textDocument/documentSymbol("586")
+I[20:40:32.044] --> reply:textDocument/documentSymbol("586") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.044] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"586","jsonrpc":"2.0"}
+
+V[20:40:32.056] <<< {"id":"587","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.056] <-- textDocument/documentSymbol("587")
+I[20:40:32.056] --> reply:textDocument/documentSymbol("587") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.056] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"587","jsonrpc":"2.0"}
+
+V[20:40:32.073] <<< {"id":"588","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.073] <-- textDocument/documentSymbol("588")
+I[20:40:32.073] --> reply:textDocument/documentSymbol("588") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.073] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"588","jsonrpc":"2.0"}
+
+V[20:40:32.091] <<< {"id":"589","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.091] <-- textDocument/documentSymbol("589")
+I[20:40:32.091] --> reply:textDocument/documentSymbol("589") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.091] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"589","jsonrpc":"2.0"}
+
+V[20:40:32.125] <<< {"id":"590","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.125] <-- textDocument/documentSymbol("590")
+I[20:40:32.125] --> reply:textDocument/documentSymbol("590") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.125] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"590","jsonrpc":"2.0"}
+
+V[20:40:32.139] <<< {"id":"591","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.139] <-- textDocument/documentSymbol("591")
+I[20:40:32.139] --> reply:textDocument/documentSymbol("591") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.139] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"591","jsonrpc":"2.0"}
+
+V[20:40:32.157] <<< {"id":"592","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.158] <-- textDocument/documentSymbol("592")
+I[20:40:32.158] --> reply:textDocument/documentSymbol("592") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.158] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"592","jsonrpc":"2.0"}
+
+V[20:40:32.173] <<< {"id":"593","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.173] <-- textDocument/documentSymbol("593")
+I[20:40:32.173] --> reply:textDocument/documentSymbol("593") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.173] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"593","jsonrpc":"2.0"}
+
+V[20:40:32.194] <<< {"id":"594","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.195] <-- textDocument/documentSymbol("594")
+I[20:40:32.195] --> reply:textDocument/documentSymbol("594") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.195] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"594","jsonrpc":"2.0"}
+
+V[20:40:32.208] <<< {"id":"595","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.208] <-- textDocument/documentSymbol("595")
+I[20:40:32.208] --> reply:textDocument/documentSymbol("595") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.208] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"595","jsonrpc":"2.0"}
+
+V[20:40:32.227] <<< {"id":"596","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.227] <-- textDocument/documentSymbol("596")
+I[20:40:32.227] --> reply:textDocument/documentSymbol("596") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.227] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"596","jsonrpc":"2.0"}
+
+V[20:40:32.240] <<< {"id":"597","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.240] <-- textDocument/documentSymbol("597")
+I[20:40:32.240] --> reply:textDocument/documentSymbol("597") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.240] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"597","jsonrpc":"2.0"}
+
+V[20:40:32.260] <<< {"id":"598","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.260] <-- textDocument/documentSymbol("598")
+I[20:40:32.260] --> reply:textDocument/documentSymbol("598") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.260] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"598","jsonrpc":"2.0"}
+
+V[20:40:32.293] <<< {"id":"599","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.293] <-- textDocument/documentSymbol("599")
+I[20:40:32.293] --> reply:textDocument/documentSymbol("599") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.293] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"599","jsonrpc":"2.0"}
+
+V[20:40:32.304] <<< {"id":"600","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.304] <-- textDocument/documentSymbol("600")
+I[20:40:32.304] --> reply:textDocument/documentSymbol("600") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.304] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"600","jsonrpc":"2.0"}
+
+V[20:40:32.327] <<< {"id":"601","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.327] <-- textDocument/documentSymbol("601")
+I[20:40:32.327] --> reply:textDocument/documentSymbol("601") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.327] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"601","jsonrpc":"2.0"}
+
+V[20:40:32.360] <<< {"id":"602","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.360] <-- textDocument/documentSymbol("602")
+I[20:40:32.360] --> reply:textDocument/documentSymbol("602") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.360] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"602","jsonrpc":"2.0"}
+
+V[20:40:32.372] <<< {"id":"603","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.372] <-- textDocument/documentSymbol("603")
+I[20:40:32.372] --> reply:textDocument/documentSymbol("603") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.372] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"603","jsonrpc":"2.0"}
+
+V[20:40:32.393] <<< {"id":"604","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.393] <-- textDocument/documentSymbol("604")
+I[20:40:32.393] --> reply:textDocument/documentSymbol("604") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.393] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"604","jsonrpc":"2.0"}
+
+V[20:40:32.407] <<< {"id":"605","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.407] <-- textDocument/documentSymbol("605")
+I[20:40:32.407] --> reply:textDocument/documentSymbol("605") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.407] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"605","jsonrpc":"2.0"}
+
+V[20:40:32.475] <<< {"id":"606","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.476] <-- textDocument/documentSymbol("606")
+I[20:40:32.476] --> reply:textDocument/documentSymbol("606") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.476] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"606","jsonrpc":"2.0"}
+
+V[20:40:32.717] <<< {"id":"607","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":1,"line":33},"start":{"character":0,"line":7}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:32.717] <-- textDocument/codeAction("607")
+I[20:40:32.717] --> reply:textDocument/codeAction("607") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:32.717] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"607","jsonrpc":"2.0"}
+
+V[20:40:34.199] <<< {"id":"608","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:34.199] <-- textDocument/documentSymbol("608")
+I[20:40:34.199] --> reply:textDocument/documentSymbol("608") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:34.199] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"608","jsonrpc":"2.0"}
+
+V[20:40:34.207] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":1,"line":33},"start":{"character":0,"line":7}},"text":"#include <OneWire.h>\r\n\r\nOneWire ds(2);\r\n\r\nvoid setup() {\r\n    Serial.begin(9600);\r\n}\r\n\r\nvoid loop() {\r\n    byte i;\r\n    byte data[12];\r\n    byte addr[8];\r\n    float celsius;\r\n \r\n    // поиск адреса датчика\r\n    if ( !ds.search(addr)) {\r\n        ds.reset_search();\r\n        delay(250);\r\n        return;\r\n    }\r\n \r\n    ds.reset();\r\n    ds.select(addr);\r\n    ds.write(0x44, 1); // команда на измерение температуры\r\n\r\n    delay(1000);\r\n\r\n    ds.reset();\r\n    ds.select(addr); \r\n    ds.write(0xBE); // команда на начало чтения измеренной температуры\r\n\r\n    // считываем показания температуры из внутренней памяти датчика\r\n    for ( i = 0; i < 9; i++) {\r\n        data[i] = ds.read();\r\n    }\r\n\r\n    int16_t raw = (data[1] << 8) | data[0];\r\n    // датчик может быть настроен на разную точность, выясняем её \r\n    byte cfg = (data[4] & 0x60);\r\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\r\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\r\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\r\n\r\n    // преобразование показаний датчика в градусы Цельсия \r\n    celsius = (float)raw / 16.0;\r\n    Serial.print(\"t=\");\r\n    Serial.println(celsius);\r\n}"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":129}}}
+
+I[20:40:34.207] <-- textDocument/didChange
+I[20:40:34.207] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:34.208] <<< {"id":"609","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:34.208] <-- textDocument/documentSymbol("609")
+I[20:40:34.208] --> reply:textDocument/documentSymbol("609") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:34.208] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"609","jsonrpc":"2.0"}
+
+V[20:40:38.702] <<< {"id":"610","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":13,"line":14},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:38.702] <-- textDocument/hover("610")
+I[20:40:38.702] --> reply:textDocument/hover("610") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:38.702] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"610","jsonrpc":"2.0"}
+
+V[20:40:40.502] <<< {"id":"611","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":11,"line":9},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:40.502] <-- textDocument/hover("611")
+I[20:40:40.502] --> reply:textDocument/hover("611") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:40.502] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"611","jsonrpc":"2.0"}
+
+V[20:40:40.621] <<< {"id":"612","jsonrpc":"2.0","method":"textDocument/documentHighlight","params":{"position":{"character":12,"line":9},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:40.621] <-- textDocument/documentHighlight("612")
+I[20:40:40.621] --> reply:textDocument/documentHighlight("612") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:40.621] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"612","jsonrpc":"2.0"}
+
+V[20:40:40.622] <<< {"id":"613","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:40.622] <-- textDocument/documentSymbol("613")
+I[20:40:40.622] --> reply:textDocument/documentSymbol("613") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:40.622] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"613","jsonrpc":"2.0"}
+
+V[20:40:40.873] <<< {"id":"614","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":12,"line":9},"start":{"character":12,"line":9}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:40.873] <-- textDocument/codeAction("614")
+I[20:40:40.873] --> reply:textDocument/codeAction("614") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:40.873] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"614","jsonrpc":"2.0"}
+
+V[20:40:41.181] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:41.181] <-- textDocument/didSave
+V[20:40:41.181] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n#include <OneWire.h>\n\nOneWire ds(2);\n\n#line 10 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 14 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 10 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n    Serial.begin(9600);\n}\n\nvoid loop() {\n    byte i;\n    byte data[12];\n    byte addr[8];\n    float celsius;\n \n    // поиск адреса датчика\n    if ( !ds.search(addr)) {\n        ds.reset_search();\n        delay(250);\n        return;\n    }\n \n    ds.reset();\n    ds.select(addr);\n    ds.write(0x44, 1); // команда на измерение температуры\n\n    delay(1000);\n\n    ds.reset();\n    ds.select(addr); \n    ds.write(0xBE); // команда на начало чтения измеренной температуры\n\n    // считываем показания температуры из внутренней памяти датчика\n    for ( i = 0; i < 9; i++) {\n        data[i] = ds.read();\n    }\n\n    int16_t raw = (data[1] << 8) | data[0];\n    // датчик может быть настроен на разную точность, выясняем её \n    byte cfg = (data[4] & 0x60);\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\n\n    // преобразование показаний датчика в градусы Цельсия \n    celsius = (float)raw / 16.0;\n    Serial.print(\"t=\");\n    Serial.println(celsius);\n} Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":130}}}
+
+I[20:40:41.181] <-- textDocument/didChange
+I[20:40:41.181] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:42.000] <<< {"id":"615","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:42.000] <-- textDocument/documentSymbol("615")
+I[20:40:42.000] --> reply:textDocument/documentSymbol("615") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:42.000] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"615","jsonrpc":"2.0"}
+
+V[20:40:42.005] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":12,"line":9},"start":{"character":11,"line":9}},"text":""}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":131}}}
+
+I[20:40:42.005] <-- textDocument/didChange
+I[20:40:42.005] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:42.005] <<< {"id":"616","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:42.005] <-- textDocument/documentSymbol("616")
+I[20:40:42.005] --> reply:textDocument/documentSymbol("616") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:42.005] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"616","jsonrpc":"2.0"}
+
+V[20:40:42.240] <<< {"id":"617","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":11,"line":9},"start":{"character":11,"line":9}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:42.240] <-- textDocument/codeAction("617")
+I[20:40:42.240] --> reply:textDocument/codeAction("617") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:42.240] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"617","jsonrpc":"2.0"}
+
+V[20:40:42.726] <<< {"id":"618","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:42.726] <-- textDocument/documentSymbol("618")
+I[20:40:42.726] --> reply:textDocument/documentSymbol("618") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:42.726] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"618","jsonrpc":"2.0"}
+
+V[20:40:42.729] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":11,"line":9},"start":{"character":11,"line":9}},"text":"1"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":132}}}
+
+I[20:40:42.729] <-- textDocument/didChange
+I[20:40:42.729] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:42.730] <<< {"id":"619","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:42.730] <-- textDocument/documentSymbol("619")
+I[20:40:42.730] --> reply:textDocument/documentSymbol("619") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:42.730] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"619","jsonrpc":"2.0"}
+
+V[20:40:42.868] <<< {"id":"620","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:42.868] <-- textDocument/documentSymbol("620")
+I[20:40:42.868] --> reply:textDocument/documentSymbol("620") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:42.868] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"620","jsonrpc":"2.0"}
+
+V[20:40:42.871] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":12,"line":9},"start":{"character":12,"line":9}},"text":"0"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":133}}}
+
+I[20:40:42.871] <-- textDocument/didChange
+I[20:40:42.871] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:42.872] <<< {"id":"621","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:42.872] <-- textDocument/documentSymbol("621")
+I[20:40:42.872] --> reply:textDocument/documentSymbol("621") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:42.872] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"621","jsonrpc":"2.0"}
+
+V[20:40:43.128] <<< {"id":"622","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":13,"line":9},"start":{"character":13,"line":9}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:43.128] <-- textDocument/codeAction("622")
+I[20:40:43.128] --> reply:textDocument/codeAction("622") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:43.128] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"622","jsonrpc":"2.0"}
+
+V[20:40:47.776] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:47.776] <-- textDocument/didSave
+V[20:40:47.776] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n#include <OneWire.h>\n\nOneWire ds(10);\n\n#line 10 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 14 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 10 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n    Serial.begin(9600);\n}\n\nvoid loop() {\n    byte i;\n    byte data[12];\n    byte addr[8];\n    float celsius;\n \n    // поиск адреса датчика\n    if ( !ds.search(addr)) {\n        ds.reset_search();\n        delay(250);\n        return;\n    }\n \n    ds.reset();\n    ds.select(addr);\n    ds.write(0x44, 1); // команда на измерение температуры\n\n    delay(1000);\n\n    ds.reset();\n    ds.select(addr); \n    ds.write(0xBE); // команда на начало чтения измеренной температуры\n\n    // считываем показания температуры из внутренней памяти датчика\n    for ( i = 0; i < 9; i++) {\n        data[i] = ds.read();\n    }\n\n    int16_t raw = (data[1] << 8) | data[0];\n    // датчик может быть настроен на разную точность, выясняем её \n    byte cfg = (data[4] & 0x60);\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\n\n    // преобразование показаний датчика в градусы Цельсия \n    celsius = (float)raw / 16.0;\n    Serial.print(\"t=\");\n    Serial.println(celsius);\n} Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":134}}}
+
+I[20:40:47.777] <-- textDocument/didChange
+I[20:40:47.777] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:49.272] <<< {"id":"623","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:49.272] <-- textDocument/documentSymbol("623")
+I[20:40:49.272] --> reply:textDocument/documentSymbol("623") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:49.272] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"623","jsonrpc":"2.0"}
+
+V[20:40:49.518] <<< {"id":"624","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":15,"line":9},"start":{"character":15,"line":9}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:49.519] <-- textDocument/codeAction("624")
+I[20:40:49.519] --> reply:textDocument/codeAction("624") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:49.519] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"624","jsonrpc":"2.0"}
+
+V[20:40:51.091] <<< {"id":"625","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:51.091] <-- textDocument/documentSymbol("625")
+I[20:40:51.091] --> reply:textDocument/documentSymbol("625") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:51.091] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"625","jsonrpc":"2.0"}
+
+V[20:40:51.336] <<< {"id":"626","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":2,"line":6},"start":{"character":2,"line":6}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:51.336] <-- textDocument/codeAction("626")
+I[20:40:51.337] --> reply:textDocument/codeAction("626") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:51.337] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"626","jsonrpc":"2.0"}
+
+V[20:40:52.277] <<< {"id":"627","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:52.277] <-- textDocument/documentSymbol("627")
+I[20:40:52.277] --> reply:textDocument/documentSymbol("627") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:52.277] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"627","jsonrpc":"2.0"}
+
+V[20:40:52.281] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":2,"line":6},"start":{"character":2,"line":6}},"text":"\r\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":135}}}
+
+I[20:40:52.281] <-- textDocument/didChange
+I[20:40:52.281] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:52.282] <<< {"id":"628","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:52.282] <-- textDocument/documentSymbol("628")
+I[20:40:52.282] --> reply:textDocument/documentSymbol("628") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:52.282] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"628","jsonrpc":"2.0"}
+
+V[20:40:52.446] <<< {"id":"629","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":15,"line":8},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:52.446] <-- textDocument/hover("629")
+I[20:40:52.446] --> reply:textDocument/hover("629") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:52.446] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"629","jsonrpc":"2.0"}
+
+V[20:40:52.711] <<< {"id":"630","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":15,"line":8},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:52.711] <-- textDocument/hover("630")
+I[20:40:52.711] --> reply:textDocument/hover("630") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:52.711] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"630","jsonrpc":"2.0"}
+
+V[20:40:55.455] <<< {"id":"631","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:55.455] <-- textDocument/documentSymbol("631")
+I[20:40:55.455] --> reply:textDocument/documentSymbol("631") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:55.455] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"631","jsonrpc":"2.0"}
+
+V[20:40:55.460] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":0,"line":7},"start":{"character":0,"line":7}},"text":"/"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":136}}}
+
+I[20:40:55.460] <-- textDocument/didChange
+I[20:40:55.460] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:55.461] <<< {"id":"632","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:55.461] <-- textDocument/documentSymbol("632")
+I[20:40:55.461] --> reply:textDocument/documentSymbol("632") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:55.461] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"632","jsonrpc":"2.0"}
+
+V[20:40:55.463] <<< {"id":"633","jsonrpc":"2.0","method":"textDocument/completion","params":{"context":{"triggerCharacter":"/","triggerKind":2},"position":{"character":1,"line":7},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:55.464] <-- textDocument/completion("633")
+I[20:40:55.464] --> reply:textDocument/completion("633") 0 ms, error: -32602: trying to get preamble for non-added document
+V[20:40:55.464] >>> {"error":{"code":-32602,"message":"trying to get preamble for non-added document"},"id":"633","jsonrpc":"2.0"}
+
+V[20:40:55.570] <<< {"id":"634","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:55.570] <-- textDocument/documentSymbol("634")
+I[20:40:55.570] --> reply:textDocument/documentSymbol("634") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:55.570] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"634","jsonrpc":"2.0"}
+
+V[20:40:55.574] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":1,"line":7},"start":{"character":1,"line":7}},"text":"/"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":137}}}
+
+I[20:40:55.574] <-- textDocument/didChange
+I[20:40:55.574] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:55.574] <<< {"id":"635","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:55.574] <-- textDocument/documentSymbol("635")
+I[20:40:55.574] --> reply:textDocument/documentSymbol("635") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:55.574] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"635","jsonrpc":"2.0"}
+
+V[20:40:55.577] <<< {"id":"636","jsonrpc":"2.0","method":"textDocument/completion","params":{"context":{"triggerCharacter":"/","triggerKind":2},"position":{"character":2,"line":7},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:55.577] <-- textDocument/completion("636")
+I[20:40:55.577] --> reply:textDocument/completion("636") 0 ms, error: -32602: trying to get preamble for non-added document
+V[20:40:55.577] >>> {"error":{"code":-32602,"message":"trying to get preamble for non-added document"},"id":"636","jsonrpc":"2.0"}
+
+V[20:40:55.817] <<< {"id":"637","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":2,"line":7},"start":{"character":2,"line":7}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:55.817] <-- textDocument/codeAction("637")
+I[20:40:55.817] --> reply:textDocument/codeAction("637") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:55.817] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"637","jsonrpc":"2.0"}
+
+V[20:40:56.821] <<< {"id":"638","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:56.821] <-- textDocument/documentSymbol("638")
+I[20:40:56.822] --> reply:textDocument/documentSymbol("638") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:56.822] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"638","jsonrpc":"2.0"}
+
+V[20:40:56.825] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":2,"line":7},"start":{"character":2,"line":7}},"text":"https://robotclass.ru/tutorials/arduino-ds18b20-roc/"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":138}}}
+
+I[20:40:56.825] <-- textDocument/didChange
+I[20:40:56.825] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:56.825] <<< {"id":"639","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:56.825] <-- textDocument/documentSymbol("639")
+I[20:40:56.825] --> reply:textDocument/documentSymbol("639") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:56.825] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"639","jsonrpc":"2.0"}
+
+V[20:40:57.081] <<< {"id":"640","jsonrpc":"2.0","method":"textDocument/codeAction","params":{"context":{"diagnostics":[]},"range":{"end":{"character":54,"line":7},"start":{"character":54,"line":7}},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:57.081] <-- textDocument/codeAction("640")
+I[20:40:57.081] --> reply:textDocument/codeAction("640") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:57.081] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"640","jsonrpc":"2.0"}
+
+V[20:40:58.600] <<< {"id":"641","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:58.600] <-- textDocument/documentSymbol("641")
+I[20:40:58.600] --> reply:textDocument/documentSymbol("641") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:58.600] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"641","jsonrpc":"2.0"}
+
+V[20:40:58.604] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"range":{"end":{"character":54,"line":7},"start":{"character":54,"line":7}},"text":"\r\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":139}}}
+
+I[20:40:58.604] <-- textDocument/didChange
+I[20:40:58.604] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:40:58.604] <<< {"id":"642","jsonrpc":"2.0","method":"textDocument/documentSymbol","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:40:58.604] <-- textDocument/documentSymbol("642")
+I[20:40:58.604] --> reply:textDocument/documentSymbol("642") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:40:58.604] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"642","jsonrpc":"2.0"}
+
+V[20:41:03.503] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:41:03.503] <-- textDocument/didSave
+V[20:41:03.503] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n//https://robotclass.ru/tutorials/arduino-ds18b20-roc/\n\n#include <OneWire.h>\n\nOneWire ds(10);\n\n#line 12 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 16 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 12 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n    Serial.begin(9600);\n}\n\nvoid loop() {\n    byte i;\n    byte data[12];\n    byte addr[8];\n    float celsius;\n \n    // поиск адреса датчика\n    if ( !ds.search(addr)) {\n        ds.reset_search();\n        delay(250);\n        return;\n    }\n \n    ds.reset();\n    ds.select(addr);\n    ds.write(0x44, 1); // команда на измерение температуры\n\n    delay(1000);\n\n    ds.reset();\n    ds.select(addr); \n    ds.write(0xBE); // команда на начало чтения измеренной температуры\n\n    // считываем показания температуры из внутренней памяти датчика\n    for ( i = 0; i < 9; i++) {\n        data[i] = ds.read();\n    }\n\n    int16_t raw = (data[1] << 8) | data[0];\n    // датчик может быть настроен на разную точность, выясняем её \n    byte cfg = (data[4] & 0x60);\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\n\n    // преобразование показаний датчика в градусы Цельсия \n    celsius = (float)raw / 16.0;\n    Serial.print(\"t=\");\n    Serial.println(celsius);\n} Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":140}}}
+
+I[20:41:03.503] <-- textDocument/didChange
+I[20:41:03.503] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:41:06.936] <<< {"id":"643","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":20,"line":45},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:41:06.936] <-- textDocument/hover("643")
+I[20:41:06.936] --> reply:textDocument/hover("643") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:41:06.936] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"643","jsonrpc":"2.0"}
+
+V[20:41:19.246] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:41:19.246] <-- textDocument/didSave
+V[20:41:19.246] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n//https://robotclass.ru/tutorials/arduino-ds18b20-roc/\n\n#include <OneWire.h>\n\nOneWire ds(10);\n\n#line 12 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 16 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 12 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n    Serial.begin(9600);\n}\n\nvoid loop() {\n    byte i;\n    byte data[12];\n    byte addr[8];\n    float celsius;\n \n    // поиск адреса датчика\n    if ( !ds.search(addr)) {\n        ds.reset_search();\n        delay(250);\n        return;\n    }\n \n    ds.reset();\n    ds.select(addr);\n    ds.write(0x44, 1); // команда на измерение температуры\n\n    delay(1000);\n\n    ds.reset();\n    ds.select(addr); \n    ds.write(0xBE); // команда на начало чтения измеренной температуры\n\n    // считываем показания температуры из внутренней памяти датчика\n    for ( i = 0; i < 9; i++) {\n        data[i] = ds.read();\n    }\n\n    int16_t raw = (data[1] << 8) | data[0];\n    // датчик может быть настроен на разную точность, выясняем её \n    byte cfg = (data[4] & 0x60);\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\n\n    // преобразование показаний датчика в градусы Цельсия \n    celsius = (float)raw / 16.0;\n    Serial.print(\"t=\");\n    Serial.println(celsius);\n} Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":141}}}
+
+I[20:41:19.246] <-- textDocument/didChange
+I[20:41:19.246] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:41:38.397] <<< {"id":"644","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":16,"line":9},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:41:38.398] <-- textDocument/hover("644")
+I[20:41:38.398] --> reply:textDocument/hover("644") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:41:38.398] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"644","jsonrpc":"2.0"}
+
+V[20:41:44.337] <<< {"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:41:44.337] <-- textDocument/didSave
+V[20:41:44.337] <<< {"jsonrpc":"2.0","method":"textDocument/didChange","params":{"contentChanges":[{"text":"#include <Arduino.h>\n#line 1 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\n/*1янв25\nТермометр\nПроект 9\nScriptor42\n*/\n//https://robotclass.ru/tutorials/arduino-ds18b20-roc/\n\n#include <OneWire.h>\n\nOneWire ds(10);\n\n#line 12 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup();\n#line 16 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid loop();\n#line 12 \"D:\\\\Arduino_GitHub\\\\Termometer\\\\Termometer.ino\"\nvoid setup() {\n    Serial.begin(9600);\n}\n\nvoid loop() {\n    byte i;\n    byte data[12];\n    byte addr[8];\n    float celsius;\n \n    // поиск адреса датчика\n    if ( !ds.search(addr)) {\n        ds.reset_search();\n        delay(250);\n        return;\n    }\n \n    ds.reset();\n    ds.select(addr);\n    ds.write(0x44, 1); // команда на измерение температуры\n\n    delay(1000);\n\n    ds.reset();\n    ds.select(addr); \n    ds.write(0xBE); // команда на начало чтения измеренной температуры\n\n    // считываем показания температуры из внутренней памяти датчика\n    for ( i = 0; i < 9; i++) {\n        data[i] = ds.read();\n    }\n\n    int16_t raw = (data[1] << 8) | data[0];\n    // датчик может быть настроен на разную точность, выясняем её \n    byte cfg = (data[4] & 0x60);\n    if (cfg == 0x00) raw = raw & ~7; // точность 9-разрядов, 93,75 мс\n    else if (cfg == 0x20) raw = raw & ~3; // точность 10-разрядов, 187,5 мс\n    else if (cfg == 0x40) raw = raw & ~1; // точность 11-разрядов, 375 мс\n\n    // преобразование показаний датчика в градусы Цельсия \n    celsius = (float)raw / 16.0;\n    Serial.print(\"t=\");\n    Serial.println(celsius);\n} Serial.print(celsius);\n  Serial.print(\" Celsius, \");\n  Serial.print(fahrenheit);\n  Serial.println(\" Fahrenheit\");\n}\n"}],"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp","version":142}}}
+
+I[20:41:44.337] <-- textDocument/didChange
+I[20:41:44.337] Trying to incrementally change non-added document: c:\Users\рс\AppData\Local\Temp\arduino-language-server2510331829\build\sketch\Termometer.ino.cpp
+V[20:41:50.923] <<< {"id":"645","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":17,"line":7},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:41:50.923] <-- textDocument/hover("645")
+I[20:41:50.923] --> reply:textDocument/hover("645") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:41:50.923] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"645","jsonrpc":"2.0"}
+
+V[20:41:51.278] <<< {"id":"646","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":20,"line":7},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:41:51.278] <-- textDocument/hover("646")
+I[20:41:51.278] --> reply:textDocument/hover("646") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:41:51.278] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"646","jsonrpc":"2.0"}
+
+V[20:41:51.606] <<< {"id":"647","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":21,"line":7},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:41:51.606] <-- textDocument/hover("647")
+I[20:41:51.606] --> reply:textDocument/hover("647") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:41:51.606] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"647","jsonrpc":"2.0"}
+
+V[20:41:53.466] <<< {"id":"648","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":14,"line":31},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:41:53.466] <-- textDocument/hover("648")
+I[20:41:53.466] --> reply:textDocument/hover("648") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:41:53.466] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"648","jsonrpc":"2.0"}
+
+V[20:42:18.325] <<< {"id":"649","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":54,"line":51},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:42:18.325] <-- textDocument/hover("649")
+I[20:42:18.325] --> reply:textDocument/hover("649") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:42:18.325] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"649","jsonrpc":"2.0"}
+
+V[20:42:18.665] <<< {"id":"650","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":54,"line":57},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:42:18.665] <-- textDocument/hover("650")
+I[20:42:18.665] --> reply:textDocument/hover("650") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:42:18.666] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"650","jsonrpc":"2.0"}
+
+V[20:42:39.280] <<< {"id":"651","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":55,"line":54},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:42:39.280] <-- textDocument/hover("651")
+I[20:42:39.280] --> reply:textDocument/hover("651") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:42:39.280] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"651","jsonrpc":"2.0"}
+
+V[20:42:39.677] <<< {"id":"652","jsonrpc":"2.0","method":"textDocument/hover","params":{"position":{"character":56,"line":53},"textDocument":{"uri":"file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2510331829/build/sketch/Termometer.ino.cpp"}}}
+
+I[20:42:39.677] <-- textDocument/hover("652")
+I[20:42:39.677] --> reply:textDocument/hover("652") 0 ms, error: -32602: trying to get AST for non-added document
+V[20:42:39.677] >>> {"error":{"code":-32602,"message":"trying to get AST for non-added document"},"id":"652","jsonrpc":"2.0"}
+
