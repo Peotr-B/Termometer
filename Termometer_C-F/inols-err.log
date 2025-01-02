@@ -1,0 +1,1234 @@
+
+
+
+
+
+
+
+Started logging.
+14:33:49.258345 Language server launched with arguments:
+14:33:49.258880   arg[0] = c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\arduino-language-server.exe
+14:33:49.258880   arg[1] = -clangd
+14:33:49.258880   arg[2] = c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\clangd.exe
+14:33:49.258880   arg[3] = -cli-daemon-addr
+14:33:49.258880   arg[4] = localhost:52388
+14:33:49.258880   arg[5] = -cli-daemon-instance
+14:33:49.258880   arg[6] = 1
+14:33:49.258880   arg[7] = -fqbn
+14:33:49.258880   arg[8] = arduino:avr:leonardo
+14:33:49.258880   arg[9] = -skip-libraries-discovery-on-rebuild
+14:33:49.258880   arg[10] = -board-name
+14:33:49.259410   arg[11] = Arduino Leonardo
+14:33:49.259410   arg[12] = -no-real-time-diagnostics
+14:33:49.259410   arg[13] = -log
+14:33:49.259410   arg[14] = -logpath
+14:33:49.259410   arg[15] = d:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F
+14:33:49.259410 logging to d:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\inols.log
+14:33:49.263615 [97mLS: : Initial board configuration: arduino:avr:leonardo[0m
+14:33:49.263615 [97mLS: : arduino-language-server.exe Version: 0.0.0-git Commit:  Date: [0m
+14:33:49.263615 [97mLS: : Language server temp directory: C:\Users\рс\AppData\Local\Temp\arduino-language-server3887294064[0m
+14:33:49.263615 [97mLS: : Language server build path: C:\Users\рс\AppData\Local\Temp\arduino-language-server3887294064\build[0m
+14:33:49.263615 [97mLS: : Language server build sketch root: C:\Users\рс\AppData\Local\Temp\arduino-language-server3887294064\build\sketch[0m
+14:33:49.263615 [97mLS: : Language server FULL build path: C:\Users\рс\AppData\Local\Temp\arduino-language-server3887294064\fullbuild[0m
+14:33:49.264667 IN Elapsed: 1.0521ms
+14:33:49.264682 [92mIDE --> LS REQU initialize 0[0m
+14:33:49.265727 [92m                initialize 0: [93mwrite-locked[0m[0m
+14:33:49.266253 [92m                initialize 0: [93mwrite-unlocked[0m[0m
+14:33:49.266253 [96mINIT --- : initializing workbench: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F[0m
+14:33:49.266253 [96mINIT --- : [93mread-locked[0m[0m
+14:33:49.266253 [96mINIT --- : [93mread-unlocked[0m[0m
+14:33:49.266839 [92m                initialize 0: initialization parameters: {"capabilities":{"textDocumentSync":{"openClose":true,"change":2,"save":{"includeText":true}},"completionProvider":{"triggerCharacters":[".","\u003c","\u003e",":","\"","/"],"allCommitCharacters":[" ","\t","(",")","[","]","{","}","\u003c","\u003e",":",";",",","+","-","/","*","%","^","\u0026","#","?",".","=","\"","'","|"],"completionItem":{}},"hoverProvider":{},"signatureHelpProvider":{"triggerCharacters":["(",","]},"definitionProvider":{},"documentHighlightProvider":{},"documentSymbolProvider":{},"codeActionProvider":{"codeActionKinds":["quickfix","refactor","info"]},"documentFormattingProvider":{},"documentRangeFormattingProvider":{},"documentOnTypeFormattingProvider":{"firstTriggerCharacter":"\n"},"renameProvider":{},"executeCommandProvider":{"commands":["clangd.applyFix","clangd.applyTweak"]},"workspaceSymbolProvider":{}},"serverInfo":{"name":"arduino-language-server","version":"0.0.0-git"}}[0m
+14:33:49.266839 [32mIDE <-- LS RESP initialize 0[0m
+14:33:49.267374 OUT Elapsed: 0s
+14:33:49.276454 IN Elapsed: 9.0804ms
+14:33:49.276454 [92mIDE --> LS NOTIF initialized[0m
+14:33:49.276454 [92m                 initialized: Notification is not propagated to clangd[0m
+14:33:49.276454 IN Elapsed: 0s
+14:33:49.276454 [92mIDE --> LS NOTIF textDocument/didOpen[0m
+14:33:49.276454 [92m                 textDocument/didOpen: [93mwrite-locked[0m[0m
+14:33:49.276454 [92m                 textDocument/didOpen: (throttled: waiting for clangd)[0m
+14:33:49.276454 [92m                 textDocument/didOpen: [93munlocked (waiting clangd)[0m[0m
+14:33:49.278145 [96mINIT --- : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\YandexDisk\\Документы\\Arbeit\\Копирайтинг\\Superais\\Проекты\\9_Как собрать устройство на базе Arduino для начинающих\\Проект Температруный монитор\\Arduino_GitHub\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server3887294064\\fullbuild",
+  "verbose": true,
+  "create_compilation_database_only": true
+}[0m
+14:33:50.993686 [96mINIT --- : Compile successful![0m
+14:33:51.008296 [96mINIT --- : Updated 'libraries.cache'. Copied: C:\Users\рс\AppData\Local\Temp\arduino-language-server3887294064\fullbuild\libraries.cache to C:\Users\рс\AppData\Local\Temp\arduino-language-server3887294064\build\libraries.cache[0m
+14:33:51.008296 [96mINIT --- : [93mread-locked[0m[0m
+14:33:51.008296 [96mINIT --- : [93mread-unlocked[0m[0m
+14:33:51.010574 [96mINIT --- : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\YandexDisk\\Документы\\Arbeit\\Копирайтинг\\Superais\\Проекты\\9_Как собрать устройство на базе Arduino для начинающих\\Проект Температруный монитор\\Arduino_GitHub\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server3887294064\\build",
+  "verbose": true,
+  "create_compilation_database_only": true,
+  "skip_libraries_discovery": true
+}[0m
+14:33:52.062889 [96mINIT --- : Compile successful![0m
+14:33:52.084778 [96mINIT --- : Arduino Data Dir -> c:\Users\рс\AppData\Local\Arduino15[0m
+14:33:52.087440 [96mINIT --- :     Starting clangd: c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\clangd.exe -log=verbose --pch-storage=memory --compile-commands-dir=C:\Users\рс\AppData\Local\Temp\arduino-language-server3887294064\build -j 1 -query-driver=C:\Users\рс\AppData\Local\Arduino15\packages\**[0m
+14:33:52.093324 logging to d:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\inols-clangd.log
+14:33:52.093875 logging to d:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\inols-clangd-err.log
+14:33:52.093875 [91mIDE     LS --> Clangd REQU initialize 1[0m
+14:33:52.094412 OUT Elapsed: 536.4µs
+14:33:52.130350 IN Elapsed: 36.4746ms
+14:33:52.130350 [31mIDE     LS <-- Clangd RESP initialize 1[0m
+14:33:52.131339 [96mINIT --- : clangd successfully started: {"capabilities":{"textDocumentSync":{"openClose":true,"change":2,"save":{}},"completionProvider":{"triggerCharacters":[".","\u003c","\u003e",":","\"","/","*"],"allCommitCharacters":[" ","\t","(",")","[","]","{","}","\u003c","\u003e",":",";",",","+","-","/","*","%","^","\u0026","#","?",".","=","\"","'","|"]},"hoverProvider":{},"signatureHelpProvider":{"triggerCharacters":["(",")","{","}","\u003c","\u003e",","]},"declarationProvider":{},"definitionProvider":{},"typeDefinitionProvider":{},"implementationProvider":{},"referencesProvider":{},"documentHighlightProvider":{},"documentSymbolProvider":{},"codeActionProvider":{"codeActionKinds":["quickfix","refactor","info"]},"documentLinkProvider":{},"documentFormattingProvider":{},"documentRangeFormattingProvider":{},"documentOnTypeFormattingProvider":{"firstTriggerCharacter":"\n"},"renameProvider":{"prepareProvider":true},"executeCommandProvider":{"commands":["clangd.applyFix","clangd.applyTweak"]},"selectionRangeProvider":{},"callHierarchyProvider":{},"semanticTokensProvider":{"legend":{"tokenTypes":["variable","variable","parameter","function","method","function","property","variable","class","interface","enum","enumMember","type","type","unknown","namespace","typeParameter","concept","type","macro","comment"],"tokenModifiers":["declaration","deprecated","deduced","readonly","static","abstract","virtual","dependentName","defaultLibrary","usedAsMutableReference","functionScope","classScope","fileScope","globalScope"]},"range":false,"full":{"delta":true}},"workspaceSymbolProvider":{}},"serverInfo":{"name":"clangd","version":"clangd version 14.0.0 windows x86_64-pc-windows-msvc"}}[0m
+14:33:52.131339 [91mIDE     LS --> Clangd NOTIF initialized[0m
+14:33:52.131339 OUT Elapsed: 0s
+14:33:52.131339 [96mINIT --- : Done initializing workbench[0m
+14:33:52.131339 [92m                 textDocument/didOpen: [93mlocked (waiting clangd)[0m[0m
+14:33:52.132338 [92m                 textDocument/didOpen: URI: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp[0m
+14:33:52.134350 [92m                 textDocument/didOpen: Increasing .ino tracked files count to 1[0m
+14:33:52.135339 [91mIDE     LS --> Clangd NOTIF textDocument/didOpen[0m
+14:33:52.135339 OUT Elapsed: 0s
+14:33:52.135339 [92m                 textDocument/didOpen: [93mwrite-unlocked[0m[0m
+14:33:52.135339 IN Elapsed: 0s
+14:33:52.135339 [92mIDE --> LS REQU textDocument/documentSymbol 1[0m
+14:33:52.135339 [92m                textDocument/documentSymbol 1: [93mread-locked[0m[0m
+14:33:52.136338 [92m                textDocument/documentSymbol 1: URI: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp[0m
+14:33:52.136338 [91mIDE     LS --> Clangd REQU textDocument/documentSymbol 2[0m
+14:33:52.136338 OUT Elapsed: 0s
+14:33:52.139339 IN Elapsed: 8.9894ms
+14:33:52.139339 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:33:52.139339 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:33:52.145338 IN Elapsed: 5.9982ms
+14:33:52.145338 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:33:52.146424 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:33:52.151818 IN Elapsed: 5.3932ms
+14:33:52.152345 [91mIDE     LS <-- Clangd REQU window/workDoneProgress/create 0[0m
+14:33:52.152387 [31mIDE     LS --> Clangd RESP window/workDoneProgress/create 0[0m
+14:33:52.152387 [92mIDE <-- LS REQU window/workDoneProgress/create 1[0m
+14:33:52.152387 OUT Elapsed: 0s
+14:33:52.152387 OUT Elapsed: 0s
+14:33:52.152387 IN Elapsed: 0s
+14:33:52.152387 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:33:52.152922 [91m                            $/progress: backgroundIndexProgress BEGIN indexing, 0.0%[0m
+14:33:52.152939 IN Elapsed: 0s
+14:33:52.152939 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:33:52.152939 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:33:52.156816 IN Elapsed: 3.8777ms
+14:33:52.156816 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:33:52.156816 [91m                            $/progress: backgroundIndexProgress REPORT, 0/2, 0.0%[0m
+14:33:52.157326 IN Elapsed: 509.7µs
+14:33:52.157360 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:33:52.157360 [91m                            $/progress: backgroundIndexProgress REPORT, 1/2, 50.0%[0m
+14:33:52.157360 IN Elapsed: 0s
+14:33:52.157360 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:33:52.157360 [91m                            $/progress: backgroundIndexProgress REPORT, 1/2, 50.0%[0m
+14:33:52.376233 IN Elapsed: 218.8722ms
+14:33:52.376233 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:33:52.376233 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:33:52.376782 IN Elapsed: 548.9µs
+14:33:52.376782 [31mIDE     LS <-- Clangd RESP textDocument/documentSymbol 2[0m
+14:33:52.377919 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp (6 document symbols)[0m
+14:33:52.377919 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Variable 12:0-12:19[0m
+14:33:52.378987 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:12:0-12:19 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:10:0-10:19 (.ino)[0m
+14:33:52.380109 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:12:8-12:15 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:10:8-10:15 (.ino)[0m
+14:33:52.380219 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:33:52.380219 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Variable 13:0-13:30[0m
+14:33:52.381067 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:13:0-13:30 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:11:0-11:30 (.ino)[0m
+14:33:52.382135 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:13:18-13:20 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:11:18-11:20 (.ino)[0m
+14:33:52.382135 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:33:52.382135 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Function 16:0-16:12[0m
+14:33:52.383184 [92m                textDocument/documentSymbol 1: Range is in PREPROCESSED section of the sketch[0m
+14:33:52.383184 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:16:0-16:12 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:13:0-13:12 (.ino)[0m
+14:33:52.383184 [92m                textDocument/documentSymbol 1:     symbol is in the preprocessed section of the sketch.ino.cpp, skipping[0m
+14:33:52.383184 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Function 18:0-18:11[0m
+14:33:52.383786 [92m                textDocument/documentSymbol 1: Range is in PREPROCESSED section of the sketch[0m
+14:33:52.383786 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:18:0-18:11 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:18:0-18:11 (.ino)[0m
+14:33:52.383786 [92m                textDocument/documentSymbol 1:     symbol is in the preprocessed section of the sketch.ino.cpp, skipping[0m
+14:33:52.383786 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Function 20:0-23:1[0m
+14:33:52.385375 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:20:0-23:1 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:13:0-16:1 (.ino)[0m
+14:33:52.386434 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:20:5-20:10 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:13:5-13:10 (.ino)[0m
+14:33:52.386434 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:33:52.386434 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Function 25:0-38:1[0m
+14:33:52.387494 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:25:0-38:1 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:18:0-31:1 (.ino)[0m
+14:33:52.388556 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:25:5-25:9 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:18:5-18:9 (.ino)[0m
+14:33:52.388556 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:33:52.388556 [92m                textDocument/documentSymbol 1: [93mread-unlocked[0m[0m
+14:33:52.388556 [32mIDE <-- LS RESP textDocument/documentSymbol 1[0m
+14:33:52.388556 OUT Elapsed: 0s
+14:33:52.388556 IN Elapsed: 0s
+14:33:52.389064 [32mIDE --> LS RESP window/workDoneProgress/create 1[0m
+14:33:52.389096 [92mIDE <-- LS NOTIF $/progress[0m
+14:33:52.389096 OUT Elapsed: 0s
+14:33:52.389096 [92mIDE <-- LS NOTIF $/progress[0m
+14:33:52.389096 OUT Elapsed: 0s
+14:33:52.682357 IN Elapsed: 305.5748ms
+14:33:52.682357 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:33:52.682357 [91m                            $/progress: backgroundIndexProgress END [0m
+14:33:52.682357 [92mIDE <-- LS NOTIF $/progress[0m
+14:33:52.682357 OUT Elapsed: 0s
+14:33:54.476457 IN Elapsed: 2.0879002s
+14:33:54.476478 [92mIDE --> LS REQU textDocument/hover 2[0m
+14:33:54.476478 [92m                textDocument/hover 2: [93mread-locked[0m[0m
+14:33:54.477039 [92m                textDocument/hover 2: URI: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp[0m
+14:33:54.479360 [92m                textDocument/hover 2: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:21:25 -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:28:25[0m
+14:33:54.479360 [91mIDE     LS --> Clangd REQU textDocument/hover 3[0m
+14:33:54.479654 OUT Elapsed: 294.6µs
+14:33:54.481831 IN Elapsed: 1.799474s
+14:33:54.481831 [31mIDE     LS <-- Clangd RESP textDocument/hover 3[0m
+14:33:54.481831 [92m                textDocument/hover 2: null response[0m
+14:33:54.481831 [92m                textDocument/hover 2: [93mread-unlocked[0m[0m
+14:33:54.481831 [32mIDE <-- LS RESP textDocument/hover 2[0m
+14:33:54.481831 OUT Elapsed: 0s
+14:33:55.166216 IN Elapsed: 684.3846ms
+14:33:55.166216 [92mIDE --> LS REQU textDocument/hover 3[0m
+14:33:55.166216 [92m                textDocument/hover 3: [93mread-locked[0m[0m
+14:33:55.166772 [92m                textDocument/hover 3: URI: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp[0m
+14:33:55.169414 [92m                textDocument/hover 3: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:23:36 -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:30:36[0m
+14:33:55.169414 [91mIDE     LS --> Clangd REQU textDocument/hover 4[0m
+14:33:55.169414 OUT Elapsed: 0s
+14:33:55.171527 IN Elapsed: 689.6953ms
+14:33:55.171527 [31mIDE     LS <-- Clangd RESP textDocument/hover 4[0m
+14:33:55.171527 [92m                textDocument/hover 3: null response[0m
+14:33:55.171527 [92m                textDocument/hover 3: [93mread-unlocked[0m[0m
+14:33:55.171527 [32mIDE <-- LS RESP textDocument/hover 3[0m
+14:33:55.171527 OUT Elapsed: 0s
+14:33:55.398873 IN Elapsed: 227.3453ms
+14:33:55.398873 [92mIDE --> LS REQU textDocument/hover 4[0m
+14:33:55.398873 [92m                textDocument/hover 4: [93mread-locked[0m[0m
+14:33:55.400484 [92m                textDocument/hover 4: URI: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp[0m
+14:33:55.404712 [92m                textDocument/hover 4: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:24:36 -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:31:36[0m
+14:33:55.405230 [91mIDE     LS --> Clangd REQU textDocument/hover 5[0m
+14:33:55.405230 OUT Elapsed: 0s
+14:33:55.407441 IN Elapsed: 235.9136ms
+14:33:55.407441 [31mIDE     LS <-- Clangd RESP textDocument/hover 5[0m
+14:33:55.407441 [92m                textDocument/hover 4: null response[0m
+14:33:55.407441 [92m                textDocument/hover 4: [93mread-unlocked[0m[0m
+14:33:55.407441 [32mIDE <-- LS RESP textDocument/hover 4[0m
+14:33:55.407441 OUT Elapsed: 0s
+14:34:06.643384 IN Elapsed: 11.2359379s
+14:34:06.643384 [92mIDE --> LS REQU textDocument/hover 5[0m
+14:34:06.643384 [92m                textDocument/hover 5: [93mread-locked[0m[0m
+14:34:06.643938 [92m                textDocument/hover 5: URI: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp[0m
+14:34:06.646079 [92m                textDocument/hover 5: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:3:8 -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3887294064/build/sketch/Termometer_C-F.ino.cpp:5:8[0m
+14:34:06.646079 [91mIDE     LS --> Clangd REQU textDocument/hover 6[0m
+14:34:06.646079 OUT Elapsed: 0s
+14:34:06.650743 IN Elapsed: 11.2432968s
+14:34:06.650743 [31mIDE     LS <-- Clangd RESP textDocument/hover 6[0m
+14:34:06.650743 [92m                textDocument/hover 5: null response[0m
+14:34:06.650743 [92m                textDocument/hover 5: [93mread-unlocked[0m[0m
+14:34:06.650743 [32mIDE <-- LS RESP textDocument/hover 5[0m
+14:34:06.650743 OUT Elapsed: 0s
+14:34:07.185537 IN Elapsed: 534.793ms
+14:34:07.186086 [92mIDE --> LS NOTIF ino/didCompleteBuild[0m
+14:34:07.186641 [92m                 ino/didCompleteBuild: [93mwrite-locked[0m[0m
+14:34:07.190061 [92m                 ino/didCompleteBuild: Updated 'libraries.cache'. Copied: C:\Users\рс\AppData\Local\arduino\sketches\D6CABA9105F0B54A9FF688865BC90D52\libraries.cache to C:\Users\рс\AppData\Local\Temp\arduino-language-server3887294064\build\libraries.cache[0m
+14:34:07.190061 [92m                 ino/didCompleteBuild: [93mwrite-unlocked[0m[0m
+14:34:08.197291 [95mSKETCH REBUILD: : Sketch rebuild started[0m
+14:34:08.197291 [92mIDE <-- LS REQU window/workDoneProgress/create 2[0m
+14:34:08.197291 [95mSKETCH REBUILD: : [93mread-locked[0m[0m
+14:34:08.197291 [95mSKETCH REBUILD: : [93mread-unlocked[0m[0m
+14:34:08.197291 OUT Elapsed: 0s
+14:34:08.197849 IN Elapsed: 1.0077873s
+14:34:08.197849 [32mIDE --> LS RESP window/workDoneProgress/create 2[0m
+14:34:08.197849 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:08.197849 OUT Elapsed: 0s
+14:34:08.203145 [95mSKETCH REBUILD: : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\YandexDisk\\Документы\\Arbeit\\Копирайтинг\\Superais\\Проекты\\9_Как собрать устройство на базе Arduino для начинающих\\Проект Температруный монитор\\Arduino_GitHub\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server3887294064\\build",
+  "verbose": true,
+  "create_compilation_database_only": true,
+  "source_override": {
+    "Termometer_C-F.ino": "/*1янв25\r\nТермометр C / F\r\nПроект 9\r\nScriptor42\r\n*/\r\n/*Сборный скетч */\r\n\r\n#include \"OneWire.h\"\r\n#include \"DallasTemperature.h\"\r\n \r\nOneWire oneWire(10);  // Порт подключения датчиков\r\nDallasTemperature ds(\u0026oneWire);\r\n\r\nvoid setup() {\r\n  Serial.begin(9600);   // Инициализация монитора порта\r\n  ds.begin();                 // Инициализация датчика ds18b20\r\n}\r\n\r\nvoid loop() {\r\n\r\nds.requestTemperatures();\r\nSerial.print(\"Celsius temperature: \");\r\n  // \"Температура в Цельсиях: \"\r\n  // Почему \"byIndex\"? к одной шине может быть подключено \r\n  // больше одного датчика; самое первое устройство на шине - это \"0\":\r\n  //float temperatureC = ds.getTempCByIndex(0);\r\n  Serial.print(ds.getTempCByIndex(0));\r\n  Serial.print(\" - Fahrenheit temperature: \");\r\n  //  \" - Температура в Фаренгейтах: \"\r\n  Serial.println(ds.getTempFByIndex(0));\r\n  delay(1000);\r\n}"
+  },
+  "skip_libraries_discovery": true
+}[0m
+14:34:09.632099 [95mSKETCH REBUILD: : Compile successful![0m
+14:34:09.649530 [95mSKETCH REBUILD: : [93mwrite-locked[0m[0m
+14:34:09.651667   > Current sketchmapper content:
+14:34:09.651667   0: #include <Arduino.h>                                         | /not-ino:0                                         
+14:34:09.651667   1: #line 1 "D:\\YandexDisk\\Документы\\Arbeit\\Коп�             | /not-ino:0                                         
+14:34:09.651667   2: /*1янв25                                                     | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:0                          
+14:34:09.651667   3: Термометр C / F                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:1                          
+14:34:09.651667   4: Проект 9                                                     | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:2                          
+14:34:09.651667   5: Scriptor42                                                   | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:3                          
+14:34:09.651667   6: */                                                           | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:4                          
+14:34:09.652199   7: /*Сборный скетч */                                           | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:5                          
+14:34:09.652199   8:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:6                          
+14:34:09.652199   9: #include "OneWire.h"                                         | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:7                          
+14:34:09.652199  10: #include "DallasTemperature.h"                               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:8                          
+14:34:09.652199  11:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:9                          
+14:34:09.652199  12: OneWire oneWire(10);  // Порт подключения д�                 | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:10                          
+14:34:09.652199  13: DallasTemperature ds(&oneWire);                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:11                          
+14:34:09.652199  14:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:12                          
+14:34:09.652199  15: #line 14 "D:\\YandexDisk\\Документы\\Arbeit\\Коп             | /not-ino:0                                         
+14:34:09.652199  16: void setup();                                                | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:13 D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:13
+14:34:09.652199  17: #line 19 "D:\\YandexDisk\\Документы\\Arbeit\\Коп             | /not-ino:0                                         
+14:34:09.652199  18: void loop();                                                 | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:18 D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:18
+14:34:09.652199  19: #line 14 "D:\\YandexDisk\\Документы\\Arbeit\\Коп             | /not-ino:0                                         
+14:34:09.652199  20: void setup() {                                               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:13                          
+14:34:09.652199  21:   Serial.begin(9600);   // Инициализация мон                 | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:14                          
+14:34:09.652199  22:   ds.begin();                 // Инициализация               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:15                          
+14:34:09.652199  23: }                                                            | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:16                          
+14:34:09.652199  24:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:17                          
+14:34:09.652199  25: void loop() {                                                | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:18                          
+14:34:09.652199  26:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:19                          
+14:34:09.652199  27: ds.requestTemperatures();                                    | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:20                          
+14:34:09.652199  28: Serial.print("Celsius temperature: ");                       | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:21                          
+14:34:09.652199  29:   // "Температура в Цельсиях: "                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:22                          
+14:34:09.652199  30:   // Почему "byIndex"? к одной шине може                     | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:23                          
+14:34:09.652199  31:   // больше одного датчика; самое п                          | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:24                          
+14:34:09.652199  32:   //float temperatureC = ds.getTempCByIndex(0);              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:25                          
+14:34:09.652199  33:   Serial.print(ds.getTempCByIndex(0));                       | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:26                          
+14:34:09.652199  34:   Serial.print(" - Fahrenheit temperature: ");               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:27                          
+14:34:09.652199  35:   //  " - Температура в Фаренгейтах:                         | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:28                          
+14:34:09.652199  36:   Serial.println(ds.getTempFByIndex(0));                     | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:29                          
+14:34:09.652199  37:   delay(1000);                                               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:30                          
+14:34:09.652199  38: }                                                            | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:31                          
+14:34:09.652199  39:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:32                          
+14:34:09.652199 [95mSKETCH REBUILD: : Sending 'didSave' notification to Clangd[0m
+14:34:09.652199 [91mIDE     LS --> Clangd NOTIF textDocument/didSave[0m
+14:34:09.652199 OUT Elapsed: 0s
+14:34:09.652199 [95mSKETCH REBUILD: : Sending full-text 'didChange' notification to Clangd[0m
+14:34:09.652749 [91mIDE     LS --> Clangd NOTIF textDocument/didChange[0m
+14:34:09.652749 OUT Elapsed: 0s
+14:34:09.652749 [95mSKETCH REBUILD: : [93mwrite-unlocked[0m[0m
+14:34:09.652749 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:09.652749 OUT Elapsed: 0s
+14:34:09.724077 IN Elapsed: 3.0733324s
+14:34:09.724077 [91mIDE     LS <-- Clangd REQU window/workDoneProgress/create 1[0m
+14:34:09.724077 [31mIDE     LS --> Clangd RESP window/workDoneProgress/create 1[0m
+14:34:09.724077 [92mIDE <-- LS REQU window/workDoneProgress/create 3[0m
+14:34:09.724077 OUT Elapsed: 0s
+14:34:09.724077 OUT Elapsed: 0s
+14:34:09.724077 IN Elapsed: 0s
+14:34:09.724077 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:34:09.724077 [91m                            $/progress: backgroundIndexProgress BEGIN indexing, 0.0%[0m
+14:34:09.724077 IN Elapsed: 0s
+14:34:09.724077 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:34:09.724077 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:34:09.724624 IN Elapsed: 1.5267748s
+14:34:09.724624 [32mIDE --> LS RESP window/workDoneProgress/create 3[0m
+14:34:09.724624 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:09.724624 OUT Elapsed: 0s
+14:34:09.724624 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:09.724624 OUT Elapsed: 0s
+14:34:09.773536 IN Elapsed: 49.4587ms
+14:34:09.773639 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:34:09.773639 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:34:09.773639 IN Elapsed: 0s
+14:34:09.773639 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:34:09.773639 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:09.773639 [91m                            $/progress: backgroundIndexProgress END [0m
+14:34:09.773639 OUT Elapsed: 0s
+14:34:09.773639 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:09.773639 OUT Elapsed: 0s
+14:34:14.357771 IN Elapsed: 4.6331439s
+14:34:14.358331 [92mIDE --> LS NOTIF ino/didCompleteBuild[0m
+14:34:14.358331 [92m                 ino/didCompleteBuild: [93mwrite-locked[0m[0m
+14:34:14.361511 [92m                 ino/didCompleteBuild: Updated 'libraries.cache'. Copied: C:\Users\рс\AppData\Local\arduino\sketches\D6CABA9105F0B54A9FF688865BC90D52\libraries.cache to C:\Users\рс\AppData\Local\Temp\arduino-language-server3887294064\build\libraries.cache[0m
+14:34:14.361511 [92m                 ino/didCompleteBuild: [93mwrite-unlocked[0m[0m
+14:34:15.369668 [95mSKETCH REBUILD: : Sketch rebuild started[0m
+14:34:15.369668 [95mSKETCH REBUILD: : [93mread-locked[0m[0m
+14:34:15.369668 [95mSKETCH REBUILD: : [93mread-unlocked[0m[0m
+14:34:15.369668 [92mIDE <-- LS REQU window/workDoneProgress/create 4[0m
+14:34:15.369668 OUT Elapsed: 0s
+14:34:15.369668 IN Elapsed: 1.0081568s
+14:34:15.369668 [32mIDE --> LS RESP window/workDoneProgress/create 4[0m
+14:34:15.369668 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:15.369668 OUT Elapsed: 0s
+14:34:15.376292 [95mSKETCH REBUILD: : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\YandexDisk\\Документы\\Arbeit\\Копирайтинг\\Superais\\Проекты\\9_Как собрать устройство на базе Arduino для начинающих\\Проект Температруный монитор\\Arduino_GitHub\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server3887294064\\build",
+  "verbose": true,
+  "create_compilation_database_only": true,
+  "source_override": {
+    "Termometer_C-F.ino": "/*1янв25\r\nТермометр C / F\r\nПроект 9\r\nScriptor42\r\n*/\r\n/*Сборный скетч */\r\n\r\n#include \"OneWire.h\"\r\n#include \"DallasTemperature.h\"\r\n \r\nOneWire oneWire(10);  // Порт подключения датчиков\r\nDallasTemperature ds(\u0026oneWire);\r\n\r\nvoid setup() {\r\n  Serial.begin(9600);   // Инициализация монитора порта\r\n  ds.begin();                 // Инициализация датчика ds18b20\r\n}\r\n\r\nvoid loop() {\r\n\r\nds.requestTemperatures();\r\nSerial.print(\"Celsius temperature: \");\r\n  // \"Температура в Цельсиях: \"\r\n  // Почему \"byIndex\"? к одной шине может быть подключено \r\n  // больше одного датчика; самое первое устройство на шине - это \"0\":\r\n  //float temperatureC = ds.getTempCByIndex(0);\r\n  Serial.print(ds.getTempCByIndex(0));\r\n  Serial.print(\" - Fahrenheit temperature: \");\r\n  //  \" - Температура в Фаренгейтах: \"\r\n  Serial.println(ds.getTempFByIndex(0));\r\n  delay(1000);\r\n}"
+  },
+  "skip_libraries_discovery": true
+}[0m
+14:34:17.259002 [95mSKETCH REBUILD: : Compile successful![0m
+14:34:17.276581 [95mSKETCH REBUILD: : [93mwrite-locked[0m[0m
+14:34:17.279460   > Current sketchmapper content:
+14:34:17.279460   0: #include <Arduino.h>                                         | /not-ino:0                                         
+14:34:17.279460   1: #line 1 "D:\\YandexDisk\\Документы\\Arbeit\\Коп�             | /not-ino:0                                         
+14:34:17.279460   2: /*1янв25                                                     | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:0                          
+14:34:17.279460   3: Термометр C / F                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:1                          
+14:34:17.279460   4: Проект 9                                                     | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:2                          
+14:34:17.279460   5: Scriptor42                                                   | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:3                          
+14:34:17.279460   6: */                                                           | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:4                          
+14:34:17.279460   7: /*Сборный скетч */                                           | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:5                          
+14:34:17.279460   8:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:6                          
+14:34:17.279460   9: #include "OneWire.h"                                         | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:7                          
+14:34:17.279460  10: #include "DallasTemperature.h"                               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:8                          
+14:34:17.279460  11:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:9                          
+14:34:17.279460  12: OneWire oneWire(10);  // Порт подключения д�                 | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:10                          
+14:34:17.279460  13: DallasTemperature ds(&oneWire);                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:11                          
+14:34:17.279460  14:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:12                          
+14:34:17.279460  15: #line 14 "D:\\YandexDisk\\Документы\\Arbeit\\Коп             | /not-ino:0                                         
+14:34:17.279460  16: void setup();                                                | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:13 D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:13
+14:34:17.279460  17: #line 19 "D:\\YandexDisk\\Документы\\Arbeit\\Коп             | /not-ino:0                                         
+14:34:17.279460  18: void loop();                                                 | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:18 D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:18
+14:34:17.279460  19: #line 14 "D:\\YandexDisk\\Документы\\Arbeit\\Коп             | /not-ino:0                                         
+14:34:17.279460  20: void setup() {                                               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:13                          
+14:34:17.279460  21:   Serial.begin(9600);   // Инициализация мон                 | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:14                          
+14:34:17.279460  22:   ds.begin();                 // Инициализация               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:15                          
+14:34:17.279460  23: }                                                            | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:16                          
+14:34:17.279460  24:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:17                          
+14:34:17.279460  25: void loop() {                                                | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:18                          
+14:34:17.279969  26:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:19                          
+14:34:17.279969  27: ds.requestTemperatures();                                    | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:20                          
+14:34:17.279988  28: Serial.print("Celsius temperature: ");                       | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:21                          
+14:34:17.279988  29:   // "Температура в Цельсиях: "                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:22                          
+14:34:17.279988  30:   // Почему "byIndex"? к одной шине може                     | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:23                          
+14:34:17.279988  31:   // больше одного датчика; самое п                          | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:24                          
+14:34:17.279988  32:   //float temperatureC = ds.getTempCByIndex(0);              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:25                          
+14:34:17.279988  33:   Serial.print(ds.getTempCByIndex(0));                       | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:26                          
+14:34:17.279988  34:   Serial.print(" - Fahrenheit temperature: ");               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:27                          
+14:34:17.279988  35:   //  " - Температура в Фаренгейтах:                         | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:28                          
+14:34:17.279988  36:   Serial.println(ds.getTempFByIndex(0));                     | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:29                          
+14:34:17.279988  37:   delay(1000);                                               | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:30                          
+14:34:17.279988  38: }                                                            | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:31                          
+14:34:17.279988  39:                                                              | D:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\Termometer_C-F.ino:32                          
+14:34:17.279988 [95mSKETCH REBUILD: : Sending 'didSave' notification to Clangd[0m
+14:34:17.279988 [91mIDE     LS --> Clangd NOTIF textDocument/didSave[0m
+14:34:17.279988 OUT Elapsed: 0s
+14:34:17.279988 [95mSKETCH REBUILD: : Sending full-text 'didChange' notification to Clangd[0m
+14:34:17.279988 [91mIDE     LS --> Clangd NOTIF textDocument/didChange[0m
+14:34:17.279988 OUT Elapsed: 0s
+14:34:17.279988 [95mSKETCH REBUILD: : [93mwrite-unlocked[0m[0m
+14:34:17.279988 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:17.279988 OUT Elapsed: 0s
+14:34:17.358851 IN Elapsed: 7.585208s
+14:34:17.358851 [91mIDE     LS <-- Clangd REQU window/workDoneProgress/create 2[0m
+14:34:17.358851 [31mIDE     LS --> Clangd RESP window/workDoneProgress/create 2[0m
+14:34:17.358851 [92mIDE <-- LS REQU window/workDoneProgress/create 5[0m
+14:34:17.358851 OUT Elapsed: 0s
+14:34:17.358851 OUT Elapsed: 0s
+14:34:17.358851 IN Elapsed: 0s
+14:34:17.358851 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:34:17.358851 [91m                            $/progress: backgroundIndexProgress BEGIN indexing, 0.0%[0m
+14:34:17.358851 IN Elapsed: 0s
+14:34:17.358851 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:34:17.358851 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:34:17.359378 IN Elapsed: 1.9897089s
+14:34:17.359378 [32mIDE --> LS RESP window/workDoneProgress/create 5[0m
+14:34:17.359378 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:17.359378 OUT Elapsed: 0s
+14:34:17.359378 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:17.359378 OUT Elapsed: 0s
+14:34:17.405788 IN Elapsed: 46.9377ms
+14:34:17.405788 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:34:17.405788 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:34:17.405788 IN Elapsed: 0s
+14:34:17.405788 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:34:17.405788 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:17.405788 [91m                            $/progress: backgroundIndexProgress END [0m
+14:34:17.405788 OUT Elapsed: 0s
+14:34:17.405788 [92mIDE <-- LS NOTIF $/progress[0m
+14:34:17.405788 OUT Elapsed: 0s
+
+
+
+
+
+
+
+Started logging.
+14:37:08.413904 Language server launched with arguments:
+14:37:08.413904   arg[0] = c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\arduino-language-server.exe
+14:37:08.413904   arg[1] = -clangd
+14:37:08.413904   arg[2] = c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\clangd.exe
+14:37:08.413904   arg[3] = -cli-daemon-addr
+14:37:08.413904   arg[4] = localhost:52662
+14:37:08.413904   arg[5] = -cli-daemon-instance
+14:37:08.413904   arg[6] = 1
+14:37:08.413904   arg[7] = -fqbn
+14:37:08.413904   arg[8] = arduino:avr:leonardo
+14:37:08.413904   arg[9] = -skip-libraries-discovery-on-rebuild
+14:37:08.413904   arg[10] = -board-name
+14:37:08.413904   arg[11] = Arduino Leonardo
+14:37:08.413904   arg[12] = -no-real-time-diagnostics
+14:37:08.413904   arg[13] = -log
+14:37:08.413904   arg[14] = -logpath
+14:37:08.413904   arg[15] = d:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F
+14:37:08.414445 logging to d:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\inols.log
+14:37:08.418755 [97mLS: : Initial board configuration: arduino:avr:leonardo[0m
+14:37:08.418755 [97mLS: : arduino-language-server.exe Version: 0.0.0-git Commit:  Date: [0m
+14:37:08.418755 [97mLS: : Language server temp directory: C:\Users\рс\AppData\Local\Temp\arduino-language-server3567288431[0m
+14:37:08.418755 [97mLS: : Language server build path: C:\Users\рс\AppData\Local\Temp\arduino-language-server3567288431\build[0m
+14:37:08.418755 [97mLS: : Language server build sketch root: C:\Users\рс\AppData\Local\Temp\arduino-language-server3567288431\build\sketch[0m
+14:37:08.418755 [97mLS: : Language server FULL build path: C:\Users\рс\AppData\Local\Temp\arduino-language-server3567288431\fullbuild[0m
+14:37:08.419310 IN Elapsed: 555.4µs
+14:37:08.419310 [92mIDE --> LS REQU initialize 0[0m
+14:37:08.420395 [92m                initialize 0: [93mwrite-locked[0m[0m
+14:37:08.421473 [92m                initialize 0: [93mwrite-unlocked[0m[0m
+14:37:08.421473 [96mINIT --- : initializing workbench: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F[0m
+14:37:08.422019 [96mINIT --- : [93mread-locked[0m[0m
+14:37:08.422019 [96mINIT --- : [93mread-unlocked[0m[0m
+14:37:08.422019 [92m                initialize 0: initialization parameters: {"capabilities":{"textDocumentSync":{"openClose":true,"change":2,"save":{"includeText":true}},"completionProvider":{"triggerCharacters":[".","\u003c","\u003e",":","\"","/"],"allCommitCharacters":[" ","\t","(",")","[","]","{","}","\u003c","\u003e",":",";",",","+","-","/","*","%","^","\u0026","#","?",".","=","\"","'","|"],"completionItem":{}},"hoverProvider":{},"signatureHelpProvider":{"triggerCharacters":["(",","]},"definitionProvider":{},"documentHighlightProvider":{},"documentSymbolProvider":{},"codeActionProvider":{"codeActionKinds":["quickfix","refactor","info"]},"documentFormattingProvider":{},"documentRangeFormattingProvider":{},"documentOnTypeFormattingProvider":{"firstTriggerCharacter":"\n"},"renameProvider":{},"executeCommandProvider":{"commands":["clangd.applyFix","clangd.applyTweak"]},"workspaceSymbolProvider":{}},"serverInfo":{"name":"arduino-language-server","version":"0.0.0-git"}}[0m
+14:37:08.422552 [32mIDE <-- LS RESP initialize 0[0m
+14:37:08.422552 OUT Elapsed: 0s
+14:37:08.429742 IN Elapsed: 7.1894ms
+14:37:08.429742 [92mIDE --> LS NOTIF initialized[0m
+14:37:08.429742 [92m                 initialized: Notification is not propagated to clangd[0m
+14:37:08.429742 IN Elapsed: 0s
+14:37:08.429742 [92mIDE --> LS NOTIF textDocument/didOpen[0m
+14:37:08.430362 [92m                 textDocument/didOpen: [93mwrite-locked[0m[0m
+14:37:08.430362 [92m                 textDocument/didOpen: (throttled: waiting for clangd)[0m
+14:37:08.430362 [92m                 textDocument/didOpen: [93munlocked (waiting clangd)[0m[0m
+14:37:08.438718 [96mINIT --- : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\YandexDisk\\Документы\\Arbeit\\Копирайтинг\\Superais\\Проекты\\9_Как собрать устройство на базе Arduino для начинающих\\Проект Температруный монитор\\Arduino_GitHub\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server3567288431\\fullbuild",
+  "verbose": true,
+  "create_compilation_database_only": true
+}[0m
+14:37:10.093214 [96mINIT --- : Compile successful![0m
+14:37:10.113824 [96mINIT --- : Updated 'libraries.cache'. Copied: C:\Users\рс\AppData\Local\Temp\arduino-language-server3567288431\fullbuild\libraries.cache to C:\Users\рс\AppData\Local\Temp\arduino-language-server3567288431\build\libraries.cache[0m
+14:37:10.113824 [96mINIT --- : [93mread-locked[0m[0m
+14:37:10.113824 [96mINIT --- : [93mread-unlocked[0m[0m
+14:37:10.116032 [96mINIT --- : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\YandexDisk\\Документы\\Arbeit\\Копирайтинг\\Superais\\Проекты\\9_Как собрать устройство на базе Arduino для начинающих\\Проект Температруный монитор\\Arduino_GitHub\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server3567288431\\build",
+  "verbose": true,
+  "create_compilation_database_only": true,
+  "skip_libraries_discovery": true
+}[0m
+14:37:11.179521 [96mINIT --- : Compile successful![0m
+14:37:11.203244 [96mINIT --- : Arduino Data Dir -> c:\Users\рс\AppData\Local\Arduino15[0m
+14:37:11.205622 [96mINIT --- :     Starting clangd: c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\clangd.exe -log=verbose --pch-storage=memory --compile-commands-dir=C:\Users\рс\AppData\Local\Temp\arduino-language-server3567288431\build -j 1 -query-driver=C:\Users\рс\AppData\Local\Arduino15\packages\**[0m
+14:37:11.213147 logging to d:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\inols-clangd.log
+14:37:11.213185 logging to d:\YandexDisk\Документы\Arbeit\Копирайтинг\Superais\Проекты\9_Как собрать устройство на базе Arduino для начинающих\Проект Температруный монитор\Arduino_GitHub\Termometer_C-F\inols-clangd-err.log
+14:37:11.213741 [91mIDE     LS --> Clangd REQU initialize 1[0m
+14:37:11.213741 OUT Elapsed: 0s
+14:37:11.252518 IN Elapsed: 38.7773ms
+14:37:11.252518 [31mIDE     LS <-- Clangd RESP initialize 1[0m
+14:37:11.252518 [96mINIT --- : clangd successfully started: {"capabilities":{"textDocumentSync":{"openClose":true,"change":2,"save":{}},"completionProvider":{"triggerCharacters":[".","\u003c","\u003e",":","\"","/","*"],"allCommitCharacters":[" ","\t","(",")","[","]","{","}","\u003c","\u003e",":",";",",","+","-","/","*","%","^","\u0026","#","?",".","=","\"","'","|"]},"hoverProvider":{},"signatureHelpProvider":{"triggerCharacters":["(",")","{","}","\u003c","\u003e",","]},"declarationProvider":{},"definitionProvider":{},"typeDefinitionProvider":{},"implementationProvider":{},"referencesProvider":{},"documentHighlightProvider":{},"documentSymbolProvider":{},"codeActionProvider":{"codeActionKinds":["quickfix","refactor","info"]},"documentLinkProvider":{},"documentFormattingProvider":{},"documentRangeFormattingProvider":{},"documentOnTypeFormattingProvider":{"firstTriggerCharacter":"\n"},"renameProvider":{"prepareProvider":true},"executeCommandProvider":{"commands":["clangd.applyFix","clangd.applyTweak"]},"selectionRangeProvider":{},"callHierarchyProvider":{},"semanticTokensProvider":{"legend":{"tokenTypes":["variable","variable","parameter","function","method","function","property","variable","class","interface","enum","enumMember","type","type","unknown","namespace","typeParameter","concept","type","macro","comment"],"tokenModifiers":["declaration","deprecated","deduced","readonly","static","abstract","virtual","dependentName","defaultLibrary","usedAsMutableReference","functionScope","classScope","fileScope","globalScope"]},"range":false,"full":{"delta":true}},"workspaceSymbolProvider":{}},"serverInfo":{"name":"clangd","version":"clangd version 14.0.0 windows x86_64-pc-windows-msvc"}}[0m
+14:37:11.253053 [91mIDE     LS --> Clangd NOTIF initialized[0m
+14:37:11.253053 OUT Elapsed: 0s
+14:37:11.253053 [96mINIT --- : Done initializing workbench[0m
+14:37:11.253053 [92m                 textDocument/didOpen: [93mlocked (waiting clangd)[0m[0m
+14:37:11.253582 [92m                 textDocument/didOpen: URI: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp[0m
+14:37:11.255795 [92m                 textDocument/didOpen: Increasing .ino tracked files count to 1[0m
+14:37:11.256627 [91mIDE     LS --> Clangd NOTIF textDocument/didOpen[0m
+14:37:11.256627 OUT Elapsed: 0s
+14:37:11.256627 [92m                 textDocument/didOpen: [93mwrite-unlocked[0m[0m
+14:37:11.256627 IN Elapsed: 0s
+14:37:11.256627 [92mIDE --> LS REQU textDocument/documentSymbol 1[0m
+14:37:11.256627 [92m                textDocument/documentSymbol 1: [93mread-locked[0m[0m
+14:37:11.257690 [92m                textDocument/documentSymbol 1: URI: file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp[0m
+14:37:11.257690 [91mIDE     LS --> Clangd REQU textDocument/documentSymbol 2[0m
+14:37:11.257690 OUT Elapsed: 0s
+14:37:11.260384 IN Elapsed: 7.8655ms
+14:37:11.260384 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:37:11.260384 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:37:11.268026 IN Elapsed: 7.6423ms
+14:37:11.268104 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:37:11.268104 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:37:11.272800 IN Elapsed: 4.6967ms
+14:37:11.273053 [91mIDE     LS <-- Clangd REQU window/workDoneProgress/create 0[0m
+14:37:11.273136 [31mIDE     LS --> Clangd RESP window/workDoneProgress/create 0[0m
+14:37:11.273136 [92mIDE <-- LS REQU window/workDoneProgress/create 1[0m
+14:37:11.273136 OUT Elapsed: 0s
+14:37:11.273136 OUT Elapsed: 0s
+14:37:11.273136 IN Elapsed: 0s
+14:37:11.273136 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:11.273136 [91m                            $/progress: backgroundIndexProgress BEGIN indexing, 0.0%[0m
+14:37:11.273136 IN Elapsed: 0s
+14:37:11.273136 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:11.273136 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:37:11.276319 IN Elapsed: 3.1836ms
+14:37:11.276319 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:11.276319 [91m                            $/progress: backgroundIndexProgress REPORT, 0/2, 0.0%[0m
+14:37:11.276319 IN Elapsed: 0s
+14:37:11.276319 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:11.276319 [91m                            $/progress: backgroundIndexProgress REPORT, 1/2, 50.0%[0m
+14:37:11.276319 IN Elapsed: 0s
+14:37:11.276319 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:11.276319 [91m                            $/progress: backgroundIndexProgress REPORT, 1/2, 50.0%[0m
+14:37:11.475156 IN Elapsed: 198.8366ms
+14:37:11.475156 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:37:11.475156 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:37:11.475700 IN Elapsed: 544.5µs
+14:37:11.476221 [31mIDE     LS <-- Clangd RESP textDocument/documentSymbol 2[0m
+14:37:11.476866 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp (6 document symbols)[0m
+14:37:11.476866 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Variable 12:0-12:19[0m
+14:37:11.477922 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:12:0-12:19 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:10:0-10:19 (.ino)[0m
+14:37:11.479060 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:12:8-12:15 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:10:8-10:15 (.ino)[0m
+14:37:11.479060 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:37:11.479060 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Variable 13:0-13:30[0m
+14:37:11.479597 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:13:0-13:30 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:11:0-11:30 (.ino)[0m
+14:37:11.480675 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:13:18-13:20 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:11:18-11:20 (.ino)[0m
+14:37:11.480675 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:37:11.480675 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Function 16:0-16:12[0m
+14:37:11.481210 [92m                textDocument/documentSymbol 1: Range is in PREPROCESSED section of the sketch[0m
+14:37:11.481210 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:16:0-16:12 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:13:0-13:12 (.ino)[0m
+14:37:11.481210 [92m                textDocument/documentSymbol 1:     symbol is in the preprocessed section of the sketch.ino.cpp, skipping[0m
+14:37:11.481731 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Function 18:0-18:11[0m
+14:37:11.482285 [92m                textDocument/documentSymbol 1: Range is in PREPROCESSED section of the sketch[0m
+14:37:11.482285 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:18:0-18:11 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:18:0-18:11 (.ino)[0m
+14:37:11.482285 [92m                textDocument/documentSymbol 1:     symbol is in the preprocessed section of the sketch.ino.cpp, skipping[0m
+14:37:11.482285 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Function 20:0-23:1[0m
+14:37:11.483358 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:20:0-23:1 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:13:0-16:1 (.ino)[0m
+14:37:11.483889 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:20:5-20:10 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:13:5-13:10 (.ino)[0m
+14:37:11.483889 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:37:11.483889 [92m                textDocument/documentSymbol 1:   > convert SymbolKind:Function 25:0-38:1[0m
+14:37:11.484952 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:25:0-38:1 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:18:0-31:1 (.ino)[0m
+14:37:11.486007 [92m                textDocument/documentSymbol 1: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp:25:5-25:9 -> file:///d%3A/YandexDisk/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Arbeit/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/Superais/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/9_%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Arduino%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D1%83%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80/Arduino_GitHub/Termometer_C-F/Termometer_C-F.ino:18:5-18:9 (.ino)[0m
+14:37:11.486007 [92m                textDocument/documentSymbol 1: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server3567288431/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:37:11.486007 [92m                textDocument/documentSymbol 1: [93mread-unlocked[0m[0m
+14:37:11.486007 [32mIDE <-- LS RESP textDocument/documentSymbol 1[0m
+14:37:11.486007 OUT Elapsed: 0s
+14:37:11.486007 IN Elapsed: 0s
+14:37:11.486007 [32mIDE --> LS RESP window/workDoneProgress/create 1[0m
+14:37:11.486007 [92mIDE <-- LS NOTIF $/progress[0m
+14:37:11.486007 OUT Elapsed: 0s
+14:37:11.486553 [92mIDE <-- LS NOTIF $/progress[0m
+14:37:11.486553 OUT Elapsed: 0s
+14:37:11.734705 IN Elapsed: 259.0045ms
+14:37:11.734705 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:11.734705 [91m                            $/progress: backgroundIndexProgress END [0m
+14:37:11.734705 [92mIDE <-- LS NOTIF $/progress[0m
+14:37:11.734705 OUT Elapsed: 0s
+
+
+
+
+
+
+
+Started logging.
+14:37:55.597267 Language server launched with arguments:
+14:37:55.597267   arg[0] = c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\arduino-language-server.exe
+14:37:55.597267   arg[1] = -clangd
+14:37:55.597267   arg[2] = c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\clangd.exe
+14:37:55.597793   arg[3] = -cli-daemon-addr
+14:37:55.597793   arg[4] = localhost:52725
+14:37:55.597807   arg[5] = -cli-daemon-instance
+14:37:55.597807   arg[6] = 1
+14:37:55.597807   arg[7] = -fqbn
+14:37:55.597807   arg[8] = arduino:avr:leonardo
+14:37:55.597807   arg[9] = -skip-libraries-discovery-on-rebuild
+14:37:55.597807   arg[10] = -board-name
+14:37:55.597807   arg[11] = Arduino Leonardo
+14:37:55.597807   arg[12] = -no-real-time-diagnostics
+14:37:55.597807   arg[13] = -log
+14:37:55.597807   arg[14] = -logpath
+14:37:55.597807   arg[15] = d:\Arduino_GitHub\Termometer\Termometer_C-F
+14:37:55.597807 logging to d:\Arduino_GitHub\Termometer\Termometer_C-F\inols.log
+14:37:55.601770 [97mLS: : Initial board configuration: arduino:avr:leonardo[0m
+14:37:55.601770 [97mLS: : arduino-language-server.exe Version: 0.0.0-git Commit:  Date: [0m
+14:37:55.601770 [97mLS: : Language server temp directory: C:\Users\рс\AppData\Local\Temp\arduino-language-server774380856[0m
+14:37:55.601770 [97mLS: : Language server build path: C:\Users\рс\AppData\Local\Temp\arduino-language-server774380856\build[0m
+14:37:55.601770 [97mLS: : Language server build sketch root: C:\Users\рс\AppData\Local\Temp\arduino-language-server774380856\build\sketch[0m
+14:37:55.601770 [97mLS: : Language server FULL build path: C:\Users\рс\AppData\Local\Temp\arduino-language-server774380856\fullbuild[0m
+14:37:55.602369 IN Elapsed: 0s
+14:37:55.602915 [92mIDE --> LS REQU initialize 0[0m
+14:37:55.604004 [92m                initialize 0: [93mwrite-locked[0m[0m
+14:37:55.604554 [92m                initialize 0: [93mwrite-unlocked[0m[0m
+14:37:55.604554 [96mINIT --- : initializing workbench: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F[0m
+14:37:55.604554 [96mINIT --- : [93mread-locked[0m[0m
+14:37:55.604554 [96mINIT --- : [93mread-unlocked[0m[0m
+14:37:55.605095 [92m                initialize 0: initialization parameters: {"capabilities":{"textDocumentSync":{"openClose":true,"change":2,"save":{"includeText":true}},"completionProvider":{"triggerCharacters":[".","\u003c","\u003e",":","\"","/"],"allCommitCharacters":[" ","\t","(",")","[","]","{","}","\u003c","\u003e",":",";",",","+","-","/","*","%","^","\u0026","#","?",".","=","\"","'","|"],"completionItem":{}},"hoverProvider":{},"signatureHelpProvider":{"triggerCharacters":["(",","]},"definitionProvider":{},"documentHighlightProvider":{},"documentSymbolProvider":{},"codeActionProvider":{"codeActionKinds":["quickfix","refactor","info"]},"documentFormattingProvider":{},"documentRangeFormattingProvider":{},"documentOnTypeFormattingProvider":{"firstTriggerCharacter":"\n"},"renameProvider":{},"executeCommandProvider":{"commands":["clangd.applyFix","clangd.applyTweak"]},"workspaceSymbolProvider":{}},"serverInfo":{"name":"arduino-language-server","version":"0.0.0-git"}}[0m
+14:37:55.605095 [32mIDE <-- LS RESP initialize 0[0m
+14:37:55.605095 OUT Elapsed: 0s
+14:37:55.612202 IN Elapsed: 6.5815ms
+14:37:55.612202 [92mIDE --> LS NOTIF initialized[0m
+14:37:55.612202 [92m                 initialized: Notification is not propagated to clangd[0m
+14:37:55.612202 IN Elapsed: 0s
+14:37:55.612202 [92mIDE --> LS NOTIF textDocument/didOpen[0m
+14:37:55.612735 [92m                 textDocument/didOpen: [93mwrite-locked[0m[0m
+14:37:55.612735 [92m                 textDocument/didOpen: (throttled: waiting for clangd)[0m
+14:37:55.612735 [92m                 textDocument/didOpen: [93munlocked (waiting clangd)[0m[0m
+14:37:55.619565 [96mINIT --- : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server774380856\\fullbuild",
+  "verbose": true,
+  "create_compilation_database_only": true
+}[0m
+14:37:57.256163 [96mINIT --- : Compile successful![0m
+14:37:57.275640 [96mINIT --- : Updated 'libraries.cache'. Copied: C:\Users\рс\AppData\Local\Temp\arduino-language-server774380856\fullbuild\libraries.cache to C:\Users\рс\AppData\Local\Temp\arduino-language-server774380856\build\libraries.cache[0m
+14:37:57.275640 [96mINIT --- : [93mread-locked[0m[0m
+14:37:57.275640 [96mINIT --- : [93mread-unlocked[0m[0m
+14:37:57.277795 [96mINIT --- : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server774380856\\build",
+  "verbose": true,
+  "create_compilation_database_only": true,
+  "skip_libraries_discovery": true
+}[0m
+14:37:58.266360 [96mINIT --- : Compile successful![0m
+14:37:58.286374 [96mINIT --- : Arduino Data Dir -> c:\Users\рс\AppData\Local\Arduino15[0m
+14:37:58.289112 [96mINIT --- :     Starting clangd: c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\clangd.exe -log=verbose --pch-storage=memory --compile-commands-dir=C:\Users\рс\AppData\Local\Temp\arduino-language-server774380856\build -j 1 -query-driver=C:\Users\рс\AppData\Local\Arduino15\packages\**[0m
+14:37:58.295598 logging to d:\Arduino_GitHub\Termometer\Termometer_C-F\inols-clangd.log
+14:37:58.296149 logging to d:\Arduino_GitHub\Termometer\Termometer_C-F\inols-clangd-err.log
+14:37:58.296149 [91mIDE     LS --> Clangd REQU initialize 1[0m
+14:37:58.296149 OUT Elapsed: 0s
+14:37:58.332635 IN Elapsed: 36.4859ms
+14:37:58.332635 [31mIDE     LS <-- Clangd RESP initialize 1[0m
+14:37:58.332635 [96mINIT --- : clangd successfully started: {"capabilities":{"textDocumentSync":{"openClose":true,"change":2,"save":{}},"completionProvider":{"triggerCharacters":[".","\u003c","\u003e",":","\"","/","*"],"allCommitCharacters":[" ","\t","(",")","[","]","{","}","\u003c","\u003e",":",";",",","+","-","/","*","%","^","\u0026","#","?",".","=","\"","'","|"]},"hoverProvider":{},"signatureHelpProvider":{"triggerCharacters":["(",")","{","}","\u003c","\u003e",","]},"declarationProvider":{},"definitionProvider":{},"typeDefinitionProvider":{},"implementationProvider":{},"referencesProvider":{},"documentHighlightProvider":{},"documentSymbolProvider":{},"codeActionProvider":{"codeActionKinds":["quickfix","refactor","info"]},"documentLinkProvider":{},"documentFormattingProvider":{},"documentRangeFormattingProvider":{},"documentOnTypeFormattingProvider":{"firstTriggerCharacter":"\n"},"renameProvider":{"prepareProvider":true},"executeCommandProvider":{"commands":["clangd.applyFix","clangd.applyTweak"]},"selectionRangeProvider":{},"callHierarchyProvider":{},"semanticTokensProvider":{"legend":{"tokenTypes":["variable","variable","parameter","function","method","function","property","variable","class","interface","enum","enumMember","type","type","unknown","namespace","typeParameter","concept","type","macro","comment"],"tokenModifiers":["declaration","deprecated","deduced","readonly","static","abstract","virtual","dependentName","defaultLibrary","usedAsMutableReference","functionScope","classScope","fileScope","globalScope"]},"range":false,"full":{"delta":true}},"workspaceSymbolProvider":{}},"serverInfo":{"name":"clangd","version":"clangd version 14.0.0 windows x86_64-pc-windows-msvc"}}[0m
+14:37:58.333188 [91mIDE     LS --> Clangd NOTIF initialized[0m
+14:37:58.333188 OUT Elapsed: 0s
+14:37:58.333188 [96mINIT --- : Done initializing workbench[0m
+14:37:58.333188 [92m                 textDocument/didOpen: [93mlocked (waiting clangd)[0m[0m
+14:37:58.333188 [92m                 textDocument/didOpen: URI: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp[0m
+14:37:58.334821 [92m                 textDocument/didOpen: Increasing .ino tracked files count to 1[0m
+14:37:58.335943 [91mIDE     LS --> Clangd NOTIF textDocument/didOpen[0m
+14:37:58.335943 OUT Elapsed: 0s
+14:37:58.335943 [92m                 textDocument/didOpen: [93mwrite-unlocked[0m[0m
+14:37:58.335943 IN Elapsed: 0s
+14:37:58.336471 [92mIDE --> LS REQU textDocument/codeAction 1[0m
+14:37:58.336471 [92m                textDocument/codeAction 1: [93mread-locked[0m[0m
+14:37:58.336471 [92m                textDocument/codeAction 1: --> codeAction(file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:0:0)[0m
+14:37:58.336471 [92m                textDocument/codeAction 1: URI: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp[0m
+14:37:58.338090 [92m                textDocument/codeAction 1:     --> codeAction(file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:0:0)[0m
+14:37:58.338090 [91mIDE     LS --> Clangd REQU textDocument/codeAction 2[0m
+14:37:58.338622 OUT Elapsed: 532.6µs
+14:37:58.339713 IN Elapsed: 7.0781ms
+14:37:58.339713 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:37:58.339713 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:37:58.345226 IN Elapsed: 5.5132ms
+14:37:58.345255 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:37:58.345255 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:37:58.349041 IN Elapsed: 3.7861ms
+14:37:58.349041 [91mIDE     LS <-- Clangd REQU window/workDoneProgress/create 0[0m
+14:37:58.349041 [31mIDE     LS --> Clangd RESP window/workDoneProgress/create 0[0m
+14:37:58.349041 [92mIDE <-- LS REQU window/workDoneProgress/create 1[0m
+14:37:58.349041 OUT Elapsed: 0s
+14:37:58.349041 OUT Elapsed: 0s
+14:37:58.349041 IN Elapsed: 0s
+14:37:58.349041 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:58.349553 [91m                            $/progress: backgroundIndexProgress BEGIN indexing, 0.0%[0m
+14:37:58.349596 IN Elapsed: 19.1µs
+14:37:58.349596 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:58.349596 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:37:58.352313 IN Elapsed: 2.7171ms
+14:37:58.352313 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:58.352906 [91m                            $/progress: backgroundIndexProgress REPORT, 0/2, 0.0%[0m
+14:37:58.352906 IN Elapsed: 0s
+14:37:58.352906 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:58.352906 [91m                            $/progress: backgroundIndexProgress REPORT, 1/2, 50.0%[0m
+14:37:58.352906 IN Elapsed: 0s
+14:37:58.352906 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:58.352906 [91m                            $/progress: backgroundIndexProgress REPORT, 1/2, 50.0%[0m
+14:37:58.561963 IN Elapsed: 209.0567ms
+14:37:58.561963 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:37:58.562532 IN Elapsed: 0s
+14:37:58.562532 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:37:58.562532 [31mIDE     LS <-- Clangd RESP textDocument/codeAction 2[0m
+14:37:58.562532 [92m                textDocument/codeAction 1: [93mread-unlocked[0m[0m
+14:37:58.562532 [32mIDE <-- LS RESP textDocument/codeAction 1[0m
+14:37:58.562532 OUT Elapsed: 0s
+14:37:58.562532 IN Elapsed: 0s
+14:37:58.562532 [92mIDE --> LS REQU textDocument/documentSymbol 2[0m
+14:37:58.563083 [92m                textDocument/documentSymbol 2: [93mread-locked[0m[0m
+14:37:58.563093 [92m                textDocument/documentSymbol 2: URI: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp[0m
+14:37:58.563645 [91mIDE     LS --> Clangd REQU textDocument/documentSymbol 3[0m
+14:37:58.563645 OUT Elapsed: 0s
+14:37:58.564734 IN Elapsed: 2.2024ms
+14:37:58.564734 [31mIDE     LS <-- Clangd RESP textDocument/documentSymbol 3[0m
+14:37:58.564734 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp (6 document symbols)[0m
+14:37:58.564734 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Variable 12:0-12:19[0m
+14:37:58.566351 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:12:0-12:19 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:10:0-10:19 (.ino)[0m
+14:37:58.567445 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:12:8-12:15 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:10:8-10:15 (.ino)[0m
+14:37:58.567445 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:37:58.567445 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Variable 13:0-13:30[0m
+14:37:58.568518 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:13:0-13:30 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:11:0-11:30 (.ino)[0m
+14:37:58.569595 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:13:18-13:20 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:11:18-11:20 (.ino)[0m
+14:37:58.569595 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:37:58.569595 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Function 16:0-16:12[0m
+14:37:58.571249 [92m                textDocument/documentSymbol 2: Range is in PREPROCESSED section of the sketch[0m
+14:37:58.571249 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:16:0-16:12 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:13:0-13:12 (.ino)[0m
+14:37:58.571249 [92m                textDocument/documentSymbol 2:     symbol is in the preprocessed section of the sketch.ino.cpp, skipping[0m
+14:37:58.571249 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Function 18:0-18:11[0m
+14:37:58.572478 [92m                textDocument/documentSymbol 2: Range is in PREPROCESSED section of the sketch[0m
+14:37:58.572478 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:18:0-18:11 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:18:0-18:11 (.ino)[0m
+14:37:58.572478 [92m                textDocument/documentSymbol 2:     symbol is in the preprocessed section of the sketch.ino.cpp, skipping[0m
+14:37:58.572478 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Function 20:0-23:1[0m
+14:37:58.573580 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:20:0-23:1 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:13:0-16:1 (.ino)[0m
+14:37:58.574676 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:20:5-20:10 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:13:5-13:10 (.ino)[0m
+14:37:58.574676 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:37:58.574676 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Function 25:0-38:1[0m
+14:37:58.576329 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:25:0-38:1 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:18:0-31:1 (.ino)[0m
+14:37:58.577431 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:25:5-25:9 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:18:5-18:9 (.ino)[0m
+14:37:58.577431 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:37:58.577431 [92m                textDocument/documentSymbol 2: [93mread-unlocked[0m[0m
+14:37:58.577431 [32mIDE <-- LS RESP textDocument/documentSymbol 2[0m
+14:37:58.577431 OUT Elapsed: 0s
+14:37:58.577431 IN Elapsed: 0s
+14:37:58.577980 [32mIDE --> LS RESP window/workDoneProgress/create 1[0m
+14:37:58.577980 [92mIDE <-- LS NOTIF $/progress[0m
+14:37:58.577980 OUT Elapsed: 0s
+14:37:58.577980 [92mIDE <-- LS NOTIF $/progress[0m
+14:37:58.577980 OUT Elapsed: 0s
+14:37:58.838419 IN Elapsed: 273.6848ms
+14:37:58.838419 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:37:58.838419 [91m                            $/progress: backgroundIndexProgress END [0m
+14:37:58.838419 [92mIDE <-- LS NOTIF $/progress[0m
+14:37:58.838419 OUT Elapsed: 0s
+14:38:01.372385 IN Elapsed: 2.794953s
+14:38:01.372986 [92mIDE --> LS NOTIF ino/didCompleteBuild[0m
+14:38:01.373539 [92m                 ino/didCompleteBuild: [93mwrite-locked[0m[0m
+14:38:01.376763 [92m                 ino/didCompleteBuild: Updated 'libraries.cache'. Copied: C:\Users\рс\AppData\Local\arduino\sketches\08D576A186367CE7614D1667B9F08A0E\libraries.cache to C:\Users\рс\AppData\Local\Temp\arduino-language-server774380856\build\libraries.cache[0m
+14:38:01.376763 [92m                 ino/didCompleteBuild: [93mwrite-unlocked[0m[0m
+14:38:02.391493 [95mSKETCH REBUILD: : Sketch rebuild started[0m
+14:38:02.391493 [92mIDE <-- LS REQU window/workDoneProgress/create 2[0m
+14:38:02.391493 [95mSKETCH REBUILD: : [93mread-locked[0m[0m
+14:38:02.391493 [95mSKETCH REBUILD: : [93mread-unlocked[0m[0m
+14:38:02.391493 OUT Elapsed: 0s
+14:38:02.392659 IN Elapsed: 1.0158954s
+14:38:02.392659 [32mIDE --> LS RESP window/workDoneProgress/create 2[0m
+14:38:02.392659 [92mIDE <-- LS NOTIF $/progress[0m
+14:38:02.392659 OUT Elapsed: 0s
+14:38:02.398808 [95mSKETCH REBUILD: : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server774380856\\build",
+  "verbose": true,
+  "create_compilation_database_only": true,
+  "source_override": {
+    "Termometer_C-F.ino": "/*1янв25\r\nТермометр C / F\r\nПроект 9\r\nScriptor42\r\n*/\r\n/*Сборный скетч */\r\n\r\n#include \"OneWire.h\"\r\n#include \"DallasTemperature.h\"\r\n \r\nOneWire oneWire(10);  // Порт подключения датчиков\r\nDallasTemperature ds(\u0026oneWire);\r\n\r\nvoid setup() {\r\n  Serial.begin(9600);   // Инициализация монитора порта\r\n  ds.begin();                 // Инициализация датчика ds18b20\r\n}\r\n\r\nvoid loop() {\r\n\r\nds.requestTemperatures();\r\nSerial.print(\"Celsius temperature: \");\r\n  // \"Температура в Цельсиях: \"\r\n  // Почему \"byIndex\"? к одной шине может быть подключено \r\n  // больше одного датчика; самое первое устройство на шине - это \"0\":\r\n  //float temperatureC = ds.getTempCByIndex(0);\r\n  Serial.print(ds.getTempCByIndex(0));\r\n  Serial.print(\" - Fahrenheit temperature: \");\r\n  //  \" - Температура в Фаренгейтах: \"\r\n  Serial.println(ds.getTempFByIndex(0));\r\n  delay(1000);\r\n}"
+  },
+  "skip_libraries_discovery": true
+}[0m
+14:38:04.258719 [95mSKETCH REBUILD: : Compile successful![0m
+14:38:04.276431 [95mSKETCH REBUILD: : [93mwrite-locked[0m[0m
+14:38:04.278081   > Current sketchmapper content:
+14:38:04.278081   0: #include <Arduino.h>                                         | /not-ino:0                                         
+14:38:04.278081   1: #line 1 "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F\\Ter | /not-ino:0                                         
+14:38:04.278081   2: /*1янв25                                                     | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:0                          
+14:38:04.278081   3: Термометр C / F                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:1                          
+14:38:04.278081   4: Проект 9                                                     | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:2                          
+14:38:04.278081   5: Scriptor42                                                   | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:3                          
+14:38:04.278081   6: */                                                           | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:4                          
+14:38:04.278081   7: /*Сборный скетч */                                           | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:5                          
+14:38:04.278081   8:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:6                          
+14:38:04.278081   9: #include "OneWire.h"                                         | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:7                          
+14:38:04.278081  10: #include "DallasTemperature.h"                               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:8                          
+14:38:04.278081  11:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:9                          
+14:38:04.278081  12: OneWire oneWire(10);  // Порт подключения д�                 | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:10                          
+14:38:04.278081  13: DallasTemperature ds(&oneWire);                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:11                          
+14:38:04.278081  14:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:12                          
+14:38:04.278081  15: #line 14 "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F\\Te | /not-ino:0                                         
+14:38:04.278081  16: void setup();                                                | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:13 D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:13
+14:38:04.278081  17: #line 19 "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F\\Te | /not-ino:0                                         
+14:38:04.278081  18: void loop();                                                 | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:18 D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:18
+14:38:04.278081  19: #line 14 "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F\\Te | /not-ino:0                                         
+14:38:04.278081  20: void setup() {                                               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:13                          
+14:38:04.278081  21:   Serial.begin(9600);   // Инициализация мон                 | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:14                          
+14:38:04.278081  22:   ds.begin();                 // Инициализация               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:15                          
+14:38:04.278081  23: }                                                            | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:16                          
+14:38:04.278081  24:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:17                          
+14:38:04.278081  25: void loop() {                                                | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:18                          
+14:38:04.278081  26:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:19                          
+14:38:04.278081  27: ds.requestTemperatures();                                    | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:20                          
+14:38:04.278081  28: Serial.print("Celsius temperature: ");                       | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:21                          
+14:38:04.278081  29:   // "Температура в Цельсиях: "                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:22                          
+14:38:04.278081  30:   // Почему "byIndex"? к одной шине може                     | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:23                          
+14:38:04.278081  31:   // больше одного датчика; самое п                          | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:24                          
+14:38:04.278081  32:   //float temperatureC = ds.getTempCByIndex(0);              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:25                          
+14:38:04.278081  33:   Serial.print(ds.getTempCByIndex(0));                       | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:26                          
+14:38:04.278081  34:   Serial.print(" - Fahrenheit temperature: ");               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:27                          
+14:38:04.278081  35:   //  " - Температура в Фаренгейтах:                         | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:28                          
+14:38:04.278081  36:   Serial.println(ds.getTempFByIndex(0));                     | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:29                          
+14:38:04.278081  37:   delay(1000);                                               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:30                          
+14:38:04.278081  38: }                                                            | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:31                          
+14:38:04.278081  39:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:32                          
+14:38:04.278081 [95mSKETCH REBUILD: : Sending 'didSave' notification to Clangd[0m
+14:38:04.278590 [91mIDE     LS --> Clangd NOTIF textDocument/didSave[0m
+14:38:04.278617 OUT Elapsed: 0s
+14:38:04.278617 [95mSKETCH REBUILD: : Sending full-text 'didChange' notification to Clangd[0m
+14:38:04.278617 [91mIDE     LS --> Clangd NOTIF textDocument/didChange[0m
+14:38:04.278617 OUT Elapsed: 0s
+14:38:04.278617 [95mSKETCH REBUILD: : [93mwrite-unlocked[0m[0m
+14:38:04.278617 [92mIDE <-- LS NOTIF $/progress[0m
+14:38:04.278617 OUT Elapsed: 0s
+14:38:04.356746 IN Elapsed: 5.5183243s
+14:38:04.356746 [91mIDE     LS <-- Clangd REQU window/workDoneProgress/create 1[0m
+14:38:04.356746 [31mIDE     LS --> Clangd RESP window/workDoneProgress/create 1[0m
+14:38:04.356746 [92mIDE <-- LS REQU window/workDoneProgress/create 3[0m
+14:38:04.356746 OUT Elapsed: 0s
+14:38:04.356746 OUT Elapsed: 0s
+14:38:04.356746 IN Elapsed: 0s
+14:38:04.356746 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:38:04.356746 [91m                            $/progress: backgroundIndexProgress BEGIN indexing, 0.0%[0m
+14:38:04.356746 IN Elapsed: 0s
+14:38:04.356746 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:38:04.356746 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:38:04.356746 IN Elapsed: 1.9640863s
+14:38:04.356746 [32mIDE --> LS RESP window/workDoneProgress/create 3[0m
+14:38:04.356746 [92mIDE <-- LS NOTIF $/progress[0m
+14:38:04.356746 OUT Elapsed: 0s
+14:38:04.356746 [92mIDE <-- LS NOTIF $/progress[0m
+14:38:04.356746 OUT Elapsed: 0s
+14:38:04.403514 IN Elapsed: 46.7672ms
+14:38:04.403514 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:38:04.403514 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:38:04.403514 IN Elapsed: 0s
+14:38:04.403514 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:38:04.403514 [92mIDE <-- LS NOTIF $/progress[0m
+14:38:04.403514 [91m                            $/progress: backgroundIndexProgress END [0m
+14:38:04.403514 OUT Elapsed: 0s
+14:38:04.403514 [92mIDE <-- LS NOTIF $/progress[0m
+14:38:04.403514 OUT Elapsed: 0s
+14:38:13.464985 IN Elapsed: 9.1082345s
+14:38:13.464985 [92mIDE --> LS REQU textDocument/hover 3[0m
+14:38:13.464985 [92m                textDocument/hover 3: [93mread-locked[0m[0m
+14:38:13.465525 [92m                textDocument/hover 3: URI: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp[0m
+14:38:13.467095 [92m                textDocument/hover 3: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:15:50 -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:22:50[0m
+14:38:13.467095 [91mIDE     LS --> Clangd REQU textDocument/hover 4[0m
+14:38:13.467095 OUT Elapsed: 0s
+14:38:13.471482 IN Elapsed: 9.0679635s
+14:38:13.471482 [31mIDE     LS <-- Clangd RESP textDocument/hover 4[0m
+14:38:13.471482 [92m                textDocument/hover 3: null response[0m
+14:38:13.471482 [92m                textDocument/hover 3: [93mread-unlocked[0m[0m
+14:38:13.471482 [32mIDE <-- LS RESP textDocument/hover 3[0m
+14:38:13.471482 OUT Elapsed: 0s
+14:38:16.457350 IN Elapsed: 2.9858672s
+14:38:16.457350 [92mIDE --> LS REQU textDocument/hover 4[0m
+14:38:16.457350 [92m                textDocument/hover 4: [93mread-locked[0m[0m
+14:38:16.457350 [92m                textDocument/hover 4: URI: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp[0m
+14:38:16.459930 [92m                textDocument/hover 4: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:15:49 -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:22:49[0m
+14:38:16.459930 [91mIDE     LS --> Clangd REQU textDocument/hover 5[0m
+14:38:16.459930 OUT Elapsed: 0s
+14:38:16.464638 IN Elapsed: 2.993155s
+14:38:16.464638 [31mIDE     LS <-- Clangd RESP textDocument/hover 5[0m
+14:38:16.464638 [92m                textDocument/hover 4: null response[0m
+14:38:16.464638 [92m                textDocument/hover 4: [93mread-unlocked[0m[0m
+14:38:16.464638 [32mIDE <-- LS RESP textDocument/hover 4[0m
+14:38:16.464638 OUT Elapsed: 0s
+14:38:16.464638 IN Elapsed: 0s
+14:38:16.627703 IN Elapsed: 163.0651ms
+14:38:16.627855 [92mIDE --> LS REQU textDocument/hover 5[0m
+14:38:16.627993 [92m                textDocument/hover 5: [93mread-locked[0m[0m
+14:38:16.628219 [92m                textDocument/hover 5: URI: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp[0m
+14:38:16.630869 [92m                textDocument/hover 5: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:15:49 -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server774380856/build/sketch/Termometer_C-F.ino.cpp:22:49[0m
+14:38:16.630869 [91mIDE     LS --> Clangd REQU textDocument/hover 6[0m
+14:38:16.630869 OUT Elapsed: 0s
+14:38:16.632972 IN Elapsed: 168.3342ms
+14:38:16.632972 [31mIDE     LS <-- Clangd RESP textDocument/hover 6[0m
+14:38:16.632972 [92m                textDocument/hover 5: null response[0m
+14:38:16.632972 [92m                textDocument/hover 5: [93mread-unlocked[0m[0m
+14:38:16.632972 [32mIDE <-- LS RESP textDocument/hover 5[0m
+14:38:16.632972 OUT Elapsed: 0s
+
+
+
+
+
+
+
+Started logging.
+14:39:39.149126 Language server launched with arguments:
+14:39:39.149126   arg[0] = c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\arduino-language-server.exe
+14:39:39.149126   arg[1] = -clangd
+14:39:39.149126   arg[2] = c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\clangd.exe
+14:39:39.149126   arg[3] = -cli-daemon-addr
+14:39:39.149126   arg[4] = localhost:52885
+14:39:39.149126   arg[5] = -cli-daemon-instance
+14:39:39.149126   arg[6] = 1
+14:39:39.149126   arg[7] = -fqbn
+14:39:39.149126   arg[8] = arduino:avr:leonardo
+14:39:39.149126   arg[9] = -skip-libraries-discovery-on-rebuild
+14:39:39.149126   arg[10] = -board-name
+14:39:39.149126   arg[11] = Arduino Leonardo
+14:39:39.149126   arg[12] = -no-real-time-diagnostics
+14:39:39.149126   arg[13] = -log
+14:39:39.149126   arg[14] = -logpath
+14:39:39.149126   arg[15] = d:\Arduino_GitHub\Termometer\Termometer_C-F
+14:39:39.149726 logging to d:\Arduino_GitHub\Termometer\Termometer_C-F\inols.log
+14:39:39.152906 [97mLS: : Initial board configuration: arduino:avr:leonardo[0m
+14:39:39.152906 [97mLS: : arduino-language-server.exe Version: 0.0.0-git Commit:  Date: [0m
+14:39:39.152906 [97mLS: : Language server temp directory: C:\Users\рс\AppData\Local\Temp\arduino-language-server2684939168[0m
+14:39:39.153413 [97mLS: : Language server build path: C:\Users\рс\AppData\Local\Temp\arduino-language-server2684939168\build[0m
+14:39:39.153413 [97mLS: : Language server build sketch root: C:\Users\рс\AppData\Local\Temp\arduino-language-server2684939168\build\sketch[0m
+14:39:39.153413 [97mLS: : Language server FULL build path: C:\Users\рс\AppData\Local\Temp\arduino-language-server2684939168\fullbuild[0m
+14:39:39.153509 IN Elapsed: 19.8µs
+14:39:39.153509 [92mIDE --> LS REQU initialize 0[0m
+14:39:39.154590 [92m                initialize 0: [93mwrite-locked[0m[0m
+14:39:39.155112 [92m                initialize 0: [93mwrite-unlocked[0m[0m
+14:39:39.155112 [96mINIT --- : initializing workbench: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F[0m
+14:39:39.155112 [96mINIT --- : [93mread-locked[0m[0m
+14:39:39.155112 [96mINIT --- : [93mread-unlocked[0m[0m
+14:39:39.155666 [92m                initialize 0: initialization parameters: {"capabilities":{"textDocumentSync":{"openClose":true,"change":2,"save":{"includeText":true}},"completionProvider":{"triggerCharacters":[".","\u003c","\u003e",":","\"","/"],"allCommitCharacters":[" ","\t","(",")","[","]","{","}","\u003c","\u003e",":",";",",","+","-","/","*","%","^","\u0026","#","?",".","=","\"","'","|"],"completionItem":{}},"hoverProvider":{},"signatureHelpProvider":{"triggerCharacters":["(",","]},"definitionProvider":{},"documentHighlightProvider":{},"documentSymbolProvider":{},"codeActionProvider":{"codeActionKinds":["quickfix","refactor","info"]},"documentFormattingProvider":{},"documentRangeFormattingProvider":{},"documentOnTypeFormattingProvider":{"firstTriggerCharacter":"\n"},"renameProvider":{},"executeCommandProvider":{"commands":["clangd.applyFix","clangd.applyTweak"]},"workspaceSymbolProvider":{}},"serverInfo":{"name":"arduino-language-server","version":"0.0.0-git"}}[0m
+14:39:39.155666 [32mIDE <-- LS RESP initialize 0[0m
+14:39:39.155666 OUT Elapsed: 0s
+14:39:39.167228 IN Elapsed: 11.5613ms
+14:39:39.167296 [92mIDE --> LS NOTIF initialized[0m
+14:39:39.167296 [92m                 initialized: Notification is not propagated to clangd[0m
+14:39:39.167296 IN Elapsed: 0s
+14:39:39.167296 [92mIDE --> LS NOTIF textDocument/didOpen[0m
+14:39:39.167880 [92m                 textDocument/didOpen: [93mwrite-locked[0m[0m
+14:39:39.167880 [92m                 textDocument/didOpen: (throttled: waiting for clangd)[0m
+14:39:39.167880 [92m                 textDocument/didOpen: [93munlocked (waiting clangd)[0m[0m
+14:39:39.172542 [96mINIT --- : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server2684939168\\fullbuild",
+  "verbose": true,
+  "create_compilation_database_only": true
+}[0m
+14:39:40.748273 [96mINIT --- : Compile successful![0m
+14:39:40.771978 [96mINIT --- : Updated 'libraries.cache'. Copied: C:\Users\рс\AppData\Local\Temp\arduino-language-server2684939168\fullbuild\libraries.cache to C:\Users\рс\AppData\Local\Temp\arduino-language-server2684939168\build\libraries.cache[0m
+14:39:40.772012 [96mINIT --- : [93mread-locked[0m[0m
+14:39:40.772012 [96mINIT --- : [93mread-unlocked[0m[0m
+14:39:40.773615 [96mINIT --- : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server2684939168\\build",
+  "verbose": true,
+  "create_compilation_database_only": true,
+  "skip_libraries_discovery": true
+}[0m
+14:39:41.717172 [96mINIT --- : Compile successful![0m
+14:39:41.735445 [96mINIT --- : Arduino Data Dir -> c:\Users\рс\AppData\Local\Arduino15[0m
+14:39:41.738111 [96mINIT --- :     Starting clangd: c:\Users\рс\AppData\Local\Programs\Arduino IDE\resources\app\lib\backend\resources\clangd.exe -log=verbose --pch-storage=memory --compile-commands-dir=C:\Users\рс\AppData\Local\Temp\arduino-language-server2684939168\build -j 1 -query-driver=C:\Users\рс\AppData\Local\Arduino15\packages\**[0m
+14:39:41.744498 logging to d:\Arduino_GitHub\Termometer\Termometer_C-F\inols-clangd.log
+14:39:41.744498 logging to d:\Arduino_GitHub\Termometer\Termometer_C-F\inols-clangd-err.log
+14:39:41.745168 [91mIDE     LS --> Clangd REQU initialize 1[0m
+14:39:41.745168 OUT Elapsed: 0s
+14:39:41.779959 IN Elapsed: 35.4605ms
+14:39:41.779959 [31mIDE     LS <-- Clangd RESP initialize 1[0m
+14:39:41.780507 [96mINIT --- : clangd successfully started: {"capabilities":{"textDocumentSync":{"openClose":true,"change":2,"save":{}},"completionProvider":{"triggerCharacters":[".","\u003c","\u003e",":","\"","/","*"],"allCommitCharacters":[" ","\t","(",")","[","]","{","}","\u003c","\u003e",":",";",",","+","-","/","*","%","^","\u0026","#","?",".","=","\"","'","|"]},"hoverProvider":{},"signatureHelpProvider":{"triggerCharacters":["(",")","{","}","\u003c","\u003e",","]},"declarationProvider":{},"definitionProvider":{},"typeDefinitionProvider":{},"implementationProvider":{},"referencesProvider":{},"documentHighlightProvider":{},"documentSymbolProvider":{},"codeActionProvider":{"codeActionKinds":["quickfix","refactor","info"]},"documentLinkProvider":{},"documentFormattingProvider":{},"documentRangeFormattingProvider":{},"documentOnTypeFormattingProvider":{"firstTriggerCharacter":"\n"},"renameProvider":{"prepareProvider":true},"executeCommandProvider":{"commands":["clangd.applyFix","clangd.applyTweak"]},"selectionRangeProvider":{},"callHierarchyProvider":{},"semanticTokensProvider":{"legend":{"tokenTypes":["variable","variable","parameter","function","method","function","property","variable","class","interface","enum","enumMember","type","type","unknown","namespace","typeParameter","concept","type","macro","comment"],"tokenModifiers":["declaration","deprecated","deduced","readonly","static","abstract","virtual","dependentName","defaultLibrary","usedAsMutableReference","functionScope","classScope","fileScope","globalScope"]},"range":false,"full":{"delta":true}},"workspaceSymbolProvider":{}},"serverInfo":{"name":"clangd","version":"clangd version 14.0.0 windows x86_64-pc-windows-msvc"}}[0m
+14:39:41.780507 [91mIDE     LS --> Clangd NOTIF initialized[0m
+14:39:41.780507 OUT Elapsed: 0s
+14:39:41.780507 [96mINIT --- : Done initializing workbench[0m
+14:39:41.780507 [92m                 textDocument/didOpen: [93mlocked (waiting clangd)[0m[0m
+14:39:41.780507 [92m                 textDocument/didOpen: URI: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp[0m
+14:39:41.782119 [92m                 textDocument/didOpen: Increasing .ino tracked files count to 1[0m
+14:39:41.783127 [91mIDE     LS --> Clangd NOTIF textDocument/didOpen[0m
+14:39:41.783127 OUT Elapsed: 0s
+14:39:41.783127 [92m                 textDocument/didOpen: [93mwrite-unlocked[0m[0m
+14:39:41.783127 IN Elapsed: 0s
+14:39:41.783127 [92mIDE --> LS REQU textDocument/codeAction 1[0m
+14:39:41.783673 [92m                textDocument/codeAction 1: [93mread-locked[0m[0m
+14:39:41.783673 [92m                textDocument/codeAction 1: --> codeAction(file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:0:0)[0m
+14:39:41.783673 [92m                textDocument/codeAction 1: URI: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp[0m
+14:39:41.785295 [92m                textDocument/codeAction 1:     --> codeAction(file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:0:0)[0m
+14:39:41.785295 [91mIDE     LS --> Clangd REQU textDocument/codeAction 2[0m
+14:39:41.785295 OUT Elapsed: 0s
+14:39:41.786361 IN Elapsed: 6.4023ms
+14:39:41.786361 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:39:41.786361 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:39:41.791327 IN Elapsed: 4.9655ms
+14:39:41.791921 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:39:41.791921 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:39:41.795724 IN Elapsed: 3.8035ms
+14:39:41.795724 [91mIDE     LS <-- Clangd REQU window/workDoneProgress/create 0[0m
+14:39:41.795724 [31mIDE     LS --> Clangd RESP window/workDoneProgress/create 0[0m
+14:39:41.795724 [92mIDE <-- LS REQU window/workDoneProgress/create 1[0m
+14:39:41.795724 OUT Elapsed: 0s
+14:39:41.795724 OUT Elapsed: 0s
+14:39:41.795724 IN Elapsed: 0s
+14:39:41.795724 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:41.796270 [91m                            $/progress: backgroundIndexProgress BEGIN indexing, 0.0%[0m
+14:39:41.796270 IN Elapsed: 0s
+14:39:41.796270 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:41.796270 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:39:41.798999 IN Elapsed: 2.7287ms
+14:39:41.799617 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:41.799752 [91m                            $/progress: backgroundIndexProgress REPORT, 0/2, 0.0%[0m
+14:39:41.799752 IN Elapsed: 0s
+14:39:41.799752 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:41.799752 [91m                            $/progress: backgroundIndexProgress REPORT, 1/2, 50.0%[0m
+14:39:41.799752 IN Elapsed: 0s
+14:39:41.799752 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:41.800034 [91m                            $/progress: backgroundIndexProgress REPORT, 1/2, 50.0%[0m
+14:39:41.996122 IN Elapsed: 196.0739ms
+14:39:41.996122 [91mIDE     LS <-- Clangd NOTIF textDocument/publishDiagnostics[0m
+14:39:41.996122 [91m                            textDocument/publishDiagnostics: Ignored by configuration[0m
+14:39:41.996122 IN Elapsed: 0s
+14:39:41.996122 [31mIDE     LS <-- Clangd RESP textDocument/codeAction 2[0m
+14:39:41.996122 [92m                textDocument/codeAction 1: [93mread-unlocked[0m[0m
+14:39:41.996122 [32mIDE <-- LS RESP textDocument/codeAction 1[0m
+14:39:41.996122 OUT Elapsed: 0s
+14:39:41.996122 IN Elapsed: 0s
+14:39:41.996122 [92mIDE --> LS REQU textDocument/documentSymbol 2[0m
+14:39:41.996122 [92m                textDocument/documentSymbol 2: [93mread-locked[0m[0m
+14:39:41.997443 [92m                textDocument/documentSymbol 2: URI: file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino -> file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp[0m
+14:39:41.997443 [91mIDE     LS --> Clangd REQU textDocument/documentSymbol 3[0m
+14:39:41.997443 OUT Elapsed: 0s
+14:39:41.998062 IN Elapsed: 1.9395ms
+14:39:41.998062 [31mIDE     LS <-- Clangd RESP textDocument/documentSymbol 3[0m
+14:39:41.998620 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp (6 document symbols)[0m
+14:39:41.998620 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Variable 12:0-12:19[0m
+14:39:42.000271 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:12:0-12:19 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:10:0-10:19 (.ino)[0m
+14:39:42.001351 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:12:8-12:15 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:10:8-10:15 (.ino)[0m
+14:39:42.001351 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:39:42.001351 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Variable 13:0-13:30[0m
+14:39:42.002508 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:13:0-13:30 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:11:0-11:30 (.ino)[0m
+14:39:42.004133 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:13:18-13:20 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:11:18-11:20 (.ino)[0m
+14:39:42.004133 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:39:42.004133 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Function 16:0-16:12[0m
+14:39:42.005274 [92m                textDocument/documentSymbol 2: Range is in PREPROCESSED section of the sketch[0m
+14:39:42.005274 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:16:0-16:12 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:13:0-13:12 (.ino)[0m
+14:39:42.005274 [92m                textDocument/documentSymbol 2:     symbol is in the preprocessed section of the sketch.ino.cpp, skipping[0m
+14:39:42.005274 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Function 18:0-18:11[0m
+14:39:42.006930 [92m                textDocument/documentSymbol 2: Range is in PREPROCESSED section of the sketch[0m
+14:39:42.006930 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:18:0-18:11 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:18:0-18:11 (.ino)[0m
+14:39:42.006930 [92m                textDocument/documentSymbol 2:     symbol is in the preprocessed section of the sketch.ino.cpp, skipping[0m
+14:39:42.006930 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Function 20:0-23:1[0m
+14:39:42.008018 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:20:0-23:1 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:13:0-16:1 (.ino)[0m
+14:39:42.009094 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:20:5-20:10 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:13:5-13:10 (.ino)[0m
+14:39:42.009094 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:39:42.009094 [92m                textDocument/documentSymbol 2:   > convert SymbolKind:Function 25:0-38:1[0m
+14:39:42.010157 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:25:0-38:1 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:18:0-31:1 (.ino)[0m
+14:39:42.011242 [92m                textDocument/documentSymbol 2: Range: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp:25:5-25:9 -> file:///d%3A/Arduino_GitHub/Termometer/Termometer_C-F/Termometer_C-F.ino:18:5-18:9 (.ino)[0m
+14:39:42.011783 [92m                textDocument/documentSymbol 2: file:///c%3A/Users/%D1%80%D1%81/AppData/Local/Temp/arduino-language-server2684939168/build/sketch/Termometer_C-F.ino.cpp (0 document symbols)[0m
+14:39:42.011783 [92m                textDocument/documentSymbol 2: [93mread-unlocked[0m[0m
+14:39:42.011783 [32mIDE <-- LS RESP textDocument/documentSymbol 2[0m
+14:39:42.011783 OUT Elapsed: 0s
+14:39:42.011783 IN Elapsed: 0s
+14:39:42.011783 [32mIDE --> LS RESP window/workDoneProgress/create 1[0m
+14:39:42.011783 [92mIDE <-- LS NOTIF $/progress[0m
+14:39:42.011783 OUT Elapsed: 0s
+14:39:42.012317 [92mIDE <-- LS NOTIF $/progress[0m
+14:39:42.012344 OUT Elapsed: 26.5µs
+14:39:42.370695 IN Elapsed: 372.6337ms
+14:39:42.371269 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:42.371269 [91m                            $/progress: backgroundIndexProgress END [0m
+14:39:42.371269 [92mIDE <-- LS NOTIF $/progress[0m
+14:39:42.371269 OUT Elapsed: 0s
+14:39:45.315274 IN Elapsed: 3.3034896s
+14:39:45.315902 [92mIDE --> LS NOTIF ino/didCompleteBuild[0m
+14:39:45.316445 [92m                 ino/didCompleteBuild: [93mwrite-locked[0m[0m
+14:39:45.320170 [92m                 ino/didCompleteBuild: Updated 'libraries.cache'. Copied: C:\Users\рс\AppData\Local\arduino\sketches\08D576A186367CE7614D1667B9F08A0E\libraries.cache to C:\Users\рс\AppData\Local\Temp\arduino-language-server2684939168\build\libraries.cache[0m
+14:39:45.320170 [92m                 ino/didCompleteBuild: [93mwrite-unlocked[0m[0m
+14:39:46.323809 [95mSKETCH REBUILD: : Sketch rebuild started[0m
+14:39:46.323809 [92mIDE <-- LS REQU window/workDoneProgress/create 2[0m
+14:39:46.323809 [95mSKETCH REBUILD: : [93mread-locked[0m[0m
+14:39:46.324029 OUT Elapsed: 220.3µs
+14:39:46.324029 [95mSKETCH REBUILD: : [93mread-unlocked[0m[0m
+14:39:46.324538 IN Elapsed: 1.0043671s
+14:39:46.324565 [32mIDE --> LS RESP window/workDoneProgress/create 2[0m
+14:39:46.324565 [92mIDE <-- LS NOTIF $/progress[0m
+14:39:46.324565 OUT Elapsed: 0s
+14:39:46.332182 [95mSKETCH REBUILD: : Running build with: {
+  "instance": {
+    "id": 1
+  },
+  "fqbn": "arduino:avr:leonardo",
+  "sketch_path": "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F",
+  "build_path": "C:\\Users\\рс\\AppData\\Local\\Temp\\arduino-language-server2684939168\\build",
+  "verbose": true,
+  "create_compilation_database_only": true,
+  "source_override": {
+    "Termometer_C-F.ino": "/*1янв25\r\nТермометр C / F\r\nПроект 9\r\nScriptor42\r\n*/\r\n/*Сборный скетч */\r\n\r\n#include \"OneWire.h\"\r\n#include \"DallasTemperature.h\"\r\n \r\nOneWire oneWire(10);  // Порт подключения датчиков\r\nDallasTemperature ds(\u0026oneWire);\r\n\r\nvoid setup() {\r\n  Serial.begin(9600);   // Инициализация монитора порта\r\n  ds.begin();                 // Инициализация датчика ds18b20\r\n}\r\n\r\nvoid loop() {\r\n\r\nds.requestTemperatures();\r\nSerial.print(\"Celsius temperature: \");\r\n  // \"Температура в Цельсиях: \"\r\n  // Почему \"byIndex\"? к одной шине может быть подключено \r\n  // больше одного датчика; самое первое устройство на шине - это \"0\":\r\n  //float temperatureC = ds.getTempCByIndex(0);\r\n  Serial.print(ds.getTempCByIndex(0));\r\n  Serial.print(\" - Fahrenheit temperature: \");\r\n  //  \" - Температура в Фаренгейтах: \"\r\n  Serial.println(ds.getTempFByIndex(0));\r\n  delay(1000);\r\n}"
+  },
+  "skip_libraries_discovery": true
+}[0m
+14:39:48.006267 [95mSKETCH REBUILD: : Compile successful![0m
+14:39:48.021937 [95mSKETCH REBUILD: : [93mwrite-locked[0m[0m
+14:39:48.023541   > Current sketchmapper content:
+14:39:48.023541   0: #include <Arduino.h>                                         | /not-ino:0                                         
+14:39:48.023541   1: #line 1 "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F\\Ter | /not-ino:0                                         
+14:39:48.023541   2: /*1янв25                                                     | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:0                          
+14:39:48.023541   3: Термометр C / F                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:1                          
+14:39:48.023541   4: Проект 9                                                     | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:2                          
+14:39:48.023541   5: Scriptor42                                                   | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:3                          
+14:39:48.023541   6: */                                                           | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:4                          
+14:39:48.023541   7: /*Сборный скетч */                                           | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:5                          
+14:39:48.023541   8:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:6                          
+14:39:48.023541   9: #include "OneWire.h"                                         | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:7                          
+14:39:48.023541  10: #include "DallasTemperature.h"                               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:8                          
+14:39:48.023541  11:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:9                          
+14:39:48.023541  12: OneWire oneWire(10);  // Порт подключения д�                 | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:10                          
+14:39:48.023541  13: DallasTemperature ds(&oneWire);                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:11                          
+14:39:48.023541  14:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:12                          
+14:39:48.023541  15: #line 14 "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F\\Te | /not-ino:0                                         
+14:39:48.023541  16: void setup();                                                | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:13 D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:13
+14:39:48.023541  17: #line 19 "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F\\Te | /not-ino:0                                         
+14:39:48.023541  18: void loop();                                                 | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:18 D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:18
+14:39:48.023541  19: #line 14 "D:\\Arduino_GitHub\\Termometer\\Termometer_C-F\\Te | /not-ino:0                                         
+14:39:48.023541  20: void setup() {                                               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:13                          
+14:39:48.023541  21:   Serial.begin(9600);   // Инициализация мон                 | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:14                          
+14:39:48.023541  22:   ds.begin();                 // Инициализация               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:15                          
+14:39:48.023541  23: }                                                            | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:16                          
+14:39:48.023541  24:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:17                          
+14:39:48.023541  25: void loop() {                                                | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:18                          
+14:39:48.023541  26:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:19                          
+14:39:48.023541  27: ds.requestTemperatures();                                    | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:20                          
+14:39:48.023541  28: Serial.print("Celsius temperature: ");                       | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:21                          
+14:39:48.023541  29:   // "Температура в Цельсиях: "                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:22                          
+14:39:48.023541  30:   // Почему "byIndex"? к одной шине може                     | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:23                          
+14:39:48.023541  31:   // больше одного датчика; самое п                          | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:24                          
+14:39:48.023541  32:   //float temperatureC = ds.getTempCByIndex(0);              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:25                          
+14:39:48.023541  33:   Serial.print(ds.getTempCByIndex(0));                       | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:26                          
+14:39:48.023541  34:   Serial.print(" - Fahrenheit temperature: ");               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:27                          
+14:39:48.023541  35:   //  " - Температура в Фаренгейтах:                         | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:28                          
+14:39:48.023541  36:   Serial.println(ds.getTempFByIndex(0));                     | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:29                          
+14:39:48.023541  37:   delay(1000);                                               | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:30                          
+14:39:48.023541  38: }                                                            | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:31                          
+14:39:48.024048  39:                                                              | D:\Arduino_GitHub\Termometer\Termometer_C-F\Termometer_C-F.ino:32                          
+14:39:48.024067 [95mSKETCH REBUILD: : Sending 'didSave' notification to Clangd[0m
+14:39:48.024067 [91mIDE     LS --> Clangd NOTIF textDocument/didSave[0m
+14:39:48.024067 OUT Elapsed: 0s
+14:39:48.024067 [95mSKETCH REBUILD: : Sending full-text 'didChange' notification to Clangd[0m
+14:39:48.024067 [91mIDE     LS --> Clangd NOTIF textDocument/didChange[0m
+14:39:48.024067 OUT Elapsed: 0s
+14:39:48.024067 [95mSKETCH REBUILD: : [93mwrite-unlocked[0m[0m
+14:39:48.024067 [92mIDE <-- LS NOTIF $/progress[0m
+14:39:48.024067 OUT Elapsed: 0s
+14:39:48.099539 IN Elapsed: 5.728267s
+14:39:48.099680 [91mIDE     LS <-- Clangd REQU window/workDoneProgress/create 1[0m
+14:39:48.099680 [31mIDE     LS --> Clangd RESP window/workDoneProgress/create 1[0m
+14:39:48.099680 OUT Elapsed: 0s
+14:39:48.099680 [92mIDE <-- LS REQU window/workDoneProgress/create 3[0m
+14:39:48.099680 OUT Elapsed: 0s
+14:39:48.099680 IN Elapsed: 0s
+14:39:48.100010 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:48.100108 [91m                            $/progress: backgroundIndexProgress BEGIN indexing, 0.0%[0m
+14:39:48.100143 IN Elapsed: 0s
+14:39:48.100143 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:48.100143 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:39:48.100143 IN Elapsed: 1.7755773s
+14:39:48.100143 [32mIDE --> LS RESP window/workDoneProgress/create 3[0m
+14:39:48.100143 [92mIDE <-- LS NOTIF $/progress[0m
+14:39:48.100656 OUT Elapsed: 513.1µs
+14:39:48.100688 [92mIDE <-- LS NOTIF $/progress[0m
+14:39:48.100688 OUT Elapsed: 0s
+14:39:48.142721 IN Elapsed: 42.5776ms
+14:39:48.142721 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:48.142721 [91m                            $/progress: backgroundIndexProgress REPORT, 0/1, 0.0%[0m
+14:39:48.142721 IN Elapsed: 0s
+14:39:48.142721 [91mIDE     LS <-- Clangd NOTIF $/progress[0m
+14:39:48.142721 [92mIDE <-- LS NOTIF $/progress[0m
+14:39:48.142721 [91m                            $/progress: backgroundIndexProgress END [0m
+14:39:48.142721 OUT Elapsed: 0s
+14:39:48.142721 [92mIDE <-- LS NOTIF $/progress[0m
+14:39:48.142721 OUT Elapsed: 0s
