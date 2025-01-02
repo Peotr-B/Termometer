@@ -19,9 +19,8 @@ void setup() {
 void loop() {
 
 ds.requestTemperatures();
-  float temperatureC = ds.getTempCByIndex(0);
   Serial.print("Temperature: ");
-  Serial.print(temperatureC);
+  Serial.print(ds.getTempCByIndex(0));
   Serial.println(" °C");
   delay(1000);
 }
